@@ -1,0 +1,198 @@
+[
+    {
+        "english": "What is your skincare routine?",
+        "arabic": "ما هي روتين العناية بالبشرة الخاص بك؟"
+    },
+    {
+        "english": "How often should I exfoliate my skin?",
+        "arabic": "كم مرة يجب أن أقشر بشرتي؟"
+    },
+    {
+        "english": "Moisturizing is essential for healthy skin.",
+        "arabic": "الترطيب ضروري للبشرة الصحية."
+    },
+    {
+        "english": "What products do you recommend for oily skin?",
+        "arabic": "ما هي المنتجات التي توصي بها للبشرة الدهنية؟"
+    },
+    {
+        "english": "Always apply sunscreen before going outside.",
+        "arabic": "دائمًا ضع واقي الشمس قبل الخروج."
+    },
+    {
+        "english": "How can I reduce dark circles under my eyes?",
+        "arabic": "كيف يمكنني تقليل الهالات السوداء تحت عيني؟"
+    },
+    {
+        "english": "What is the best way to remove makeup?",
+        "arabic": "ما هي أفضل طريقة لإزالة المكياج؟"
+    },
+    {
+        "english": "Hydration is key for glowing skin.",
+        "arabic": "الترطيب هو المفتاح لبشرة متألقة."
+    },
+    {
+        "english": "How can I treat acne effectively?",
+        "arabic": "كيف يمكنني علاج حب الشباب بفعالية؟"
+    },
+    {
+        "english": "What ingredients should I look for in a moisturizer?",
+        "arabic": "ما هي المكونات التي يجب أن أبحث عنها في المرطب؟"
+    },
+    {
+        "english": "How do I choose the right foundation for my skin tone?",
+        "arabic": "كيف أختار الأساس المناسب للون بشرتي؟"
+    },
+    {
+        "english": "What are the benefits of using a facial mask?",
+        "arabic": "ما هي فوائد استخدام قناع الوجه؟"
+    },
+    {
+        "english": "How can I prevent wrinkles?",
+        "arabic": "كيف يمكنني منع التجاعيد؟"
+    },
+    {
+        "english": "What is the importance of a nighttime skincare routine?",
+        "arabic": "ما هي أهمية روتين العناية بالبشرة الليلي؟"
+    },
+    {
+        "english": "What are the best practices for anti-aging skincare?",
+        "arabic": "ما هي أفضل الممارسات للعناية بالبشرة المضادة للشيخوخة؟"
+    },
+    {
+        "english": "How do I get rid of blackheads?",
+        "arabic": "كيف أتخلص من الرؤوس السوداء؟"
+    },
+    {
+        "english": "What is the role of vitamin C in skincare?",
+        "arabic": "ما هو دور فيتامين سي في العناية بالبشرة؟"
+    },
+    {
+        "english": "How can I soothe irritated skin?",
+        "arabic": "كيف يمكنني تهدئة البشرة المتهيجة؟"
+    },
+    {
+        "english": "What are the benefits of using a toner?",
+        "arabic": "ما هي فوائد استخدام التونر؟"
+    },
+    {
+        "english": "How do I know if a skincare product is right for me?",
+        "arabic": "كيف أعرف إذا كان منتج العناية بالبشرة مناسب لي؟"
+    },
+    {
+        "english": "What are the signs of sensitive skin?",
+        "arabic": "ما هي علامات البشرة الحساسة؟"
+    },
+    {
+        "english": "How often should I get a facial?",
+        "arabic": "كم مرة يجب أن أحصل على علاج للوجه؟"
+    },
+    {
+        "english": "What is the best way to treat dry skin?",
+        "arabic": "ما هي أفضل طريقة لعلاج البشرة الجافة؟"
+    },
+    {
+        "english": "How can I minimize the appearance of pores?",
+        "arabic": "كيف يمكنني تقليل مظهر المسام؟"
+    },
+    {
+        "english": "What are the benefits of using natural skincare products?",
+        "arabic": "ما هي فوائد استخدام منتجات العناية بالبشرة الطبيعية؟"
+    },
+    {
+        "english": "How can I achieve a radiant complexion?",
+        "arabic": "كيف يمكنني الحصول على بشرة مشرقة؟"
+    },
+    {
+        "english": "What is the best way to treat hyperpigmentation?",
+        "arabic": "ما هي أفضل طريقة لعلاج فرط التصبغ؟"
+    },
+    {
+        "english": "What should I avoid in skincare products if I have sensitive skin?",
+        "arabic": "ما الذي يجب أن أتجنبه في منتجات العناية بالبشرة إذا كانت بشرتي حساسة؟"
+    },
+    {
+        "english": "How does diet affect skin health?",
+        "arabic": "كيف يؤثر النظام الغذائي على صحة البشرة؟"
+    },
+    {
+        "english": "What is the best way to deal with puffy eyes?",
+        "arabic": "ما هي أفضل طريقة للتعامل مع انتفاخ العينين؟"
+    },
+    {
+        "english": "What is a skincare regimen for combination skin?",
+        "arabic": "ما هو نظام العناية بالبشرة للبشرة المختلطة؟"
+    },
+    {
+        "english": "How can I protect my skin from pollution?",
+        "arabic": "كيف يمكنني حماية بشرتي من التلوث؟"
+    },
+    {
+        "english": "What are the advantages of using a face serum?",
+        "arabic": "ما هي مزايا استخدام سيروم الوجه؟"
+    },
+    {
+        "english": "How can I reduce redness on my face?",
+        "arabic": "كيف يمكنني تقليل الاحمرار على وجهي؟"
+    },
+    {
+        "english": "What are the benefits of using a jade roller?",
+        "arabic": "ما هي فوائد استخدام دحرجة اليشم؟"
+    },
+    {
+        "english": "How can I achieve smooth skin?",
+        "arabic": "كيف يمكنني الحصول على بشرة ناعمة؟"
+    },
+    {
+        "english": "What are the common causes of acne?",
+        "arabic": "ما هي الأسباب الشائعة لحب الشباب؟"
+    },
+    {
+        "english": "How can I treat sunburn?",
+        "arabic": "كيف يمكنني علاج حروق الشمس؟"
+    },
+    {
+        "english": "What is the best way to apply eye cream?",
+        "arabic": "ما هي أفضل طريقة لوضع كريم العين؟"
+    },
+    {
+        "english": "How do I choose the right skincare products?",
+        "arabic": "كيف أختار منتجات العناية بالبشرة المناسبة؟"
+    },
+    {
+        "english": "What is the importance of double cleansing?",
+        "arabic": "ما هي أهمية التنظيف المزدوج؟"
+    },
+    {
+        "english": "How can I prevent skin aging?",
+        "arabic": "كيف يمكنني منع شيخوخة الجلد؟"
+    },
+    {
+        "english": "What are the benefits of using retinol?",
+        "arabic": "ما هي فوائد استخدام الريتينول؟"
+    },
+    {
+        "english": "How can I treat dark spots on my skin?",
+        "arabic": "كيف يمكنني علاج البقع الداكنة على بشرتي؟"
+    },
+    {
+        "english": "What is the best way to remove facial hair?",
+        "arabic": "ما هي أفضل طريقة لإزالة شعر الوجه؟"
+    },
+    {
+        "english": "What are the benefits of using a sheet mask?",
+        "arabic": "ما هي فوائد استخدام قناع الورقة؟"
+    },
+    {
+        "english": "How can I prevent my skin from drying out?",
+        "arabic": "كيف يمكنني منع جفاف بشرتي؟"
+    },
+    {
+        "english": "What are the best treatments for aging skin?",
+        "arabic": "ما هي أفضل العلاجات للبشرة المتقدمة في العمر؟"
+    },
+    {
+        "english": "How do I choose the right cleanser for my skin type?",
+        "arabic": "كيف أختار المنظف المناسب لنوع بشرتي؟"
+    }
+]

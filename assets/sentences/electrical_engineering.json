@@ -1,0 +1,198 @@
+[
+    {
+        "english": "What is electrical engineering?",
+        "arabic": "ما هي الهندسة الكهربائية؟"
+    },
+    {
+        "english": "Electrical engineering deals with the study of electricity and electronics.",
+        "arabic": "الهندسة الكهربائية تتعامل مع دراسة الكهرباء والإلكترونيات."
+    },
+    {
+        "english": "What are the applications of electrical engineering?",
+        "arabic": "ما هي تطبيقات الهندسة الكهربائية؟"
+    },
+    {
+        "english": "How do you design a circuit?",
+        "arabic": "كيف تصمم دائرة كهربائية؟"
+    },
+    {
+        "english": "What is the role of a transformer?",
+        "arabic": "ما هو دور المحول الكهربائي؟"
+    },
+    {
+        "english": "How does a generator work?",
+        "arabic": "كيف يعمل المولد الكهربائي؟"
+    },
+    {
+        "english": "What is the difference between AC and DC current?",
+        "arabic": "ما هو الفرق بين التيار المتردد (AC) والتيار المستمر (DC)؟"
+    },
+    {
+        "english": "What are the safety precautions for working with electricity?",
+        "arabic": "ما هي احتياطات السلامة عند العمل بالكهرباء؟"
+    },
+    {
+        "english": "How do you calculate electrical power?",
+        "arabic": "كيف تحسب القدرة الكهربائية؟"
+    },
+    {
+        "english": "What is the function of a capacitor?",
+        "arabic": "ما هو وظيفة المكثف الكهربائي؟"
+    },
+    {
+        "english": "How does an electric motor work?",
+        "arabic": "كيف يعمل المحرك الكهربائي؟"
+    },
+    {
+        "english": "What are the different types of electrical circuits?",
+        "arabic": "ما هي الأنواع المختلفة للدوائر الكهربائية؟"
+    },
+    {
+        "english": "What is Ohm's Law?",
+        "arabic": "ما هو قانون أوم؟"
+    },
+    {
+        "english": "How do you measure electrical resistance?",
+        "arabic": "كيف تقيس المقاومة الكهربائية؟"
+    },
+    {
+        "english": "What is the importance of grounding in electrical systems?",
+        "arabic": "ما هي أهمية التأريض في الأنظمة الكهربائية؟"
+    },
+    {
+        "english": "What are semiconductors?",
+        "arabic": "ما هي أشباه الموصلات؟"
+    },
+    {
+        "english": "How do you test an electrical circuit?",
+        "arabic": "كيف تختبر دائرة كهربائية؟"
+    },
+    {
+        "english": "What is the role of an electrical engineer?",
+        "arabic": "ما هو دور المهندس الكهربائي؟"
+    },
+    {
+        "english": "What is a microcontroller?",
+        "arabic": "ما هو المتحكم الدقيق؟"
+    },
+    {
+        "english": "What is the difference between a series and parallel circuit?",
+        "arabic": "ما هو الفرق بين الدائرة المتسلسلة والدائرة المتوازية؟"
+    },
+    {
+        "english": "How do you troubleshoot electrical problems?",
+        "arabic": "كيف تستكشف مشكلات الكهرباء؟"
+    },
+    {
+        "english": "What are the main components of a power supply?",
+        "arabic": "ما هي المكونات الرئيسية لمصدر الطاقة؟"
+    },
+    {
+        "english": "What is an integrated circuit (IC)?",
+        "arabic": "ما هي الدائرة المتكاملة (IC)؟"
+    },
+    {
+        "english": "How does a diode work?",
+        "arabic": "كيف يعمل الثنائي؟"
+    },
+    {
+        "english": "What is the function of an inductor?",
+        "arabic": "ما هي وظيفة المحث؟"
+    },
+    {
+        "english": "How do you design a PCB (Printed Circuit Board)?",
+        "arabic": "كيف تصمم لوحة دائرة مطبوعة (PCB)؟"
+    },
+    {
+        "english": "What are the uses of renewable energy in electrical engineering?",
+        "arabic": "ما هي استخدامات الطاقة المتجددة في الهندسة الكهربائية؟"
+    },
+    {
+        "english": "What is a relay and how does it work?",
+        "arabic": "ما هو المرحل وكيف يعمل؟"
+    },
+    {
+        "english": "What is the significance of the load in an electrical circuit?",
+        "arabic": "ما هي أهمية الحمل في الدائرة الكهربائية؟"
+    },
+    {
+        "english": "How does a battery store and release energy?",
+        "arabic": "كيف تخزن البطارية الطاقة وتفرغها؟"
+    },
+    {
+        "english": "What are the basic electrical units of measurement?",
+        "arabic": "ما هي الوحدات الأساسية للقياس الكهربائي؟"
+    },
+    {
+        "english": "What is the principle of electromagnetic induction?",
+        "arabic": "ما هو مبدأ الحث الكهرومغناطيسي؟"
+    },
+    {
+        "english": "How do you protect an electrical circuit from overload?",
+        "arabic": "كيف تحمي دائرة كهربائية من التحميل الزائد؟"
+    },
+    {
+        "english": "What is the purpose of an oscilloscope?",
+        "arabic": "ما هو الغرض من راسم الذبذبات؟"
+    },
+    {
+        "english": "How do you calculate the efficiency of an electrical device?",
+        "arabic": "كيف تحسب كفاءة الجهاز الكهربائي؟"
+    },
+    {
+        "english": "What are the different types of sensors used in electrical engineering?",
+        "arabic": "ما هي الأنواع المختلفة للمستشعرات المستخدمة في الهندسة الكهربائية؟"
+    },
+    {
+        "english": "How does wireless communication work?",
+        "arabic": "كيف تعمل الاتصالات اللاسلكية؟"
+    },
+    {
+        "english": "What is the function of an amplifier?",
+        "arabic": "ما هي وظيفة المضخم الكهربائي؟"
+    },
+    {
+        "english": "How do you convert AC to DC?",
+        "arabic": "كيف تحوّل التيار المتردد إلى تيار مستمر؟"
+    },
+    {
+        "english": "What is the importance of insulation in electrical systems?",
+        "arabic": "ما هي أهمية العزل في الأنظمة الكهربائية؟"
+    },
+    {
+        "english": "How do you ensure electrical safety in buildings?",
+        "arabic": "كيف تضمن السلامة الكهربائية في المباني؟"
+    },
+    {
+        "english": "What is the difference between passive and active components?",
+        "arabic": "ما هو الفرق بين المكونات السلبية والنشطة؟"
+    },
+    {
+        "english": "How does a solar panel generate electricity?",
+        "arabic": "كيف تولد اللوحة الشمسية الكهرباء؟"
+    },
+    {
+        "english": "What are the advantages of using LED lights?",
+        "arabic": "ما هي مميزات استخدام مصابيح LED؟"
+    },
+    {
+        "english": "What is the function of a circuit breaker?",
+        "arabic": "ما هي وظيفة قاطع الدائرة الكهربائية؟"
+    },
+    {
+        "english": "How do you design an electrical system for a new building?",
+        "arabic": "كيف تصمم نظامًا كهربائيًا لمبنى جديد؟"
+    },
+    {
+        "english": "What is the importance of power factor correction?",
+        "arabic": "ما هي أهمية تصحيح معامل القدرة؟"
+    },
+    {
+        "english": "How does an inverter work?",
+        "arabic": "كيف يعمل العاكس الكهربائي؟"
+    },
+    {
+        "english": "What is smart grid technology?",
+        "arabic": "ما هي تكنولوجيا الشبكة الذكية؟"
+    }
+]

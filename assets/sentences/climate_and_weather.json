@@ -1,0 +1,22 @@
+[
+    {"english": "It's a sunny day.", "arabic": "يوم مشمس."},
+    {"english": "It's raining.", "arabic": "الأمطار تهطل."},
+    {"english": "It's snowing.", "arabic": "ثلج."},
+    {"english": "It's windy.", "arabic": "رياح عاتية."},
+    {"english": "There's a storm.", "arabic": "عاصفة."},
+    {"english": "The temperature is high.", "arabic": "درجة الحرارة مرتفعة."},
+    {"english": "The temperature is low.", "arabic": "درجة الحرارة منخفضة."},
+    {"english": "There's a heat wave.", "arabic": "موجة حر."},
+    {"english": "There's a cold snap.", "arabic": "موجة برد."},
+    {"english": "The humidity is high.", "arabic": "الرطوبة مرتفعة."},
+    {"english": "There's a drought.", "arabic": "جفاف."},
+    {"english": "There's a flood.", "arabic": "فيضان."},
+    {"english": "There's a hurricane.", "arabic": "إعصار."},
+    {"english": "There's an earthquake.", "arabic": "زلزال."},
+    {"english": "Climate change is a serious problem.", "arabic": "التغير المناخي مشكلة خطيرة."},
+    {"english": "We need to protect the environment.", "arabic": "نحتاج إلى حماية البيئة."},
+    {"english": "Renewable energy is the future.", "arabic": "الطاقة المتجددة هي المستقبل."},
+    {"english": "The weather forecast predicts rain tomorrow.", "arabic": "توقعات الطقس تشير إلى هطول أمطار غدًا."},
+    {"english": "I'm checking the weather app.", "arabic": "أتحقق من تطبيق الطقس."},
+    {"english": "I'm wearing a coat because it's cold.", "arabic": "أرتدي معطفًا لأنه بارد."}
+  ]

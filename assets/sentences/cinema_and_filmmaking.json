@@ -1,0 +1,186 @@
+[
+    {
+        "english": "What is the plot of the movie?",
+        "arabic": "ما هو حبكة الفيلم؟"
+    },
+    {
+        "english": "Who is the director of this film?",
+        "arabic": "من هو مخرج هذا الفيلم؟"
+    },
+    {
+        "english": "The film won several awards.",
+        "arabic": "فاز الفيلم بعدة جوائز."
+    },
+    {
+        "english": "When does the movie premiere?",
+        "arabic": "متى يُعرض الفيلم لأول مرة؟"
+    },
+    {
+        "english": "The cinematography in this film is stunning.",
+        "arabic": "التصوير السينمائي في هذا الفيلم مذهل."
+    },
+    {
+        "english": "Who are the main actors in the movie?",
+        "arabic": "من هم الممثلون الرئيسيون في الفيلم؟"
+    },
+    {
+        "english": "The script was well-written.",
+        "arabic": "كان النص مكتوبًا بشكل جيد."
+    },
+    {
+        "english": "What genre does the film belong to?",
+        "arabic": "إلى أي نوع ينتمي الفيلم؟"
+    },
+    {
+        "english": "The movie has a powerful message.",
+        "arabic": "للفيلم رسالة قوية."
+    },
+    {
+        "english": "Where was the film shot?",
+        "arabic": "أين تم تصوير الفيلم؟"
+    },
+    {
+        "english": "The director's vision is clear in this scene.",
+        "arabic": "رؤية المخرج واضحة في هذا المشهد."
+    },
+    {
+        "english": "The film's soundtrack is memorable.",
+        "arabic": "موسيقى الفيلم التصويرية لا تُنسى."
+    },
+    {
+        "english": "Who wrote the screenplay?",
+        "arabic": "من كتب السيناريو؟"
+    },
+    {
+        "english": "The special effects are impressive.",
+        "arabic": "المؤثرات الخاصة مذهلة."
+    },
+    {
+        "english": "What was the budget for this film?",
+        "arabic": "ما كان ميزانية هذا الفيلم؟"
+    },
+    {
+        "english": "The film has received positive reviews.",
+        "arabic": "حصل الفيلم على تقييمات إيجابية."
+    },
+    {
+        "english": "The editing in this movie is seamless.",
+        "arabic": "التحرير في هذا الفيلم سلس."
+    },
+    {
+        "english": "The lead actor gave a remarkable performance.",
+        "arabic": "قدم الممثل الرئيسي أداءً رائعًا."
+    },
+    {
+        "english": "What is the runtime of the film?",
+        "arabic": "ما هو مدة عرض الفيلم؟"
+    },
+    {
+        "english": "The movie's dialogue is very engaging.",
+        "arabic": "حوار الفيلم جذاب للغاية."
+    },
+    {
+        "english": "The director's style is unique.",
+        "arabic": "أسلوب المخرج فريد."
+    },
+    {
+        "english": "The production design is exceptional.",
+        "arabic": "تصميم الإنتاج استثنائي."
+    },
+    {
+        "english": "The film explores deep themes.",
+        "arabic": "يستكشف الفيلم مواضيع عميقة."
+    },
+    {
+        "english": "The acting in this movie is top-notch.",
+        "arabic": "التمثيل في هذا الفيلم من الدرجة الأولى."
+    },
+    {
+        "english": "Who composed the film's score?",
+        "arabic": "من قام بتأليف موسيقى الفيلم؟"
+    },
+    {
+        "english": "The movie has a strong cast.",
+        "arabic": "الفيلم لديه طاقم قوي."
+    },
+    {
+        "english": "The film's pacing is perfect.",
+        "arabic": "إيقاع الفيلم مثالي."
+    },
+    {
+        "english": "What is the central conflict in the movie?",
+        "arabic": "ما هو الصراع المركزي في الفيلم؟"
+    },
+    {
+        "english": "The film was a box office hit.",
+        "arabic": "كان الفيلم ناجحًا في شباك التذاكر."
+    },
+    {
+        "english": "The director's use of color is noteworthy.",
+        "arabic": "استخدام المخرج للألوان جدير بالملاحظة."
+    },
+    {
+        "english": "The movie's climax is thrilling.",
+        "arabic": "ذروة الفيلم مثيرة."
+    },
+    {
+        "english": "The supporting actors did a great job.",
+        "arabic": "قام الممثلون الداعمون بعمل رائع."
+    },
+    {
+        "english": "The film's message resonates with many people.",
+        "arabic": "رسالة الفيلم تتردد لدى العديد من الناس."
+    },
+    {
+        "english": "The sound design adds to the film's atmosphere.",
+        "arabic": "يضيف تصميم الصوت إلى أجواء الفيلم."
+    },
+    {
+        "english": "The film's narrative is complex.",
+        "arabic": "سرد الفيلم معقد."
+    },
+    {
+        "english": "The director's previous films are also highly regarded.",
+        "arabic": "أفلام المخرج السابقة تعتبر أيضًا مرموقة للغاية."
+    },
+    {
+        "english": "The film received a standing ovation at the festival.",
+        "arabic": "حصل الفيلم على تصفيق حار في المهرجان."
+    },
+    {
+        "english": "The movie is based on a true story.",
+        "arabic": "الفيلم مبني على قصة حقيقية."
+    },
+    {
+        "english": "The cinematographer did an excellent job.",
+        "arabic": "قام المصور السينمائي بعمل ممتاز."
+    },
+    {
+        "english": "The film's themes are universal.",
+        "arabic": "مواضيع الفيلم عالمية."
+    },
+    {
+        "english": "The director's approach is very innovative.",
+        "arabic": "نهج المخرج مبتكر للغاية."
+    },
+    {
+        "english": "The film's visual effects are groundbreaking.",
+        "arabic": "المؤثرات البصرية في الفيلم رائدة."
+    },
+    {
+        "english": "The movie's plot twists are unexpected.",
+        "arabic": "التحولات في حبكة الفيلم غير متوقعة."
+    },
+    {
+        "english": "The film has a strong emotional impact.",
+        "arabic": "للفيلم تأثير عاطفي قوي."
+    },
+    {
+        "english": "The director collaborated closely with the actors.",
+        "arabic": "تعاون المخرج بشكل وثيق مع الممثلين."
+    },
+    {
+        "english": "The film explores the complexities of human relationships.",
+        "arabic": "يستكشف الفيلم تعقيدات العلاقات الإنسانية."
+    }
+]

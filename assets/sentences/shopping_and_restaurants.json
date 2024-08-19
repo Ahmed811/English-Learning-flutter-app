@@ -1,0 +1,166 @@
+[
+    {
+        "english": "How much does this cost?",
+        "arabic": "كم يكلف هذا؟"
+    },
+    {
+        "english": "Can I try this on?",
+        "arabic": "هل يمكنني تجربة هذا؟"
+    },
+    {
+        "english": "Do you have this in a different size?",
+        "arabic": "هل لديك هذا بحجم مختلف؟"
+    },
+    {
+        "english": "Where is the fitting room?",
+        "arabic": "أين غرفة القياس؟"
+    },
+    {
+        "english": "Is this on sale?",
+        "arabic": "هل هذا معروض للبيع؟"
+    },
+    {
+        "english": "Can I return this if it doesn't fit?",
+        "arabic": "هل يمكنني إرجاع هذا إذا لم يكن مناسبًا؟"
+    },
+    {
+        "english": "What are your store hours?",
+        "arabic": "ما هي ساعات عمل المتجر؟"
+    },
+    {
+        "english": "Where can I find the electronics section?",
+        "arabic": "أين يمكنني العثور على قسم الإلكترونيات؟"
+    },
+    {
+        "english": "Do you accept credit cards?",
+        "arabic": "هل تقبلون بطاقات الائتمان؟"
+    },
+    {
+        "english": "Can I get a receipt, please?",
+        "arabic": "هل يمكنني الحصول على إيصال من فضلك؟"
+    },
+    {
+        "english": "Is there a discount on this item?",
+        "arabic": "هل هناك خصم على هذا العنصر؟"
+    },
+    {
+        "english": "Where is the checkout counter?",
+        "arabic": "أين صندوق الدفع؟"
+    },
+    {
+        "english": "Can I get this gift-wrapped?",
+        "arabic": "هل يمكن تغليف هذا كهدية؟"
+    },
+    {
+        "english": "Do you have a loyalty program?",
+        "arabic": "هل لديكم برنامج ولاء؟"
+    },
+    {
+        "english": "Can I pay with cash?",
+        "arabic": "هل يمكنني الدفع نقدًا؟"
+    },
+    {
+        "english": "Can I get the bill, please?",
+        "arabic": "هل يمكنني الحصول على الفاتورة من فضلك؟"
+    },
+    {
+        "english": "I would like to make a reservation.",
+        "arabic": "أود إجراء حجز."
+    },
+    {
+        "english": "Do you have a table for two?",
+        "arabic": "هل لديكم طاولة لشخصين؟"
+    },
+    {
+        "english": "Can I see the menu, please?",
+        "arabic": "هل يمكنني رؤية القائمة من فضلك؟"
+    },
+    {
+        "english": "What are today's specials?",
+        "arabic": "ما هي الأطباق الخاصة اليوم؟"
+    },
+    {
+        "english": "I would like to order the steak.",
+        "arabic": "أود أن أطلب شريحة اللحم."
+    },
+    {
+        "english": "Can I have this without onions?",
+        "arabic": "هل يمكنني الحصول على هذا بدون بصل؟"
+    },
+    {
+        "english": "What do you recommend?",
+        "arabic": "ماذا توصي؟"
+    },
+    {
+        "english": "Is there a vegetarian option?",
+        "arabic": "هل هناك خيار نباتي؟"
+    },
+    {
+        "english": "Can I get a glass of water?",
+        "arabic": "هل يمكنني الحصول على كوب من الماء؟"
+    },
+    {
+        "english": "Do you have any desserts?",
+        "arabic": "هل لديكم أي حلويات؟"
+    },
+    {
+        "english": "Can I have the check, please?",
+        "arabic": "هل يمكنني الحصول على الفاتورة من فضلك؟"
+    },
+    {
+        "english": "Is service included?",
+        "arabic": "هل تشمل الخدمة؟"
+    },
+    {
+        "english": "Can I pay by card?",
+        "arabic": "هل يمكنني الدفع بالبطاقة؟"
+    },
+    {
+        "english": "Do you have any vegan dishes?",
+        "arabic": "هل لديكم أي أطباق نباتية؟"
+    },
+    {
+        "english": "I have a food allergy.",
+        "arabic": "لدي حساسية من الطعام."
+    },
+    {
+        "english": "Can I get this to go?",
+        "arabic": "هل يمكنني الحصول على هذا كوجبة جاهزة؟"
+    },
+    {
+        "english": "Is there a kids' menu?",
+        "arabic": "هل هناك قائمة طعام للأطفال؟"
+    },
+    {
+        "english": "Can I have more napkins, please?",
+        "arabic": "هل يمكنني الحصول على المزيد من المناديل من فضلك؟"
+    },
+    {
+        "english": "Do you have any gluten-free options?",
+        "arabic": "هل لديكم أي خيارات خالية من الغلوتين؟"
+    },
+    {
+        "english": "Can I speak to the manager?",
+        "arabic": "هل يمكنني التحدث إلى المدير؟"
+    },
+    {
+        "english": "Is there a smoking area?",
+        "arabic": "هل هناك منطقة تدخين؟"
+    },
+    {
+        "english": "Can I get a doggy bag?",
+        "arabic": "هل يمكنني الحصول على كيس للكلاب؟"
+    },
+    {
+        "english": "Do you offer free refills?",
+        "arabic": "هل تقدمون إعادة تعبئة مجانية؟"
+    },
+    {
+        "english": "Can I have the wine list?",
+        "arabic": "هل يمكنني الحصول على قائمة النبيذ؟"
+    },
+    {
+        "english": "Is there a restroom?",
+        "arabic": "هل هناك حمام؟"
+    }
+]

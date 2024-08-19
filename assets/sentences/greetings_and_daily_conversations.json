@@ -1,0 +1,166 @@
+[
+        {
+            "english": "Hello",
+            "arabic": "مرحبا"
+        },
+        {
+            "english": "Good morning",
+            "arabic": "صباح الخير"
+        },
+        {
+            "english": "Good afternoon",
+            "arabic": "مساء الخير"
+        },
+        {
+            "english": "Good evening",
+            "arabic": "مساء الخير"
+        },
+        {
+            "english": "How are you?",
+            "arabic": "كيف حالك؟"
+        },
+        {
+            "english": "I am fine, thank you.",
+            "arabic": "أنا بخير، شكرا."
+        },
+        {
+            "english": "What is your name?",
+            "arabic": "ما اسمك؟"
+        },
+        {
+            "english": "My name is John.",
+            "arabic": "اسمي جون."
+        },
+        {
+            "english": "Nice to meet you.",
+            "arabic": "تشرفت بلقائك."
+        },
+        {
+            "english": "How was your day?",
+            "arabic": "كيف كان يومك؟"
+        },
+        {
+            "english": "It was good, thank you.",
+            "arabic": "كان جيدا، شكرا."
+        },
+        {
+            "english": "What do you do?",
+            "arabic": "ماذا تعمل؟"
+        },
+        {
+            "english": "I am a teacher.",
+            "arabic": "أنا معلم."
+        },
+        {
+            "english": "Where are you from?",
+            "arabic": "من أين أنت؟"
+        },
+        {
+            "english": "I am from Egypt.",
+            "arabic": "أنا من مصر."
+        },
+        {
+            "english": "Do you speak English?",
+            "arabic": "هل تتحدث الإنجليزية؟"
+        },
+        {
+            "english": "Yes, I do.",
+            "arabic": "نعم، أفعل."
+        },
+        {
+            "english": "Can you help me?",
+            "arabic": "هل يمكنك مساعدتي؟"
+        },
+        {
+            "english": "Of course.",
+            "arabic": "بالطبع."
+        },
+        {
+            "english": "Thank you very much.",
+            "arabic": "شكرا جزيلا."
+        },
+        {
+            "english": "You're welcome.",
+            "arabic": "على الرحب والسعة."
+        },
+        {
+            "english": "How old are you?",
+            "arabic": "كم عمرك؟"
+        },
+        {
+            "english": "I am 25 years old.",
+            "arabic": "عمري 25 سنة."
+        },
+        {
+            "english": "What time is it?",
+            "arabic": "كم الساعة؟"
+        },
+        {
+            "english": "It is 3 PM.",
+            "arabic": "الساعة الثالثة مساءً."
+        },
+        {
+            "english": "Where do you live?",
+            "arabic": "أين تعيش؟"
+        },
+        {
+            "english": "I live in Cairo.",
+            "arabic": "أعيش في القاهرة."
+        },
+        {
+            "english": "What is your phone number?",
+            "arabic": "ما هو رقم هاتفك؟"
+        },
+        {
+            "english": "My phone number is 123-456-7890.",
+            "arabic": "رقم هاتفي هو 123-456-7890."
+        },
+        {
+            "english": "Do you like coffee?",
+            "arabic": "هل تحب القهوة؟"
+        },
+        {
+            "english": "Yes, I do.",
+            "arabic": "نعم، أحبها."
+        },
+        {
+            "english": "What is your favorite color?",
+            "arabic": "ما هو لونك المفضل؟"
+        },
+        {
+            "english": "My favorite color is blue.",
+            "arabic": "لوني المفضل هو الأزرق."
+        },
+        {
+            "english": "Do you have any siblings?",
+            "arabic": "هل لديك إخوة أو أخوات؟"
+        },
+        {
+            "english": "Yes, I have two brothers and one sister.",
+            "arabic": "نعم، لدي أخوان وأخت واحدة."
+        },
+        {
+            "english": "What are your hobbies?",
+            "arabic": "ما هي هواياتك؟"
+        },
+        {
+            "english": "I like reading and playing football.",
+            "arabic": "أحب القراءة ولعب كرة القدم."
+        },
+        {
+            "english": "How is the weather today?",
+            "arabic": "كيف هو الطقس اليوم؟"
+        },
+        {
+            "english": "It is sunny and warm.",
+            "arabic": "إنه مشمس ودافئ."
+        },
+        {
+            "english": "What do you like to do on weekends?",
+            "arabic": "ماذا تحب أن تفعل في عطلة نهاية الأسبوع؟"
+        },
+        {
+            "english": "I like to go hiking and watch movies.",
+            "arabic": "أحب الذهاب للمشي ومشاهدة الأفلام."
+        }
+    ]

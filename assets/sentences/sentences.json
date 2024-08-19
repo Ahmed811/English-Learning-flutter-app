@@ -1,0 +1,1076 @@
+[
+    {
+        "id": 1,
+        "title_arabic": "التحيات والمحادثات اليومية",
+        "title_english": "Greetings and Daily Conversations",
+        "description_arabic": "جمل تستخدم في التحيات والمحادثات اليومية مثل: 'Hello, how are you?' و 'Good morning!'.",
+        "file_name": "greetings_and_daily_conversations.json"
+    },
+    {
+        "id": 2,
+        "title_arabic": "العمل والمكتب",
+        "title_english": "Work and Office",
+        "description_arabic": "جمل متعلقة ببيئة العمل والمكتب مثل: 'Could you please send me the report?' و 'I have a meeting at 10 AM.'.",
+        "file_name": "work_and_office.json"
+    },
+    {
+        "id": 3,
+        "title_arabic": "السفر والمواصلات",
+        "title_english": "Travel and Transportation",
+        "description_arabic": "جمل تستخدم أثناء السفر والمواصلات مثل: 'Where is the nearest bus stop?' و 'I need to book a flight to New York.'.",
+        "file_name": "travel_and_transportation.json"
+    },
+    {
+        "id": 4,
+        "title_arabic": "التسوق والمطاعم",
+        "title_english": "Shopping and Restaurants",
+        "description_arabic": "جمل متعلقة بالتسوق وتناول الطعام مثل: 'How much does this cost?' و 'I would like to order a pizza.'.",
+        "file_name": "shopping_and_restaurants.json"
+    },
+    {
+        "id": 5,
+        "title_arabic": "الصحة واللياقة البدنية",
+        "title_english": "Health and Fitness",
+        "description_arabic": "جمل متعلقة بالصحة واللياقة البدنية مثل: 'I have a doctor's appointment.' و 'I go to the gym three times a week.'.",
+        "file_name": "health_and_fitness.json"
+    },
+    {
+        "id": 6,
+        "title_arabic": "التعليم والدراسة",
+        "title_english": "Education and Study",
+        "description_arabic": "جمل متعلقة بالتعليم والدراسة مثل: 'I am studying for my exams.' و 'Can you help me with this assignment?'.",
+        "file_name": "education_and_study.json"
+    },
+    {
+        "id": 7,
+        "title_arabic": "التكنولوجيا والإنترنت",
+        "title_english": "Technology and Internet",
+        "description_arabic": "جمل متعلقة بالتكنولوجيا والإنترنت مثل: 'I need to update my software.' و 'Can you send me the link to the website?'.",
+        "file_name": "technology_and_internet.json"
+    },
+    {
+        "id": 8,
+        "title_arabic": "الأسرة والأصدقاء",
+        "title_english": "Family and Friends",
+        "description_arabic": "جمل متعلقة بالأسرة والأصدقاء مثل: 'We are having a family gathering.' و 'I am going out with my friends tonight.'.",
+        "file_name": "family_and_friends.json"
+    },
+    {
+        "id": 9,
+        "title_arabic": "الهوايات والأنشطة الترفيهية",
+        "title_english": "Hobbies and Recreational Activities",
+        "description_arabic": "جمل متعلقة بالهوايات والأنشطة الترفيهية مثل: 'I enjoy reading books.' و 'We are planning a hiking trip this weekend.'.",
+        "file_name": "hobbies_and_recreational_activities.json"
+    },
+    {
+        "id": 10,
+        "title_arabic": "الأحداث والمناسبات",
+        "title_english": "Events and Celebrations",
+        "description_arabic": "جمل متعلقة بالأحداث والمناسبات مثل: 'We are celebrating our anniversary.' و 'I was invited to a wedding.'.",
+        "file_name": "events_and_celebrations.json"
+    },
+    {
+        "id": 11,
+        "title_arabic": "البنوك والشؤون المالية",
+        "title_english": "Banks and Financial Affairs",
+        "description_arabic": "جمل متعلقة بالمعاملات البنكية والشؤون المالية مثل: 'I need to open a bank account.' و 'Can you transfer this amount to my account?'",
+        "description_english": "Sentences related to banking transactions and financial affairs such as: 'I need to open a bank account.' and 'Can you transfer this amount to my account?'",
+        "file_name": "banks_and_financial_affairs.json"
+    },
+    {
+        "id": 12,
+        "title_arabic": "الرياضة والألعاب",
+        "title_english": "Sports and Games",
+        "description_arabic": "جمل متعلقة بالرياضة والألعاب مثل: 'I play soccer every weekend.' و 'What is the score of the game?'",
+        "description_english": "Sentences related to sports and games such as: 'I play soccer every weekend.' and 'What is the score of the game?'",
+        "file_name": "sports_and_games.json"
+    },
+    {
+        "id": 13,
+        "title_arabic": "الطقس والفصول",
+        "title_english": "Weather and Seasons",
+        "description_arabic": "جمل متعلقة بالطقس والفصول مثل: 'It’s going to rain today.' و 'The weather is very cold this winter.'",
+        "description_english": "Sentences related to weather and seasons such as: 'It’s going to rain today.' and 'The weather is very cold this winter.'",
+        "file_name": "weather_and_seasons.json"
+    },
+    {
+        "id": 14,
+        "title_arabic": "الأماكن والمعالم السياحية",
+        "title_english": "Places and Tourist Attractions",
+        "description_arabic": "جمل متعلقة بالأماكن والمعالم السياحية مثل: 'Where is the nearest museum?' و 'Can you recommend a good restaurant?'",
+        "description_english": "Sentences related to places and tourist attractions such as: 'Where is the nearest museum?' and 'Can you recommend a good restaurant?'",
+        "file_name": "places_and_tourist_attractions.json"
+    },
+    {
+        "id": 15,
+        "title_arabic": "الاستفسارات والإرشادات",
+        "title_english": "Inquiries and Directions",
+        "description_arabic": "جمل متعلقة بالاستفسارات والإرشادات مثل: 'How do I get to the city center?' و 'Can you show me the way to the train station?'",
+        "description_english": "Sentences related to inquiries and directions such as: 'How do I get to the city center?' and 'Can you show me the way to the train station?'",
+        "file_name": "inquiries_and_directions.json"
+    },
+    {
+        "id": 16,
+        "title_arabic": "الحياة اليومية والمنزل",
+        "title_english": "Daily Life and Home",
+        "description_arabic": "جمل متعلقة بالحياة اليومية والمنزل مثل: 'I need to clean the house.' و 'Dinner is ready.'",
+        "description_english": "Sentences related to daily life and home such as: 'I need to clean the house.' and 'Dinner is ready.'",
+        "file_name": "daily_life_and_home.json"
+    },
+    {
+        "id": 17,
+        "title_arabic": "العلاقات والشؤون الاجتماعية",
+        "title_english": "Relationships and Social Affairs",
+        "description_arabic": "جمل متعلقة بالعلاقات والشؤون الاجتماعية مثل: 'We need to talk.' و 'I appreciate your help.'",
+        "description_english": "Sentences related to relationships and social affairs such as: 'We need to talk.' and 'I appreciate your help.'",
+        "file_name": "relationships_and_social_affairs.json"
+    },
+    {
+        "id": 18,
+        "title_arabic": "الطوارئ والإسعافات الأولية",
+        "title_english": "Emergencies and First Aid",
+        "description_arabic": "جمل متعلقة بالطوارئ والإسعافات الأولية مثل: 'Call an ambulance!' و 'I need help, it's an emergency.'",
+        "description_english": "Sentences related to emergencies and first aid such as: 'Call an ambulance!' and 'I need help, it's an emergency.'",
+        "file_name": "emergencies_and_first_aid.json"
+    },
+    {
+        "id": 19,
+        "title_arabic": "الأمور القانونية",
+        "title_english": "Legal Matters",
+        "description_arabic": "جمل متعلقة بالأمور القانونية مثل: 'I need a lawyer.' و 'What are my rights?'",
+        "description_english": "Sentences related to legal matters such as: 'I need a lawyer.' and 'What are my rights?'",
+        "file_name": "legal_matters.json"
+    },
+    {
+        "id": 20,
+        "title_arabic": "الفنون والثقافة",
+        "title_english": "Arts and Culture",
+        "description_arabic": "جمل متعلقة بالفنون والثقافة مثل: 'I love going to art galleries.' و 'What is your favorite book?'",
+        "description_english": "Sentences related to arts and culture such as: 'I love going to art galleries.' and 'What is your favorite book?'",
+        "file_name": "arts_and_culture.json"
+    },
+    {
+        "id": 21,
+        "title_arabic": "الخدمات العامة",
+        "title_english": "Public Services",
+        "description_arabic": "جمل متعلقة بالخدمات العامة مثل: 'Where is the nearest post office?' و 'I need to pay my utility bill.'",
+        "description_english": "Sentences related to public services such as: 'Where is the nearest post office?' and 'I need to pay my utility bill.'",
+        "file_name": "public_services.json"
+    },
+    {
+        "id": 22,
+        "title_arabic": "العطلات والاحتفالات",
+        "title_english": "Holidays and Celebrations",
+        "description_arabic": "جمل متعلقة بالعطلات والاحتفالات مثل: 'Happy New Year!' و 'We are having a Christmas party.'",
+        "description_english": "Sentences related to holidays and celebrations such as: 'Happy New Year!' and 'We are having a Christmas party.'",
+        "file_name": "holidays_and_celebrations.json"
+    },
+    {
+        "id": 23,
+        "title_arabic": "وسائل الإعلام والترفيه",
+        "title_english": "Media and Entertainment",
+        "description_arabic": "جمل متعلقة بوسائل الإعلام والترفيه مثل: 'Did you watch the latest movie?' و 'I like listening to music.'",
+        "description_english": "Sentences related to media and entertainment such as: 'Did you watch the latest movie?' and 'I like listening to music.'",
+        "file_name": "media_and_entertainment.json"
+    },
+    {
+        "id": 24,
+        "title_arabic": "الطهي والمطبخ",
+        "title_english": "Cooking and Kitchen",
+        "description_arabic": "جمل متعلقة بالطهي والمطبخ مثل: 'I am baking a cake.' و 'Can you pass me the salt?'",
+        "description_english": "Sentences related to cooking and kitchen such as: 'I am baking a cake.' and 'Can you pass me the salt?'",
+        "file_name": "cooking_and_kitchen.json"
+    },
+    {
+        "id": 25,
+        "title_arabic": "البيئة والطبيعة",
+        "title_english": "Environment and Nature",
+        "description_arabic": "جمل متعلقة بالبيئة والطبيعة مثل: 'We need to protect the environment.' و 'I love hiking in the mountains.'",
+        "description_english": "Sentences related to environment and nature such as: 'We need to protect the environment.' and 'I love hiking in the mountains.'",
+        "file_name": "environment_and_nature.json"
+    },
+    {
+        "id": 26,
+        "title_arabic": "العلم والتكنولوجيا",
+        "title_english": "Science and Technology",
+        "description_arabic": "جمل متعلقة بالعلم والتكنولوجيا مثل: 'I am interested in space exploration.' و 'This new technology is amazing.'",
+        "description_english": "Sentences related to science and technology such as: 'I am interested in space exploration.' and 'This new technology is amazing.'",
+        "file_name": "science_and_technology.json"
+    },
+    {
+        "id": 27,
+        "title_arabic": "الأمور الشخصية",
+        "title_english": "Personal Matters",
+        "description_arabic": "جمل متعلقة بالأمور الشخصية مثل: 'I am feeling happy today.' و 'What are your hobbies?'",
+        "description_english": "Sentences related to personal matters such as: 'I am feeling happy today.' and 'What are your hobbies?'",
+        "file_name": "personal_matters.json"
+    },
+    {
+        "id": 28,
+        "title_arabic": "الأزياء والموضة",
+        "title_english": "Fashion and Style",
+        "description_arabic": "جمل متعلقة بالأزياء والموضة مثل: 'I love your dress.' و 'Where did you buy those shoes?'",
+        "description_english": "Sentences related to fashion and style such as: 'I love your dress.' and 'Where did you buy those shoes?'",
+        "file_name": "fashion_and_style.json"
+    },
+    {
+        "id": 29,
+        "title_arabic": "العمل التطوعي والخيري",
+        "title_english": "Volunteering and Charity",
+        "description_arabic": "جمل متعلقة بالعمل التطوعي والخيري مثل: 'I volunteer at a local shelter.' و 'We are organizing a charity event.'",
+        "description_english": "Sentences related to volunteering and charity such as: 'I volunteer at a local shelter.' and 'We are organizing a charity event.'",
+        "file_name": "volunteering_and_charity.json"
+    },
+    {
+        "id": 30,
+        "title_arabic": "الأدب والكتب",
+        "title_english": "Literature and Books",
+        "description_arabic": "جمل متعلقة بالأدب والكتب مثل: 'أنا أحب قراءة الروايات.' و 'الأدب يعزز التفكير النقدي.'",
+        "description_english": "Sentences related to literature and books such as: 'I love reading novels.' and 'Literature enhances critical thinking.'",
+        "file_name": "literature_and_books.json"
+    },
+    
+    
+   
+        {
+            "id": 38,
+            "title_arabic": "الرياضيات والعلوم",
+            "title_english": "Mathematics and Science",
+            "description_arabic": "جمل متعلقة بالرياضيات والعلوم مثل: 'I enjoy studying physics.' و 'Mathematics is a fundamental subject.'",
+            "description_english": "Sentences related to mathematics and science such as: 'I enjoy studying physics.' and 'Mathematics is a fundamental subject.'",
+            "file_name": "mathematics_and_science.json"
+        },
+        {
+            "id": 39,
+            "title_arabic": "الثقافة الغذائية",
+            "title_english": "Food Culture",
+            "description_arabic": "جمل متعلقة بالثقافة الغذائية مثل: 'I am a vegetarian.' و 'Healthy eating is very important.'",
+            "description_english": "Sentences related to food culture such as: 'I am a vegetarian.' and 'Healthy eating is very important.'",
+            "file_name": "food_culture.json"
+        },
+        {
+            "id": 40,
+            "title_arabic": "التخطيط المالي والادخار",
+            "title_english": "Financial Planning and Saving",
+            "description_arabic": "جمل متعلقة بالتخطيط المالي والادخار مثل: 'I need to save money for my vacation.' و 'Financial planning helps secure your future.'",
+            "description_english": "Sentences related to financial planning and saving such as: 'I need to save money for my vacation.' and 'Financial planning helps secure your future.'",
+            "file_name": "financial_planning_and_saving.json"
+        },
+        {
+            "id": 41,
+            "title_arabic": "الموسيقى والفنون المسرحية",
+            "title_english": "Music and Performing Arts",
+            "description_arabic": "جمل متعلقة بالموسيقى والفنون المسرحية مثل: 'I play the piano.' و 'The concert was amazing.'",
+            "description_english": "Sentences related to music and performing arts such as: 'I play the piano.' and 'The concert was amazing.'",
+            "file_name": "music_and_performing_arts.json"
+        },
+        {
+            "id": 42,
+            "title_arabic": "الديانات والمعتقدات",
+            "title_english": "Religions and Beliefs",
+            "description_arabic": "جمل متعلقة بالديانات والمعتقدات مثل: 'I am going to the church.' و 'What is your religious belief?'",
+            "description_english": "Sentences related to religions and beliefs such as: 'I am going to the church.' and 'What is your religious belief?'",
+            "file_name": "religions_and_beliefs.json"
+        },
+        {
+            "id": 43,
+            "title_arabic": "التخطيط الأسري",
+            "title_english": "Family Planning",
+            "description_arabic": "جمل متعلقة بالتخطيط الأسري مثل: 'We are planning to have a baby.' و 'Family planning is important for the future.'",
+            "description_english": "Sentences related to family planning such as: 'We are planning to have a baby.' and 'Family planning is important for the future.'",
+            "file_name": "family_planning.json"
+        },
+        {
+            "id": 44,
+            "title_arabic": "النقل والشحن",
+            "title_english": "Transportation and Shipping",
+            "description_arabic": "جمل متعلقة بالنقل والشحن مثل: 'I need to send this package.' و 'What is the shipping cost?'",
+            "description_english": "Sentences related to transportation and shipping such as: 'I need to send this package.' and 'What is the shipping cost?'",
+            "file_name": "transportation_and_shipping.json"
+        },
+        {
+            "id": 45,
+            "title_arabic": "إدارة الأزمات",
+            "title_english": "Crisis Management",
+            "description_arabic": "جمل متعلقة بإدارة الأزمات مثل: 'We need to handle this crisis.' و 'Crisis management is essential.'",
+            "description_english": "Sentences related to crisis management such as: 'We need to handle this crisis.' and 'Crisis management is essential.'",
+            "file_name": "crisis_management.json"
+        },
+        {
+            "id": 46,
+            "file_name": "engineering_and_architecture.json"
+        },
+        {
+            "id": 55,
+            "title_arabic": "الاقتصاد والتجارة",
+            "title_english": "Economics and Trade",
+            "description_arabic": "جمل متعلقة بالاقتصاد والتجارة مثل: 'The economy is growing.' و 'International trade is vital for the economy.'",
+            "description_english": "Sentences related to economics and trade such as: 'The economy is growing.' and 'International trade is vital for the economy.'",
+            "file_name": "economics_and_trade.json"
+        },
+        {
+            "id": 56,
+            "title_arabic": "العلاقات الدولية",
+            "title_english": "International Relations",
+            "description_arabic": "جمل متعلقة بالعلاقات الدولية مثل: 'Diplomacy is important for peace.' و 'International relations shape global policies.'",
+            "description_english": "Sentences related to international relations such as: 'Diplomacy is important for peace.' and 'International relations shape global policies.'",
+            "file_name": "international_relations.json"
+        },
+        {
+            "id": 57,
+            "title_arabic": "البرمجة وتطوير البرمجيات",
+            "title_english": "Programming and Software Development",
+            "description_arabic": "جمل متعلقة بالبرمجة وتطوير البرمجيات مثل: 'I am learning Python programming.' و 'Software development requires attention to detail.'",
+            "description_english": "Sentences related to programming and software development such as: 'I am learning Python programming.' and 'Software development requires attention to detail.'",
+            "file_name": "programming_and_software_development.json"
+        },
+        {
+            "id": 58,
+            "title_arabic": "الفنون القتالية والدفاع عن النفس",
+            "title_english": "Martial Arts and Self-Defense",
+            "description_arabic": "جمل متعلقة بالفنون القتالية والدفاع عن النفس مثل: 'I practice karate.' و 'Self-defense is a valuable skill.'",
+            "description_english": "Sentences related to martial arts and self-defense such as: 'I practice karate.' and 'Self-defense is a valuable skill.'",
+            "file_name": "martial_arts_and_self_defense.json"
+        },
+        {
+            "id": 59,
+            "title_arabic": "التصوير الفوتوغرافي",
+            "title_english": "Photography",
+            "description_arabic": "جمل متعلقة بالتصوير الفوتوغرافي مثل: 'I love taking photos.' و 'Photography captures beautiful moments.'",
+            "description_english": "Sentences related to photography such as: 'I love taking photos.' and 'Photography captures beautiful moments.'",
+            "file_name": "photography.json"
+        },
+        {
+            "id": 60,
+            "title_arabic": "المناخ والطقس",
+            "title_english": "Climate and Weather",
+            "description_arabic": "جمل متعلقة بالمناخ والطقس مثل: 'The weather is very hot today.' و 'Climate change is a global issue.'",
+            "description_english": "Sentences related to climate and weather such as: 'The weather is very hot today.' and 'Climate change is a global issue.'",
+            "file_name": "climate_and_weather.json"
+        },
+        {
+            "id": 61,
+            "title_arabic": "العمل التطوعي",
+            "title_english": "Volunteer Work",
+            "description_arabic": "جمل متعلقة بالعمل التطوعي مثل: 'I volunteer at the local shelter.' و 'We are organizing a community clean-up.'",
+            "description_english": "Sentences related to volunteer work such as: 'I volunteer at the local shelter.' and 'We are organizing a community clean-up.'",
+            "file_name": "volunteer_work.json"
+        },
+        {
+            "id": 62,
+            "title_arabic": "الرياضة والنشاط البدني",
+            "title_english": "Sports and Physical Activity",
+            "description_arabic": "جمل متعلقة بالرياضة والنشاط البدني مثل: 'I go jogging every morning.' و 'Do you play any sports?'",
+            "description_english": "Sentences related to sports and physical activity such as: 'I go jogging every morning.' and 'Do you play any sports?'",
+            "file_name": "sports_and_physical_activity.json"
+        },
+        {
+            "id": 63,
+            "title_arabic": "الفضاء والفلك",
+            "title_english": "Space and Astronomy",
+            "description_arabic": "جمل متعلقة بالفضاء والفلك مثل: 'I love stargazing.' و 'Astronomy is a fascinating subject.'",
+            "description_english": "Sentences related to space and astronomy such as: 'I love stargazing.' and 'Astronomy is a fascinating subject.'",
+            "file_name": "space_and_astronomy.json"
+        },
+        {
+            "id": 64,
+            "title_arabic": "التعليم الإلكتروني",
+            "title_english": "E-learning",
+            "description_arabic": "جمل متعلقة بالتعليم الإلكتروني مثل: 'I am taking an online course.' و 'E-learning platforms are very convenient.'",
+            "description_english": "Sentences related to e-learning such as: 'I am taking an online course.' and 'E-learning platforms are very convenient.'",
+            "file_name": "e_learning.json"
+        },
+        {
+            "id": 65,
+            "title_arabic": "العمل الحر",
+            "title_english": "Freelancing",
+            "description_arabic": "جمل متعلقة بالعمل الحر مثل: 'I work as a freelancer.' و 'Freelancing offers great flexibility.'",
+            "description_english": "Sentences related to freelancing such as: 'I work as a freelancer.' and 'Freelancing offers great flexibility.'",
+            "file_name": "freelancing.json"
+        },
+        {
+            "id": 66,
+            "title_arabic": "الصناعات اليدوية",
+            "title_english": "Handicrafts",
+            "description_arabic": "جمل متعلقة بالصناعات اليدوية مثل: 'Handmade crafts are unique.' و 'I enjoy pottery classes.'",
+            "description_english": "Sentences related to handicrafts such as: 'Handmade crafts are unique.' and 'I enjoy pottery classes.'",
+            "file_name": "handicrafts.json"
+        },
+        {
+            "id": 67,
+            "title_arabic": "الصحة الغذائية",
+            "title_english": "Nutritional Health",
+            "description_arabic": "جمل متعلقة بالصحة الغذائية مثل: 'I am following a healthy diet.' و 'Nutrition is key to a healthy life.'",
+            "description_english": "Sentences related to nutritional health such as: 'I am following a healthy diet.' and 'Nutrition is key to a healthy life.'",
+            "file_name": "nutritional_health.json"
+        },
+        {
+            "id": 68,
+            "title_arabic": "تطوير الذات",
+            "title_english": "Personal Development",
+            "description_arabic": "جمل متعلقة بتطوير الذات مثل: 'I am working on improving my skills.' و 'Personal development is important.'",
+            "description_english": "Sentences related to personal development such as: 'I am working on improving my skills.' and 'Personal development is important.'",
+            "file_name": "personal_development.json"
+        },
+        {
+            "id": 69,
+            "title_arabic": "الفنون المسرحية",
+            "title_english": "Performing Arts",
+            "description_arabic": "جمل متعلقة بالفنون المسرحية مثل: 'I love acting in plays.' و 'Theater is a great form of art.'",
+            "description_english": "Sentences related to performing arts such as: 'I love acting in plays.' and 'Theater is a great form of art.'",
+            "file_name": "performing_arts.json"
+        },
+        {
+            "id": 70,
+            "title_arabic": "الثقافة الشعبية",
+            "title_english": "Pop Culture",
+            "description_arabic": "جمل متعلقة بالثقافة الشعبية مثل: 'أنا معجب بأفلام مارفل.' و 'الموسيقى الشعبية مشهورة جداً.'",
+            "description_english": "Sentences related to pop culture such as: 'I am a fan of Marvel movies.' and 'Pop music is very popular.'",
+            "file_name": "pop_culture.json"
+        },
+            {
+                "id": 71,
+                "title_arabic": "حماية الحيوان",
+                "title_english": "Animal Protection",
+                "description_arabic": "جمل متعلقة بحماية الحيوان مثل: 'Animal conservation is crucial.' و 'We need to protect endangered species.'",
+                "description_english": "Sentences related to animal protection such as: 'Animal conservation is crucial.' and 'We need to protect endangered species.'",
+                "file_name": "animal_protection.json"
+            },
+            {
+                "id": 72,
+                "title_arabic": "الألعاب والفيديو جيم",
+                "title_english": "Games and Video Games",
+                "description_arabic": "جمل متعلقة بالألعاب والفيديو جيم مثل: 'I like playing video games.' و 'Gaming is a popular hobby.'",
+                "description_english": "Sentences related to games and video games such as: 'I like playing video games.' and 'Gaming is a popular hobby.'",
+                "file_name": "games_and_video_games.json"
+            },
+            {
+                "id": 73,
+                "title_arabic": "الصناعات الإبداعية",
+                "title_english": "Creative Industries",
+                "description_arabic": "جمل متعلقة بالصناعات الإبداعية مثل: 'Creative industries drive innovation.' و 'I work in the design sector.'",
+                "description_english": "Sentences related to creative industries such as: 'Creative industries drive innovation.' and 'I work in the design sector.'",
+                "file_name": "creative_industries.json"
+            },
+            {
+                "id": 74,
+                "title_arabic": "الطهي والمأكولات",
+                "title_english": "Cooking and Cuisine",
+                "description_arabic": "جمل متعلقة بالطهي والمأكولات مثل: 'I love experimenting with recipes.' و 'Cooking is a great way to relax.'",
+                "description_english": "Sentences related to cooking and cuisine such as: 'I love experimenting with recipes.' and 'Cooking is a great way to relax.'",
+                "file_name": "cooking_and_cuisine.json"
+            },
+            {
+                "id": 75,
+                "title_arabic": "الصحة العقلية",
+                "title_english": "Mental Health",
+                "description_arabic": "جمل متعلقة بالصحة العقلية مثل: 'Mental health awareness is important.' و 'I practice mindfulness daily.'",
+                "description_english": "Sentences related to mental health such as: 'Mental health awareness is important.' and 'I practice mindfulness daily.'",
+                "file_name": "mental_health.json"
+            },
+            {
+                "id": 76,
+                "title_arabic": "التصميم الداخلي",
+                "title_english": "Interior Design",
+                "description_arabic": "جمل متعلقة بالتصميم الداخلي مثل: 'I am redecorating my living room.' و 'Interior design enhances home comfort.'",
+                "description_english": "Sentences related to interior design such as: 'I am redecorating my living room.' and 'Interior design enhances home comfort.'",
+                "file_name": "interior_design.json"
+            },
+            {
+                "id": 77,
+                "title_arabic": "السفر والمغامرة",
+                "title_english": "Travel and Adventure",
+                "description_arabic": "جمل متعلقة بالسفر والمغامرة مثل: 'I enjoy adventure travel.' و 'Exploring new places is exciting.'",
+                "description_english": "Sentences related to travel and adventure such as: 'I enjoy adventure travel.' and 'Exploring new places is exciting.'",
+                "file_name": "travel_and_adventure.json"
+            },
+            {
+                "id": 78,
+                "title_arabic": "التسوق والتجزئة",
+                "title_english": "Shopping and Retail",
+                "description_arabic": "جمل متعلقة بالتسوق والتجزئة مثل: 'I love shopping for clothes.' و 'Retail therapy can be fun.'",
+                "description_english": "Sentences related to shopping and retail such as: 'I love shopping for clothes.' and 'Retail therapy can be fun.'",
+                "file_name": "shopping_and_retail.json"
+            },
+            {
+                "id": 79,
+                "title_arabic": "العمل عن بعد",
+                "title_english": "Remote Work",
+                "description_arabic": "جمل متعلقة بالعمل عن بعد مثل: 'I work from home.' و 'Remote work offers flexibility.'",
+                "description_english": "Sentences related to remote work such as: 'I work from home.' and 'Remote work offers flexibility.'",
+                "file_name": "remote_work.json"
+            },
+            {
+                "id": 80,
+                "title_arabic": "البيئة البحرية",
+                "title_english": "Marine Environment",
+                "description_arabic": "جمل متعلقة بالبيئة البحرية مثل: 'Marine conservation is vital.' و 'I enjoy snorkeling and diving.'",
+                "description_english": "Sentences related to the marine environment such as: 'Marine conservation is vital.' and 'I enjoy snorkeling and diving.'",
+                "file_name": "marine_environment.json"
+            },
+            {
+                "id": 81,
+                "title_arabic": "الأدب والكتابة",
+                "title_english": "Literature and Writing",
+                "description_arabic": "جمل متعلقة بالأدب والكتابة مثل: 'I enjoy writing short stories.' و 'Literature expands the mind.'",
+                "description_english": "Sentences related to literature and writing such as: 'I enjoy writing short stories.' and 'Literature expands the mind.'",
+                "file_name": "literature_and_writing.json"
+            },
+            {
+                "id": 82,
+                "title_arabic": "البيئة والطبيعة",
+                "title_english": "Environment and Nature",
+                "description_arabic": "جمل متعلقة بالبيئة والطبيعة مثل: 'We should protect our forests.' و 'Nature is beautiful and inspiring.'",
+                "description_english": "Sentences related to environment and nature such as: 'We should protect our forests.' and 'Nature is beautiful and inspiring.'",
+                "file_name": "environment_and_nature.json"
+            },
+            {
+                "id": 83,
+                "title_arabic": "التسويق والإعلان",
+                "title_english": "Marketing and Advertising",
+                "description_arabic": "جمل متعلقة بالتسويق والإعلان مثل: 'Digital marketing is essential.' و 'Effective advertising drives sales.'",
+                "description_english": "Sentences related to marketing and advertising such as: 'Digital marketing is essential.' and 'Effective advertising drives sales.'",
+                "file_name": "marketing_and_advertising.json"
+            },
+            {
+                "id": 84,
+                "title_arabic": "الترجمة واللغات",
+                "title_english": "Translation and Languages",
+                "description_arabic": "جمل متعلقة بالترجمة واللغات مثل: 'Translation bridges cultures.' و 'I am learning multiple languages.'",
+                "description_english": "Sentences related to translation and languages such as: 'Translation bridges cultures.' and 'I am learning multiple languages.'",
+                "file_name": "translation_and_languages.json"
+            },
+            {
+                "id": 85,
+                "title_arabic": "الحوسبة السحابية",
+                "title_english": "Cloud Computing",
+                "description_arabic": "جمل متعلقة بالحوسبة السحابية مثل: 'Cloud computing offers scalability.' و 'We store data in the cloud.'",
+                "description_english": "Sentences related to cloud computing such as: 'Cloud computing offers scalability.' and 'We store data in the cloud.'",
+                "file_name": "cloud_computing.json"
+            },
+            {
+                "id": 86,
+                "title_arabic": "الأمن السيبراني",
+                "title_english": "Cybersecurity",
+                "description_arabic": "جمل متعلقة بالأمن السيبراني مثل: 'Cybersecurity is critical for businesses.' و 'Protect your data from breaches.'",
+                "description_english": "Sentences related to cybersecurity such as: 'Cybersecurity is critical for businesses.' and 'Protect your data from breaches.'",
+                "file_name": "cybersecurity.json"
+            },
+            {
+                "id": 87,
+                "title_arabic": "الهندسة المعمارية",
+                "title_english": "Architecture",
+                "description_arabic": "جمل متعلقة بالهندسة المعمارية مثل: 'Architectural design shapes our cities.' و 'I love modern architecture.'",
+                "description_english": "Sentences related to architecture such as: 'Architectural design shapes our cities.' and 'I love modern architecture.'",
+                "file_name": "architecture.json"
+            },
+            {
+                "id": 88,
+                "title_arabic": "العقارات والاستثمار",
+                "title_english": "Real Estate and Investment",
+                "description_arabic": "جمل متعلقة بالعقارات والاستثمار مثل: 'Real estate is a solid investment.' و 'We are buying a new house.'",
+                "description_english": "Sentences related to real estate and investment such as: 'Real estate is a solid investment.' and 'We are buying a new house.'",
+                "file_name": "real_estate_and_investment.json"
+            },
+            {
+                "id": 89,
+                "title_arabic": "التصوير والفوتوغرافيا",
+                "title_english": "Photography",
+                "description_arabic": "جمل متعلقة بالتصوير والفوتوغرافيا مثل: 'Photography is my hobby.' و 'I enjoy taking landscape photos.'",
+                "description_english": "Sentences related to photography such as: 'Photography is my hobby.' and 'I enjoy taking landscape photos.'",
+                "file_name": "photography.json"
+            },
+            {
+                "id": 90,
+                "title_arabic": "العلوم الطبيعية",
+                "title_english": "Natural Sciences",
+                "description_arabic": "جمل متعلقة بالعلوم الطبيعية مثل: 'Natural sciences explain the world around us.' و 'I am fascinated by biology.'",
+                "description_english": "Sentences related to natural sciences such as: 'Natural sciences explain the world around us.' and 'I am fascinated by biology.'",
+                "file_name": "natural_sciences.json"
+            },
+            {
+                "id": 91,
+                "title_arabic": "الاقتصاد المنزلي",
+                "title_english": "Home Economics",
+                "description_arabic": "جمل متعلقة بالاقتصاد المنزلي مثل: 'Home economics teaches valuable life skills.' و 'I am learning how to budget.'",
+                "description_english": "Sentences related to home economics such as: 'Home economics teaches valuable life skills.' and 'I am learning how to budget.'",
+                "file_name": "home_economics.json"
+            },
+            {
+                "id": 92,
+                "title_arabic": "الموسيقى والغناء",
+                "title_english": "Music and Singing",
+                "description_arabic": "جمل متعلقة بالموسيقى والغناء مثل: 'Music brings people together.' و 'I love singing in a choir.'",
+                "description_english": "Sentences related to music and singing such as: 'Music brings people together.' and 'I love singing in a choir.'",
+                "file_name": "music_and_singing.json"
+            },
+            {
+                "id": 93,
+                "title_arabic": "العلاقات الدولية",
+                "title_english": "International Relations",
+                "description_arabic": "جمل متعلقة بالعلاقات الدولية مثل: 'International relations affect global politics.' و 'Diplomacy is key to peace.'",
+                "description_english": "Sentences related to international relations such as: 'International relations affect global politics.' and 'Diplomacy is key to peace.'",
+                "file_name": "international_relations.json"
+            },
+            {
+                "id": 94,
+                "title_arabic": "الطبخ النباتي",
+                "title_english": "Vegan Cooking",
+                "description_arabic": "جمل متعلقة بالطبخ النباتي مثل: 'Vegan cooking is healthy and delicious.' و 'I am experimenting with new recipes.'",
+                "description_english": "Sentences related to vegan cooking such as: 'Vegan cooking is healthy and delicious.' and 'I am experimenting with new recipes.'",
+                "file_name": "vegan_cooking.json"
+            },
+            {
+                "id": 95,
+                "title_arabic": "التعليم الذاتي",
+                "title_english": "Self-Education",
+                "description_arabic": "جمل متعلقة بالتعليم الذاتي مثل: 'Self-education empowers individuals.' و 'I enjoy learning new things on my own.'",
+                "description_english": "Sentences related to self-education such as: 'Self-education empowers individuals.' and 'I enjoy learning new things on my own.'",
+                "file_name": "self_education.json"
+            },
+            {
+                "id": 96,
+                "title_arabic": "التدريب الرياضي",
+                "title_english": "Physical Training",
+                "description_arabic": "جمل متعلقة بالتدريب الرياضي مثل: 'Physical training improves health.' و 'I have a personal trainer.'",
+                "description_english": "Sentences related to physical training such as: 'Physical training improves health.' and 'I have a personal trainer.'",
+                "file_name": "physical_training.json"
+            },
+            {
+                "id": 97,
+                "title_arabic": "الصناعات الخضراء",
+                "title_english": "Green Industries",
+                "description_arabic": "جمل متعلقة بالصناعات الخضراء مثل: 'Green industries promote sustainability.' و 'We are investing in renewable energy.'",
+                "description_english": "Sentences related to green industries such as: 'Green industries promote sustainability.' and 'We are investing in renewable energy.'",
+                "file_name": "green_industries.json"
+            },
+            {
+                "id": 98,
+                "title_arabic": "العلاقات العامة",
+                "title_english": "Public Relations",
+                "description_arabic": "جمل متعلقة بالعلاقات العامة مثل: 'Public relations build a company's image.' و 'Effective communication is key.'",
+                "description_english": "Sentences related to public relations such as: 'Public relations build a company's image.' and 'Effective communication is key.'",
+                "file_name": "public_relations.json"
+            },
+            {
+                "id": 99,
+                "title_arabic": "الكتابة الإبداعية",
+                "title_english": "Creative Writing",
+                "description_arabic": "جمل متعلقة بالكتابة الإبداعية مثل: 'Creative writing fosters imagination.' و 'I am writing a novel.'",
+                "description_english": "Sentences related to creative writing such as: 'Creative writing fosters imagination.' and 'I am writing a novel.'",
+                "file_name": "creative_writing.json"
+            },
+            {
+                "id": 100,
+                "title_arabic": "التكنولوجيا الحيوية",
+                "title_english": "Biotechnology",
+                "description_arabic": "جمل متعلقة بالتكنولوجيا الحيوية مثل: 'Biotechnology advances medicine.' و 'We are researching genetic engineering.'",
+                "description_english": "Sentences related to biotechnology such as: 'Biotechnology advances medicine.' and 'We are researching genetic engineering.'",
+                "file_name": "biotechnology.json"
+            },
+            {
+                "id": 101,
+                "title_arabic": "الهندسة الكيميائية",
+                "title_english": "Chemical Engineering",
+                "description_arabic": "جمل متعلقة بالهندسة الكيميائية مثل: 'الهندسة الكيميائية تشمل عمليات معقدة.' و 'أنا أدرس التفاعلات الكيميائية.'",
+                "description_english": "Sentences related to chemical engineering such as: 'Chemical engineering involves complex processes.' and 'I am studying chemical reactions.'",
+                "file_name": "chemical_engineering.json"
+            },
+            {
+                "id": 102,
+                "title_arabic": "الطيران والطائرات",
+                "title_english": "Aviation and Aircraft",
+                "description_arabic": "جمل متعلقة بالطيران والطائرات مثل: 'صناعة الطيران تنمو بسرعة.' و 'أنا أحب الطيران والطائرات.'",
+                "description_english": "Sentences related to aviation and aircraft such as: 'Aviation industry is rapidly growing.' and 'I love flying and aircraft.'",
+                "file_name": "aviation_and_aircraft.json"
+            },
+            {
+                "id": 103,
+                "title_arabic": "الهندسة المدنية",
+                "title_english": "Civil Engineering",
+                "description_arabic": "جمل متعلقة بالهندسة المدنية مثل: 'الهندسة المدنية تتعلق بالبنية التحتية.' و 'نحن نبني جسراً جديداً.'",
+                "description_english": "Sentences related to civil engineering such as: 'Civil engineering is about infrastructure.' and 'We are building a new bridge.'",
+                "file_name": "civil_engineering.json"
+            },
+            {
+                "id": 104,
+                "title_arabic": "السينما وصناعة الأفلام",
+                "title_english": "Cinema and Filmmaking",
+                "description_arabic": "جمل متعلقة بالسينما وصناعة الأفلام مثل: 'أنا أستمتع بمشاهدة الأفلام.' و 'إنتاج الأفلام هو عملية تعاونية.'",
+                "description_english": "Sentences related to cinema and filmmaking such as: 'I enjoy watching movies.' and 'Film production is a collaborative process.'",
+                "file_name": "cinema_and_filmmaking.json"
+            },
+            {
+                "id": 105,
+                "title_arabic": "الأمن والسلامة",
+                "title_english": "Safety and Security",
+                "description_arabic": "جمل متعلقة بالأمن والسلامة مثل: 'البروتوكولات الأمنية ضرورية.' و 'يجب علينا ضمان سلامة مكان العمل.'",
+                "description_english": "Sentences related to safety and security such as: 'Safety protocols are essential.' and 'We must ensure workplace safety.'",
+                "file_name": "safety_and_security.json"
+            },
+            {
+                "id": 106,
+                "title_arabic": "الفنون القتالية",
+                "title_english": "Martial Arts",
+                "description_arabic": "جمل متعلقة بالفنون القتالية مثل: 'الفنون القتالية تعلم الانضباط.' و 'أنا أمارس الكاراتيه.'",
+                "description_english": "Sentences related to martial arts such as: 'Martial arts teach discipline.' and 'I practice karate.'",
+                "file_name": "martial_arts.json"
+            },
+            {
+                "id": 107,
+                "title_arabic": "التعليم الفني والمهني",
+                "title_english": "Technical and Vocational Education",
+                "description_arabic": "جمل متعلقة بالتعليم الفني والمهني مثل: 'التدريب المهني يعد لوظائف محددة.' و 'التعليم الفني عملي.'",
+                "description_english": "Sentences related to technical and vocational education such as: 'Vocational training prepares for specific jobs.' and 'Technical education is practical.'",
+                "file_name": "technical_and_vocational_education.json"
+            },
+            {
+                "id": 108,
+                "title_arabic": "الطب البيطري",
+                "title_english": "Veterinary Medicine",
+                "description_arabic": "جمل متعلقة بالطب البيطري مثل: 'الطب البيطري يساعد الحيوانات.' و 'أريد أن أصبح طبيباً بيطرياً.'",
+                "description_english": "Sentences related to veterinary medicine such as: 'Veterinary medicine helps animals.' and 'I want to become a vet.'",
+                "file_name": "veterinary_medicine.json"
+            },
+            {
+                "id": 109,
+                "title_arabic": "الاستدامة والطاقة المتجددة",
+                "title_english": "Sustainability and Renewable Energy",
+                "description_arabic": "جمل متعلقة بالاستدامة والطاقة المتجددة مثل: 'الطاقة المتجددة هي المستقبل.' و 'الاستدامة مهمة لكوكبنا.'",
+                "description_english": "Sentences related to sustainability and renewable energy such as: 'Renewable energy is the future.' and 'Sustainability is important for our planet.'",
+                "file_name": "sustainability_and_renewable_energy.json"
+            },
+            {
+                "id": 110,
+                "title_arabic": "الفنون التشكيلية",
+                "title_english": "Visual Arts",
+                "description_arabic": "جمل متعلقة بالفنون التشكيلية مثل: 'أنا أحب الرسم والنحت.' و 'الفنون التشكيلية تعبر عن الإبداع.'",
+                "description_english": "Sentences related to visual arts such as: 'I love painting and sculpture.' and 'Visual arts express creativity.'",
+                "file_name": "visual_arts.json"
+            },
+            {
+                "id": 111,
+                "title_arabic": "إدارة المشاريع",
+                "title_english": "Project Management",
+                "description_arabic": "جمل متعلقة بإدارة المشاريع مثل: 'إدارة المشاريع تضمن النجاح.' و 'نستخدم أدوات إدارة المشاريع.'",
+                "description_english": "Sentences related to project management such as: 'Project management ensures success.' and 'We use project management tools.'",
+                "file_name": "project_management.json"
+            },
+            {
+                "id": 112,
+                "title_arabic": "الذكاء الاصطناعي والتعلم الآلي",
+                "title_english": "Artificial Intelligence and Machine Learning",
+                "description_arabic": "جمل متعلقة بالذكاء الاصطناعي والتعلم الآلي مثل: 'الذكاء الاصطناعي يغير الصناعات.' و 'التعلم الآلي يمكّن التطبيقات الذكية.'",
+                "description_english": "Sentences related to artificial intelligence and machine learning such as: 'AI is transforming industries.' and 'Machine learning enables smart applications.'",
+                "file_name": "ai_and_machine_learning.json"
+            },
+            {
+                "id": 113,
+                "title_arabic": "التجميل والعناية بالبشرة",
+                "title_english": "Beauty and Skincare",
+                "description_arabic": "جمل متعلقة بالتجميل والعناية بالبشرة مثل: 'روتينات العناية بالبشرة مهمة.' و 'علاجات التجميل تعزز الثقة.'",
+                "description_english": "Sentences related to beauty and skincare such as: 'Skincare routines are important.' and 'Beauty treatments boost confidence.'",
+                "file_name": "beauty_and_skincare.json"
+            },
+            {
+                "id": 114,
+                "title_arabic": "الهندسة الكهربائية",
+                "title_english": "Electrical Engineering",
+                "description_arabic": "جمل متعلقة بالهندسة الكهربائية مثل: 'الهندسة الكهربائية تتعلق بالدوائر.' و 'نحن نصمم الأنظمة الكهربائية.'",
+                "description_english": "Sentences related to electrical engineering such as: 'Electrical engineering involves circuits.' and 'We design electrical systems.'",
+                "file_name": "electrical_engineering.json"
+            },
+            {
+                "id": 115,
+                "title_arabic": "حقوق الإنسان",
+                "title_english": "Human Rights",
+                "description_arabic": "جمل متعلقة بحقوق الإنسان مثل: 'يجب حماية حقوق الإنسان.' و 'المساواة حق أساسي.'",
+                "description_english": "Sentences related to human rights such as: 'Human rights must be protected.' and 'Equality is a fundamental right.'",
+                "file_name": "human_rights.json"
+            },
+            {
+                "id": 116,
+                "title_arabic": "التجارة الإلكترونية",
+                "title_english": "E-commerce",
+                "description_arabic": "جمل متعلقة بالتجارة الإلكترونية مثل: 'التجارة الإلكترونية تنمو بسرعة.' و 'التسوق عبر الإنترنت مريح.'",
+                "description_english": "Sentences related to e-commerce such as: 'E-commerce is growing rapidly.' and 'Online shopping is convenient.'",
+                "file_name": "ecommerce.json"
+            },
+            {
+                "id": 117,
+                "title_arabic": "الهندسة الميكانيكية",
+                "title_english": "Mechanical Engineering",
+                "description_arabic": "جمل متعلقة بالهندسة الميكانيكية مثل: 'الهندسة الميكانيكية تتعلق بالآلات.' و 'نحن ندرس الديناميكا الحرارية.'",
+                "description_english": "Sentences related to mechanical engineering such as: 'Mechanical engineering involves machines.' and 'We study thermodynamics.'",
+                "file_name": "mechanical_engineering.json"
+            },
+            {
+                "id": 118,
+                "title_arabic": "الأبحاث العلمية",
+                "title_english": "Scientific Research",
+                "description_arabic": "جمل متعلقة بالأبحاث العلمية مثل: 'البحث العلمي يدفع الابتكار.' و 'نحن نجري تجارب.'",
+                "description_english": "Sentences related to scientific research such as: 'Scientific research drives innovation.' and 'We are conducting experiments.'",
+                "file_name": "scientific_research.json"
+            },
+            {
+                "id": 119,
+                "title_arabic": "العلاقات الأسرية",
+                "title_english": "Family Relationships",
+                "description_arabic": "جمل متعلقة بالعلاقات الأسرية مثل: 'العلاقات الأسرية مهمة.' و 'نحن نقدر وقت الأسرة.'",
+                "description_english": "Sentences related to family relationships such as: 'Family relationships are important.' and 'We value family time.'",
+                "file_name": "family_relationships.json"
+            },
+            {
+                "id": 120,
+                "title_arabic": "الفضاء الرقمي",
+                "title_english": "Digital Space",
+                "description_arabic": "جمل متعلقة بالفضاء الرقمي مثل: 'الفضاء الرقمي يربط الناس.' و 'نحن نعيش في عصر رقمي.'",
+                "description_english": "Sentences related to digital space such as: 'Digital space connects people.' and 'We live in a digital era.'",
+                "file_name": "digital_space.json"
+            },
+            {
+                "id": 121,
+                "title_arabic": "الرياضات الشتوية",
+                "title_english": "Winter Sports",
+                "description_arabic": "جمل متعلقة بالرياضات الشتوية مثل: 'التزلج هو رياضة شتوية شعبية.' و 'أستمتع بالتزلج على الجليد.'",
+                "description_english": "Sentences related to winter sports such as: 'Skiing is a popular winter sport.' and 'I enjoy ice skating.'",
+                "file_name": "winter_sports.json"
+            },
+            {
+                "id": 122,
+                "title_arabic": "الطهي العالمي",
+                "title_english": "Global Cuisine",
+                "description_arabic": "جمل متعلقة بالطهي العالمي مثل: 'المطبخ الإيطالي مشهور عالميًا.' و 'أحب تجربة وصفات جديدة.'",
+                "description_english": "Sentences related to global cuisine such as: 'Italian cuisine is famous worldwide.' and 'I love trying new recipes.'",
+                "file_name": "global_cuisine.json"
+            },
+            {
+                "id": 123,
+                "title_arabic": "الرعاية الصحية النفسية",
+                "title_english": "Mental Healthcare",
+                "description_arabic": "جمل متعلقة بالرعاية الصحية النفسية مثل: 'الصحة النفسية مهمة مثل الصحة البدنية.' و 'البحث عن العلاج هو علامة على القوة.'",
+                "description_english": "Sentences related to mental healthcare such as: 'Mental health is as important as physical health.' and 'Seeking therapy is a sign of strength.'",
+                "file_name": "mental_healthcare.json"
+            },
+            {
+                "id": 124,
+                "title_arabic": "التنمية الشخصية",
+                "title_english": "Personal Development",
+                "description_arabic": "جمل متعلقة بالتنمية الشخصية مثل: 'التنمية الشخصية هي رحلة تستمر مدى الحياة.' و 'أنا أعمل على تحسين مهاراتي.'",
+                "description_english": "Sentences related to personal development such as: 'Personal development is a lifelong journey.' and 'I am working on improving my skills.'",
+                "file_name": "personal_development.json"
+            },
+            {
+                "id": 125,
+                "title_arabic": "الفضاء والاستكشاف الفضائي",
+                "title_english": "Space and Space Exploration",
+                "description_arabic": "جمل متعلقة بالفضاء والاستكشاف الفضائي مثل: 'استكشاف الفضاء يوسع معرفتنا.' و 'علم الفلك رائع.'",
+                "description_english": "Sentences related to space and space exploration such as: 'Space exploration expands our knowledge.' and 'Astronomy is fascinating.'",
+                "file_name": "space_and_exploration.json"
+            },
+            {
+                "id": 126,
+                "title_arabic": "الهندسة الزراعية",
+                "title_english": "Agricultural Engineering",
+                "description_arabic": "جمل متعلقة بالهندسة الزراعية مثل: 'الهندسة الزراعية تحسن كفاءة الزراعة.' و 'نحن ندرس تدوير المحاصيل.'",
+                "description_english": "Sentences related to agricultural engineering such as: 'Agricultural engineering improves farming efficiency.' and 'We are studying crop rotation.'",
+                "file_name": "agricultural_engineering.json"
+            },
+            {
+                "id": 127,
+                "title_arabic": "الزراعة الحضرية",
+                "title_english": "Urban Farming",
+                "description_arabic": "جمل متعلقة بالزراعة الحضرية مثل: 'الزراعة الحضرية أصبحت شائعة.' و 'نزرع الخضروات على سطح منزلنا.'",
+                "description_english": "Sentences related to urban farming such as: 'Urban farming is becoming popular.' and 'We grow vegetables on our rooftop.'",
+                "file_name": "urban_farming.json"
+            },
+            {
+                "id": 128,
+                "title_arabic": "الصناعات التقليدية",
+                "title_english": "Traditional Industries",
+                "description_arabic": "جمل متعلقة بالصناعات التقليدية مثل: 'الحرف التقليدية تحافظ على التراث الثقافي.' و 'أحب الأواني الفخارية المصنوعة يدويًا.'",
+                "description_english": "Sentences related to traditional industries such as: 'Traditional crafts preserve cultural heritage.' and 'I love handmade pottery.'",
+                "file_name": "traditional_industries.json"
+            },
+            {
+                "id": 129,
+                "title_arabic": "علم المحيطات",
+                "title_english": "Oceanography",
+                "description_arabic": "جمل متعلقة بعلم المحيطات مثل: 'علم المحيطات يدرس النظم البيئية البحرية.' و 'نحن نستكشف أعماق البحار.'",
+                "description_english": "Sentences related to oceanography such as: 'Oceanography studies marine ecosystems.' and 'We are exploring the deep sea.'",
+                "file_name": "oceanography.json"
+            },
+            {
+                "id": 130,
+                "title_arabic": "علم الأحياء الدقيقة",
+                "title_english": "Microbiology",
+                "description_arabic": "جمل متعلقة بعلم الأحياء الدقيقة مثل: 'علم الأحياء الدقيقة يدرس الكائنات الحية الدقيقة.' و 'تلعب البكتيريا دورًا حيويًا في البيئة.'",
+                "description_english": "Sentences related to microbiology such as: 'Microbiology studies microscopic organisms.' and 'Bacteria play a crucial role in the environment.'",
+                "file_name": "microbiology.json"
+            },
+            {
+                "id": 131,
+                "title_arabic": "التخطيط العمراني",
+                "title_english": "Urban Planning",
+                "description_arabic": "جمل متعلقة بالتخطيط العمراني مثل: 'التخطيط العمراني يشكل تطوير المدن.' و 'نحتاج إلى المزيد من المساحات الخضراء في المدن.'",
+                "description_english": "Sentences related to urban planning such as: 'Urban planning shapes city development.' and 'We need more green spaces in cities.'",
+                "file_name": "urban_planning.json"
+            },
+            {
+                "id": 132,
+                "title_arabic": "دراسات النوع الاجتماعي",
+                "title_english": "Gender Studies",
+                "description_arabic": "جمل متعلقة بدراسات النوع الاجتماعي مثل: 'دراسات النوع الاجتماعي تدرس الأدوار المجتمعية.' و 'المساواة ضرورية للتقدم.'",
+                "description_english": "Sentences related to gender studies such as: 'Gender studies examine societal roles.' and 'Equality is essential for progress.'",
+                "file_name": "gender_studies.json"
+            },
+            {
+                "id": 133,
+                "title_arabic": "تاريخ الفن",
+                "title_english": "Art History",
+                "description_arabic": "جمل متعلقة بتاريخ الفن مثل: 'تاريخ الفن يوفر رؤى ثقافية.' و 'عصر النهضة كان فترة نابضة بالحياة.'",
+                "description_english": "Sentences related to art history such as: 'Art history provides cultural insights.' and 'The Renaissance was a vibrant period.'",
+                "file_name": "art_history.json"
+            },
+            {
+                "id": 134,
+                "title_arabic": "الحرف اليدوية",
+                "title_english": "Handicrafts",
+                "description_arabic": "جمل متعلقة بالحرف اليدوية مثل: 'الحرف اليدوية تظهر الإبداع.' و 'أستمتع بالحياكة والكروشيه.'",
+                "description_english": "Sentences related to handicrafts such as: 'Handicrafts showcase creativity.' and 'I enjoy knitting and crocheting.'",
+                "file_name": "handicrafts.json"
+            },
+            {
+                "id": 135,
+                "title_arabic": "علم النفس",
+                "title_english": "Psychology",
+                "description_arabic": "جمل متعلقة بعلم النفس مثل: 'علم النفس يدرس السلوك البشري.' و 'فهم العقل أمر رائع.'",
+                "description_english": "Sentences related to psychology such as: 'Psychology studies human behavior.' and 'Understanding the mind is fascinating.'",
+                "file_name": "psychology.json"
+            },
+            {
+                "id": 136,
+                "title_arabic": "التجارة الدولية",
+                "title_english": "International Trade",
+                "description_arabic": "جمل متعلقة بالتجارة الدولية مثل: 'التجارة الدولية تعزز الاقتصاد.' و 'الأسواق العالمية مترابطة.'",
+                "description_english": "Sentences related to international trade such as: 'International trade boosts economies.' and 'Global markets are interconnected.'",
+                "file_name": "international_trade.json"
+            },
+            {
+                "id": 137,
+                "title_arabic": "السياحة والسفر",
+                "title_english": "Tourism and Travel",
+                "description_arabic": "جمل متعلقة بالسياحة والسفر مثل: 'السفر يوسع الآفاق.' و 'السياحة صناعة رئيسية.'",
+                "description_english": "Sentences related to tourism and travel such as: 'Travel broadens the mind.' and 'Tourism is a major industry.'",
+                "file_name": "tourism_and.json"
+            },
+            {
+                "id": 138,
+                "title_arabic": "القانون والدراسات القانونية",
+                "title_english": "Law and Legal Studies",
+                "description_arabic": "جمل متعلقة بالقانون والدراسات القانونية مثل: 'الدراسات القانونية مهمة لتحقيق العدالة.' و 'فهم القانون يساعد المجتمع على العمل.'",
+                "description_english": "Sentences related to law and legal studies such as: 'Legal studies are important for justice.' and 'Understanding law helps society function.'",
+                "file_name": "law_and_legal_studies.json"
+            },
+            {
+                "id": 139,
+                "title_arabic": "الطب البديل",
+                "title_english": "Alternative Medicine",
+                "description_arabic": "جمل متعلقة بالطب البديل مثل: 'الطب البديل يشمل ممارسات مختلفة.' و 'أنا مهتم بالعلاجات العشبية.'",
+                "description_english": "Sentences related to alternative medicine such as: 'Alternative medicine includes various practices.' and 'I am interested in herbal remedies.'",
+                "file_name": "alternative_medicine.json"
+            },
+            {
+                "id": 140,
+                "title_arabic": "إدارة الموارد البشرية",
+                "title_english": "Human Resource Management",
+                "description_arabic": "جمل متعلقة بإدارة الموارد البشرية مثل: 'إدارة الموارد البشرية ضرورية للأعمال.' و 'ممارسات الموارد البشرية الفعالة تعزز معنويات الموظفين.'",
+                "description_english": "Sentences related to human resource management such as: 'Human resource management is crucial for businesses.' and 'Effective HR practices boost employee morale.'",
+                "file_name": "human_resource_management.json"
+            },
+            {
+                "id": 141,
+                "title_arabic": "مقابلات العمل",
+                "title_english": "Job Interviews",
+                "description_arabic": "جمل متعلقة بمقابلات العمل مثل: 'أنا أستعد لمقابلة عمل.' و 'مقابلات العمل تتطلب التحضير الجيد.'",
+                "description_english": "Sentences related to job interviews such as: 'I am preparing for a job interview.' and 'Job interviews require good preparation.'",
+                "file_name": "job_interviews.json"
+            },
+            {
+                "id": 142,
+                "title_arabic": "الذهاب إلى المصيف",
+                "title_english": "Going to the Beach",
+                "description_arabic": "جمل متعلقة بالذهاب إلى المصيف مثل: 'أنا أحب الذهاب إلى الشاطئ.' و 'الذهاب إلى المصيف يعتبر تجربة مريحة.'",
+                "description_english": "Sentences related to going to the beach such as: 'I love going to the beach.' and 'Going to the beach is a relaxing experience.'",
+                "file_name": "going_to_the_beach.json"
+            },
+            {
+                "id": 143,
+                "title_arabic": "الدخول إلى الحمام",
+                "title_english": "Entering the Bathroom",
+                "description_arabic": "جمل متعلقة بالدخول إلى الحمام مثل: 'أنا بحاجة إلى استخدام الحمام.' و 'الدخول إلى الحمام جزء من الروتين اليومي.'",
+                "description_english": "Sentences related to entering the bathroom such as: 'I need to use the bathroom.' and 'Entering the bathroom is part of the daily routine.'",
+                "file_name": "entering_the_bathroom.json"
+            },
+            {
+                "id": 144,
+                "title_arabic": "التسوق في السوبر ماركت",
+                "title_english": "Shopping at the Supermarket",
+                "description_arabic": "جمل متعلقة بالتسوق في السوبر ماركت مثل: 'أنا أذهب للتسوق في السوبر ماركت.' و 'التسوق في السوبر ماركت يمكن أن يكون ممتعاً.'",
+                "description_english": "Sentences related to shopping at the supermarket such as: 'I go shopping at the supermarket.' and 'Shopping at the supermarket can be fun.'",
+                "file_name": "shopping_at_the_supermarket.json"
+            },
+            {
+                "id": 145,
+                "title_arabic": "الاستعداد للسفر",
+                "title_english": "Preparing for Travel",
+                "description_arabic": "جمل متعلقة بالاستعداد للسفر مثل: 'أنا أستعد للسفر.' و 'الاستعداد للسفر يتطلب التخطيط الجيد.'",
+                "description_english": "Sentences related to preparing for travel such as: 'I am preparing for travel.' and 'Preparing for travel requires good planning.'",
+                "file_name": "preparing_for_travel.json"
+            },
+            {
+                "id": 146,
+                "title_arabic": "زيارة الطبيب",
+                "title_english": "Visiting the Doctor",
+                "description_arabic": "جمل متعلقة بزيارة الطبيب مثل: 'أنا بحاجة لزيارة الطبيب.' و 'زيارة الطبيب جزء مهم من العناية بالصحة.'",
+                "description_english": "Sentences related to visiting the doctor such as: 'I need to visit the doctor.' and 'Visiting the doctor is an important part of healthcare.'",
+                "file_name": "visiting_the_doctor.json"
+            },
+            {
+                "id": 147,
+                "title_arabic": "حضور الحفلات",
+                "title_english": "Attending Parties",
+                "description_arabic": "جمل متعلقة بحضور الحفلات مثل: 'أنا أحب حضور الحفلات.' و 'حضور الحفلات يمكن أن يكون ممتعاً.'",
+                "description_english": "Sentences related to attending parties such as: 'I love attending parties.' and 'Attending parties can be fun.'",
+                "file_name": "attending_parties.json"
+            },
+            {
+                "id": 148,
+                "title_arabic": "تناول الطعام في المطعم",
+                "title_english": "Eating at the Restaurant",
+                "description_arabic": "جمل متعلقة بتناول الطعام في المطعم مثل: 'أنا أستمتع بتناول الطعام في المطعم.' و 'تناول الطعام في المطعم تجربة مميزة.'",
+                "description_english": "Sentences related to eating at the restaurant such as: 'I enjoy eating at the restaurant.' and 'Eating at the restaurant is a special experience.'",
+                "file_name": "eating_at_the_restaurant.json"
+            },
+            {
+                "id": 149,
+                "title_arabic": "ممارسة الرياضة",
+                "title_english": "Exercising",
+                "description_arabic": "جمل متعلقة بممارسة الرياضة مثل: 'أنا أحب ممارسة الرياضة يومياً.' و 'ممارسة الرياضة مفيدة للصحة.'",
+                "description_english": "Sentences related to exercising such as: 'I love exercising daily.' and 'Exercising is good for health.'",
+                "file_name": "exercising.json"
+            },
+            {
+                "id": 150,
+                "title_arabic": "النوم والاسترخاء",
+                "title_english": "Sleeping and Relaxing",
+                "description_arabic": "جمل متعلقة بالنوم والاسترخاء مثل: 'النوم الجيد مهم للصحة.' و 'أنا أستمتع بالاسترخاء بعد يوم طويل.'",
+                "description_english": "Sentences related to sleeping and relaxing such as: 'Good sleep is important for health.' and 'I enjoy relaxing after a long day.'",
+                "file_name": "sleeping_and_relaxing.json"
+            }
+            
+                        
+            
+            
+
+]

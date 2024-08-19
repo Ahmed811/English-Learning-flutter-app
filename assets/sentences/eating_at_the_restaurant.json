@@ -1,0 +1,18 @@
+[
+    {"english": "I'm looking for a restaurant recommendation.", "arabic": "أبحث عن توصية مطعم."},
+    {"english": "I'm making a reservation at a restaurant.", "arabic": "أقوم بحجز طاولة في مطعم."},
+    {"english": "I'm deciding what to order from the menu.", "arabic": "أقرر ماذا أطلب من القائمة."},
+    {"english": "I need to ask the waiter/waitress a question.", "arabic": "أحتاج إلى أن أسأل النادل / النادلة سؤالاً."},
+    {"english": "I'm enjoying my meal.", "arabic": "أستمتع بوجبتي."},
+    {"english": "I would like another drink, please.", "arabic": "أود مشروبًا آخر ، من فضلك."},
+    {"english": "Can I get the bill, please?", "arabic": "هل يمكنني الحصول على الفاتورة ، من فضلك؟"},
+    {"english": "I'm paying the bill.", "arabic": "أنا أدفع الفاتورة."},
+    {"english": "I would like to leave a tip.", "arabic": "أود أن أترك إكرامية."},
+    {"english": "The food was delicious!", "arabic": "كان الطعام لذيذًا!"},
+    {"english": "I'm not sure what to order. Can you recommend something?", "arabic": "لست متأكدا ماذا أطلب. هل يمكنك أن توصي بشيء؟"},
+    {"english": "I have a dietary restriction. Do you have gluten-free/vegetarian options?", "arabic": "لدي قيود غذائية. هل لديك خيارات خالية من الغلوتين / نباتية؟"},
+    {"english": "The service was excellent.", "arabic": "كانت الخدمة ممتازة."},
+    {"english": "The atmosphere here is great.", "arabic": "الأجواء هنا رائعة."},
+    {"english": "I'll definitely come back again.", "arabic": "سأعود بالتأكيد مرة أخرى."}
+  ]
+  

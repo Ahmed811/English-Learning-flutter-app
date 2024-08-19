@@ -1,0 +1,22 @@
+[
+    {"english": "Excuse me, can you help me?", "arabic": "عفواً، هل يمكنك مساعدتي؟"},
+    {"english": "Where is the bathroom?", "arabic": "أين الحمام؟"},
+    {"english": "How can I get to the airport?", "arabic": "كيف يمكنني الوصول إلى المطار؟"},
+    {"english":"Which way is the train station?", "arabic": "أي طريق إلى محطة القطار؟"},
+    {"english": "Can you recommend a good restaurant?", "arabic": "هل يمكنك أن توصي بمطعم جيد؟"},
+    {"english": "What time does the store open?", "arabic": "متى يفتح المتجر؟"},
+    {"english": "How much does this cost?", "arabic": "كم سعر هذا؟"},
+    {"english": "Do you speak English?", "arabic": "هل تتحدث الإنجليزية؟"},
+    {"english": "I don't understand.", "arabic": "أنا لا أفهم."},
+    {"english": "Can you repeat that?", "arabic": "هل يمكنك تكرار ذلك؟"},
+    {"english": "Thank you for your help.", "arabic": "شكرا لك على مساعدتك."},
+    {"english": "I'm lost.", "arabic": "أنا تائه."},
+    {"english": "Can you help me find my way?", "arabic": "هل يمكنك مساعدتي في إيجاد طريقي؟"},
+    {"english": "Is there a pharmacy nearby?", "arabic": "هل يوجد صيدلية قريبة؟"},
+    {"english": "What time is it?", "arabic": "ما الوقت؟"},
+    {"english": "Where is the nearest ATM?", "arabic": "أين أقرب صراف آلي؟"},
+    {"english": "Can I have the bill, please?", "arabic": "هل يمكنني الحصول على الفاتورة، من فضلك؟"},
+    {"english": "How do I get a taxi?", "arabic": "كيف أحصل على سيارة أجرة؟"},
+    {"english": "Can you recommend a good place to stay?", "arabic": "هل يمكنك أن توصي ب مكان جيد للإقامة؟"}
+  ]
+  

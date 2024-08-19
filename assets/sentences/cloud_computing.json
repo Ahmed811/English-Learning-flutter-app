@@ -1,0 +1,22 @@
+[
+    {"english": "I'm a cloud engineer.", "arabic": "أنا مهندس سحابي."},
+    {"english": "I'm working on a cloud migration project.", "arabic": "أعمل على مشروع هجرة إلى السحابة."},
+    {"english": "I'm designing a cloud architecture.", "arabic": "أصمم بنية تحتية سحابية."},
+    {"english": "I'm using AWS.", "arabic": "أستخدم AWS."},
+    {"english": "I'm using Azure.", "arabic": "أستخدم Azure."},
+    {"english": "I'm using GCP.", "arabic": "أستخدم GCP."},
+    {"english": "I'm deploying a containerized application.", "arabic": "أنشر تطبيقًا محتوًا في حاوية."},
+    {"english": "I'm configuring a virtual network.", "arabic": "أقوم بتكوين شبكة افتراضية."},
+    {"english": "I'm automating cloud operations.", "arabic": "أقوم بأتمتة عمليات السحابة."},
+    {"english": "I'm optimizing cloud costs.", "arabic": "أقوم بتحسين تكاليف السحابة."},
+    {"english": "I'm building a serverless application.", "arabic": "أبني تطبيقًا خاليًا من الخوادم."},
+    {"english": "I'm using a cloud-based database.", "arabic": "أستخدم قاعدة بيانات سحابية."},
+    {"english": "I'm implementing a disaster recovery plan.", "arabic": "أقوم بتنفيذ خطة لاستعادة الكوارث."},
+    {"english": "I'm working on a big data project.", "arabic": "أعمل على مشروع بيانات ضخمة."},
+    {"english": "I'm using a cloud-based IDE.", "arabic": "أستخدم بيئة تطوير متكاملة سحابية."},
+    {"english": "I'm configuring a load balancer.", "arabic": "أقوم بتكوين موزع تحميل."},
+    {"english": "I'm implementing a CI/CD pipeline.", "arabic": "أقوم بتنفيذ خط أنابيب التكامل المستمر والنشر المستمر."},
+    {"english": "I'm using Infrastructure as Code.", "arabic": "أستخدم البنية التحتية كشفرة."},
+    {"english": "I'm working on a cloud security project.", "arabic": "أعمل على مشروع أمن سحابي."},
+    {"english": "I'm using a container orchestration platform.", "arabic": "أستخدم منصة أوركسترا للحاويات."}
+  ]

@@ -1,0 +1,23 @@
+[
+    {"english": "I need to ship a package.", "arabic": "أحتاج إلى شحن طرد."},
+    {"english": "What is the shipping cost?", "arabic": "ما هي تكلفة الشحن؟"},
+    {"english": "I'm tracking my package.", "arabic": "أنا أتتبع طردي."},
+    {"english": "I'm shipping this item internationally.", "arabic": "أشحن هذا الصنف دوليًا."},
+    {"english": "I'm looking for the nearest shipping center.", "arabic": "أبحث عن أقرب مركز شحن."},
+    {"english": "I need to choose a shipping method.", "arabic": "أحتاج إلى اختيار طريقة شحن."},
+    {"english": "I'm comparing shipping rates.", "arabic": "أقارن أسعار الشحن."},
+    {"english": "I'm concerned about the delivery time.", "arabic": "أنا قلق بشأن وقت التسليم."},
+    {"english": "I'm shipping fragile items.", "arabic": "أشحن أشياء هشة."},
+    {"english": "I need to insure my shipment.", "arabic": "أحتاج إلى تأمين شحنتي."},
+    {"english": "I'm shipping a large item.", "arabic": "أشحن قطعة كبيرة."},
+    {"english": "I'm shipping hazardous materials.", "arabic": "أشحن مواد خطرة."},
+    {"english": "I'm using a shipping label.", "arabic": "أستخدم ملصق شحن."},
+    {"english": "I'm picking up a package.", "arabic": "أستلم طردًا."},
+    {"english": "I'm returning a package.", "arabic": "أعيد طردًا."},
+    {"english": "I'm using a shipping container.", "arabic": "أستخدم حاوية شحن."},
+    {"english": "I'm shipping by air.", "arabic": "أشحن جواً."},
+    {"english": "I'm shipping by sea.", "arabic": "أشحن بحراً."},
+    {"english": "I'm shipping by land.", "arabic": "أشحن بريًا."},
+    {"english": "I'm using a delivery service.", "arabic": "أستخدم خدمة توصيل."}
+  ]
+  

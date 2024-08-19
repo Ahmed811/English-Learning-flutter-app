@@ -1,0 +1,20 @@
+[
+    {"english": "I'm looking at the stars.", "arabic": "أنظر إلى النجوم."},
+    {"english": "I'm interested in astronomy.", "arabic": "أهتم بعلم الفلك."},
+    {"english":"The moon is beautiful tonight.", "arabic": "القمر جميل الليلة."},
+    {"english":"I want to be an astronaut.", "arabic": "أريد أن أصبح رائد فضاء."},
+    {"english":"We live in the Milky Way galaxy.", "arabic": "نحن نعيش في مجرة درب التبانة."},
+    {"english":"A black hole is a mysterious object in space.", "arabic": "الثقب الأسود هو جسم غامض في الفضاء."},
+    {"english":"A comet is a ball of ice and dust.", "arabic": "المذنب عبارة عن كرة من الجليد والغبار."},
+    {"english":"A planet orbits a star.", "arabic": "يدور الكوكب حول نجم."},
+    {"english":"The sun is a star.", "arabic": "الشمس نجم."},
+    {"english":"A satellite is a man-made object that orbits the Earth.", "arabic": "القمر الصناعي هو جسم من صنع الإنسان يدور حول الأرض."},
+    {"english":"We're exploring Mars.", "arabic": "نحن نستكشف المريخ."},
+    {"english":"The Big Bang theory explains the origin of the universe.", "arabic": "نظرية الانفجار العظيم تشرح أصل الكون."},
+    {"english":"A light-year is a unit of measurement used in astronomy.", "arabic": "السنة الضوئية هي وحدة قياس تستخدم في علم الفلك."},
+    {"english":"A nebula is a cloud of gas and dust.", "arabic": "السديم هو سحابة من الغاز والغبار."},
+    {"english":"I'm watching a documentary about space.", "arabic": "أشاهد فيلمًا وثائقيًا عن الفضاء."},
+    {"english":"I'm using a telescope to look at the stars.", "arabic": "أستخدم تلسكوبًا للنظر إلى النجوم."},
+    {"english":"I'm fascinated by the idea of extraterrestrial life.", "arabic": "أشعر بالانبهار بفكرة وجود حياة خارج كوكب الأرض."},
+    {"english":"I'm dreaming of traveling to the moon.", "arabic": "أحلم بالسفر إلى القمر."}
+  ]

@@ -1,0 +1,19 @@
+[
+    {"english": "I'm going to the theater tonight.", "arabic": "سأذهب إلى المسرح الليلة.", "image": "صورة لواجهة مسرح مزينة بأضواء النيون"},
+    {"english": "I'm auditioning for a play.", "arabic": "أخضع لاختبار أداء لمسرحية.", "image": "صورة لممثل يقدم أداءً أمام لجنة تحكيم"},
+    {"english": "I'm interested in stage acting.", "arabic": "أهتم بالتمثيل المسرحي.", "image": "صورة لممثل يؤدي دورًا دراميًا على خشبة المسرح"},
+    {"english": "I'm writing a play.", "arabic": "أكتب مسرحية.", "image": "صورة لقلم حبر يكتب على ورقة بيضاء مع خلفية مكتبة"},
+    {"english": "I'm directing a play.", "arabic": "أخرج مسرحية.", "image": "صورة لمخرج يشرح مشهدًا للممثلين"},
+    {"english": "I'm designing the set for a play.", "arabic": "أصمم ديكور مسرحية.", "image": "صورة لمصمم ديكور يعمل على نموذج ثلاثي الأبعاد"},
+    {"english": "I'm designing the costumes for a play.", "arabic": "أصمم الأزياء لمسرحية.", "image": "صورة لخياط يصنع زيًا مسرحيًا فاخرًا"},
+    {"english": "I'm working on my stage presence.", "arabic": "أعمل على حضوري المسرحي.", "image": "صورة لممثل يقف بثقة على خشبة المسرح"},
+    {"english": "I'm learning about different theater styles.", "arabic": "أتعلم عن أساليب مسرحية مختلفة.", "image": "صورة تجمع بين صور لمختلف العروض المسرحية (كلاسيكية، حديثة، موسيقية، وغيرها)"},
+    {"english": "I'm part of a theater troupe.", "arabic": "أنا عضو في فرقة مسرحية.", "image": "صورة لفرقة مسرحية تجمع حولها أثناء البروفة"},
+    {"english": "I'm attending a theatrical performance.", "arabic": "أحضر عرضًا مسرحيًا.", "image": "صورة لجمهور يصفق بحماس في نهاية العرض"},
+    {"english": "I'm fascinated by the history of theater.", "arabic": "أسحرني تاريخ المسرح.", "image": "صورة لملصق قديم لعرض مسرحي تاريخي"},
+    {"english": "I'm inspired by Shakespeare.", "arabic": "أستلهم الإلهام من شكسبير.", "image": "صورة لممثل يؤدي دورًا من مسرحيات شكسبير"},
+    {"english": "I'm interested in improvisation.", "arabic": "أهتم بالارتجال المسرحي.", "image": "صورة لمجموعة من الممثلين يمارسون تمارين ارتجال"},
+    {"english": "I'm learning about stage lighting and sound.", "arabic": "أتعلم عن إضاءة المسرح والصوت.", "image": "صورة لمصمم إضاءة يعمل على لوحة التحكم"},
+    {"english": "I'm practicing my monologues.", "arabic": "أمارس مونولوجاتي.", "image": "صورة لممثل يقف وحيدًا على خشبة المسرح ويلقي مونولوجًا"},
+    {"english": "I'm overcoming my stage fright.", "arabic": "أتغلب على خجلي من المسرح.", "image": "صورة لممثل مبتسم يقف بثقة قبل الصعود إلى المسرح"}
+  ]

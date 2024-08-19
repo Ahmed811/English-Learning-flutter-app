@@ -1,0 +1,22 @@
+[
+    {"english": "The economy is growing.", "arabic": "الاقتصاد ينمو."},
+    {"english": "The economy is shrinking.", "arabic": "الاقتصاد يتقلص."},
+    {"english": "There is a recession.", "arabic": "هناك ركود اقتصادي."},
+    {"english": "The inflation rate is rising.", "arabic": "معدل التضخم يرتفع."},
+    {"english": "The unemployment rate is decreasing.", "arabic": "معدل البطالة يتناقص."},
+    {"english": "The stock market is volatile.", "arabic": "سوق الأسهم متقلب."},
+    {"english": "The company is profitable.", "arabic": "الشركة تحقق أرباحًا."},
+    {"english": "The company is bankrupt.", "arabic": "الشركة مفلسة."},
+    {"english": "We need to diversify our economy.", "arabic": "نحتاج إلى تنويع اقتصادنا."},
+    {"english": "We need to stimulate the economy.", "arabic": "نحتاج إلى تحفيز الاقتصاد."},
+    {"english": "We need to reduce our debt.", "arabic": "نحتاج إلى تقليل ديوننا."},
+    {"english": "We need to increase exports.", "arabic": "نحتاج إلى زيادة الصادرات."},
+    {"english": "We need to protect domestic industries.", "arabic": "نحتاج إلى حماية الصناعات المحلية."},
+    {"english": "There is a trade war between the two countries.", "arabic": "هناك حرب تجارية بين البلدين."},
+    {"english": "The currency is depreciating.", "arabic": "العملة تتدهور."},
+    {"english": "The interest rates are increasing.", "arabic": "أسعار الفائدة ترتفع."},
+    {"english": "The consumer confidence is low.", "arabic": "ثقة المستهلك منخفضة."},
+    {"english": "The government is implementing austerity measures.", "arabic": "الحكومة تطبق إجراءات تقشف."},
+    {"english": "We need to invest in infrastructure.", "arabic": "نحتاج إلى الاستثمار في البنية التحتية."},
+    {"english": "We need to support small businesses.", "arabic": "نحتاج إلى دعم الشركات الصغيرة."}
+  ]

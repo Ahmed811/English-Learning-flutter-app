@@ -1,0 +1,22 @@
+[
+    {"english": "I'm a scientist.", "arabic": "أنا عالم."},
+    {"english": "I'm conducting an experiment.", "arabic": "أجري تجربة."},
+    {"english": "I'm analyzing data.", "arabic": "أحلل البيانات."},
+    {"english": "I'm formulating a hypothesis.", "arabic": "أصيغ فرضية."},
+    {"english": "I'm conducting research.", "arabic": "أجري بحثًا."},
+    {"english": "I'm writing a scientific paper.", "arabic": "أكتب ورقة علمية."},
+    {"english": "I'm using a microscope.", "arabic": "أستخدم مجهرًا."},
+    {"english": "I'm working in a laboratory.", "arabic": "أعمل في مختبر."},
+    {"english": "I'm studying biology.", "arabic": "أدرس علم الأحياء."},
+    {"english": "I'm studying chemistry.", "arabic": "أدرس الكيمياء."},
+    {"english": "I'm studying physics.", "arabic": "أدرس الفيزياء."},
+    {"english": "I'm studying geology.", "arabic": "أدرس الجيولوجيا."},
+    {"english": "I'm studying astronomy.", "arabic": "أدرس الفلك."},
+    {"english": "I'm studying environmental science.", "arabic": "أدرس العلوم البيئية."},
+    {"english": "I'm collecting data in the field.", "arabic": "أجمع البيانات في الميدان."},
+    {"english": "I'm creating a scientific model.", "arabic": "أنشئ نموذجًا علميًا."},
+    {"english": "I'm attending a scientific conference.", "arabic": "أحضر مؤتمرًا علميًا."},
+    {"english": "I'm working on a scientific project.", "arabic": "أعمل على مشروع علمي."},
+    {"english": "I'm using a computer simulation.", "arabic": "أستخدم محاكاة حاسوبية."},
+    {"english": "I'm developing a new theory.", "arabic": "أطور نظرية جديدة."}
+  ]

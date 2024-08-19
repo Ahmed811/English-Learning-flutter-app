@@ -1,0 +1,1370 @@
+[
+    {
+        "section_en": "Greeting and goodbyes",
+        "section_ar": "التحية والوداع",
+        "key_icon": "greeting",
+        "examples": [
+            {
+                "en": "Hello, how are you doing today?",
+                "ar": "مرحبا، كيف حالك اليوم؟"
+            },
+            {
+                "en": "Goodbye, see you next time!",
+                "ar": "وداعا، أراك في المرة القادمة!"
+            },
+            {
+                "en": "Good morning, I hope you have a great day.",
+                "ar": "صباح الخير، آمل أن يكون يومك رائعاً."
+            },
+            {
+                "en": "Good night, sleep well and sweet dreams.",
+                "ar": "تصبح على خير، نم جيداً وأحلام سعيدة."
+            }
+        ]
+    },
+    {
+        "section_en": "Introduce Yourself and Other People",
+        "section_ar": "تقديم نفسك والاشخاص الآخرين",
+        "key_icon": "people",
+        "examples": [
+            {
+                "en": "My name is John, and I am a software developer.",
+                "ar": "اسمي جون، وأنا مطور برامج."
+            },
+            {
+                "en": "Nice to meet you, I have heard a lot about you.",
+                "ar": "سعيد بلقائك، لقد سمعت الكثير عنك."
+            },
+            {
+                "en": "This is my friend Sarah, she works as a doctor.",
+                "ar": "هذه صديقتي سارة، هي تعمل كطبيبة."
+            },
+            {
+                "en": "What is your name and where are you from?",
+                "ar": "ما اسمك ومن أين أنت؟"
+            }
+        ]
+    },
+    {
+        "section_en": "How are you",
+        "section_ar": "كيف حالك",
+        "key_icon": "how_are_you",
+        "examples": [
+            {
+                "en": "How are you feeling today?",
+                "ar": "كيف تشعر اليوم؟"
+            },
+            {
+                "en": "I am fine, thank you for asking.",
+                "ar": "أنا بخير، شكراً لسؤالك."
+            },
+            {
+                "en": "How about you? How have you been?",
+                "ar": "وكيف حالك أنت؟ كيف كانت أحوالك؟"
+            },
+            {
+                "en": "I am doing well, just a bit tired from work.",
+                "ar": "أنا بخير، فقط متعب قليلاً من العمل."
+            }
+        ]
+    },
+    {
+        "section_en": "Ending and Starting a Conversation",
+        "section_ar": "إنهاء وبدء محادثة",
+        "key_icon": "conversation",
+        "examples": [
+            {
+                "en": "Let's talk",
+                "ar": "دعنا نتحدث"
+            },
+            {
+                "en": "Can we continue this later?",
+                "ar": "هل يمكننا متابعة هذا لاحقًا؟"
+            },
+            {
+                "en": "It was nice talking to you",
+                "ar": "كان من الجميل التحدث معك"
+            },
+            {
+                "en": "I have to go now",
+                "ar": "يجب أن أذهب الآن"
+            },
+            {
+                "en": "Let's talk about the new project we are working on.",
+                "ar": "دعنا نتحدث عن المشروع الجديد الذي نعمل عليه."
+            },
+            {
+                "en": "Can we continue this conversation later? I have a meeting now.",
+                "ar": "هل يمكننا متابعة هذه المحادثة لاحقاً؟ لدي اجتماع الآن."
+            },
+            {
+                "en": "It was nice talking to you, let's catch up again soon.",
+                "ar": "كان من الجميل التحدث معك، دعنا نتواصل مرة أخرى قريباً."
+            },
+            {
+                "en": "I have to go now, but we will talk more later.",
+                "ar": "يجب أن أذهب الآن، ولكن سنتحدث أكثر لاحقاً."
+            }
+        ]
+    },
+    {
+        "section_en": "Bedtime and sleeping",
+        "section_ar": "وقت النوم",
+        "key_icon": "sleeping",
+        "examples": [
+            {
+                "en": "Good night",
+                "ar": "تصبح على خير"
+            },
+            {
+                "en": "Sweet dreams",
+                "ar": "أحلام سعيدة"
+            },
+            {
+                "en": "I am going to bed",
+                "ar": "سأذهب إلى السرير"
+            },
+            {
+                "en": "Sleep well",
+                "ar": "نم جيداً"
+            },
+            {
+                "en": "Good night, I hope you have a restful sleep.",
+                "ar": "تصبح على خير، آمل أن تنام نوماً هادئاً."
+            },
+            {
+                "en": "Sweet dreams, see you in the morning.",
+                "ar": "أحلام سعيدة، أراك في الصباح."
+            },
+            {
+                "en": "I am going to bed now, it's been a long day.",
+                "ar": "سأذهب إلى السرير الآن، لقد كان يوماً طويلاً."
+            },
+            {
+                "en": "Sleep well and don't forget to set your alarm.",
+                "ar": "نم جيداً ولا تنسى ضبط المنبه."
+            }
+        ]
+    },
+    {
+        "section_en": "Telling the Time and Date",
+        "section_ar": "الوقت والتاريخ",
+        "key_icon": "calendar",
+        "examples": [
+            {
+                "en": "What time is it?",
+                "ar": "كم الساعة؟"
+            },
+            {
+                "en": "It is 3 o'clock",
+                "ar": "إنها الساعة الثالثة"
+            },
+            {
+                "en": "Today is Monday",
+                "ar": "اليوم هو الاثنين"
+            },
+            {
+                "en": "What is the date today?",
+                "ar": "ما تاريخ اليوم؟"
+            },
+            {
+                "en": "What time is it now? I need to leave soon.",
+                "ar": "كم الساعة الآن؟ أحتاج إلى المغادرة قريباً."
+            },
+            {
+                "en": "It is 3 o'clock in the afternoon.",
+                "ar": "إنها الساعة الثالثة بعد الظهر."
+            },
+            {
+                "en": "Today is Monday, the beginning of the work week.",
+                "ar": "اليوم هو الاثنين، بداية أسبوع العمل."
+            },
+            {
+                "en": "What is the date today? I need to write it down.",
+                "ar": "ما تاريخ اليوم؟ أحتاج إلى تدوينه."
+            }
+        ]
+    },
+    {
+        "section_en": "Thanks, Returning thanks",
+        "section_ar": "الشكر والشكر الجزيل",
+        "key_icon": "thanks",
+        "examples": [
+            {
+                "en": "Thank you so much for your help, I really appreciate it.",
+                "ar": "شكراً جزيلاً على مساعدتك، أنا أقدر ذلك حقاً."
+            },
+            {
+                "en": "You're welcome, it was my pleasure to assist you.",
+                "ar": "عفواً، كان من دواعي سروري مساعدتك."
+            },
+            {
+                "en": "I appreciate your support and understanding.",
+                "ar": "أنا أقدر دعمك وتفهمك."
+            },
+            {
+                "en": "Thank you very much for the gift, it means a lot to me.",
+                "ar": "شكراً جزيلاً على الهدية، إنها تعني لي الكثير."
+            }
+        ]
+    },
+    {
+        "section_en": "Talking about the Weather",
+        "section_ar": "التحدث عن الطقس",
+        "key_icon": "weather",
+        "examples": [
+            {
+                "en": "It is sunny today",
+                "ar": "الجو مشمس اليوم"
+            },
+            {
+                "en": "Is it going to rain?",
+                "ar": "هل ستمطر؟"
+            },
+            {
+                "en": "It is very hot",
+                "ar": "الجو حار جداً"
+            },
+            {
+                "en": "The weather is nice",
+                "ar": "الطقس لطيف"
+            },
+            {
+                "en": "It is sunny today, a perfect day for a walk in the park.",
+                "ar": "الجو مشمس اليوم، يوم مثالي للمشي في الحديقة."
+            },
+            {
+                "en": "Is it going to rain later? I need to know if I should take an umbrella.",
+                "ar": "هل ستمطر لاحقاً؟ أحتاج إلى معرفة ما إذا كان يجب أن أحمل مظلة."
+            },
+            {
+                "en": "It is very hot outside, make sure to stay hydrated.",
+                "ar": "الجو حار جداً في الخارج، تأكد من البقاء مرطباً."
+            },
+            {
+                "en": "The weather is nice and cool, a perfect evening for a stroll.",
+                "ar": "الطقس لطيف ومعتدل، مساء مثالي للنزهة."
+            }
+        ]
+    },{
+        "section_en": "Talking about family",
+        "section_ar": "التحدث عن العائلة",
+        "key_icon": "family",
+        "examples": [
+            {
+                "en": "My family is very close, we spend a lot of time together.",
+                "ar": "عائلتي متقاربة جداً، نقضي الكثير من الوقت معاً."
+            },
+            {
+                "en": "I have two brothers and one sister, and we all get along well.",
+                "ar": "لدي شقيقان وأخت واحدة، ونتفاهم جميعاً بشكل جيد."
+            },
+            {
+                "en": "Every weekend, we have a family dinner at my grandparents' house.",
+                "ar": "في كل عطلة نهاية الأسبوع، نتناول عشاء عائلي في منزل أجدادي."
+            },
+            {
+                "en": "My parents are very supportive and always encourage me.",
+                "ar": "والداي داعمان جداً ويشجعانني دائماً."
+            }
+        ]
+    },
+    {
+        "section_en": "Children and Childhood",
+        "section_ar": "الأطفال والطفولة",
+        "key_icon": "child",
+        "examples": [
+            {
+                "en": "Children learn a lot through play and exploration.",
+                "ar": "يتعلم الأطفال الكثير من خلال اللعب والاستكشاف."
+            },
+            {
+                "en": "My childhood was filled with joyful memories and adventures.",
+                "ar": "كانت طفولتي مليئة بالذكريات السعيدة والمغامرات."
+            },
+            {
+                "en": "We should always encourage children to be curious and creative.",
+                "ar": "يجب علينا دائماً تشجيع الأطفال على الفضول والإبداع."
+            },
+            {
+                "en": "Reading stories to children helps in their development.",
+                "ar": "قراءة القصص للأطفال تساعد في تطورهم."
+            }
+        ]
+    },
+    {
+        "section_en": "Friends and Relationships",
+        "section_ar": "الأصدقاء والعلاقات",
+        "key_icon": "friends",
+        "examples": [
+            {
+                "en": "Friendship is built on trust and mutual respect.",
+                "ar": "تُبنى الصداقة على الثقة والاحترام المتبادل."
+            },
+            {
+                "en": "I have a close group of friends whom I trust deeply.",
+                "ar": "لدي مجموعة من الأصدقاء المقربين الذين أثق بهم بعمق."
+            },
+            {
+                "en": "Maintaining relationships requires effort and communication.",
+                "ar": "يتطلب الحفاظ على العلاقات الجهد والتواصل."
+            },
+            {
+                "en": "We often hang out on weekends and enjoy various activities together.",
+                "ar": "نخرج غالباً في عطلات نهاية الأسبوع ونستمتع بالأنشطة المختلفة معاً."
+            }
+        ]
+    },
+    {
+        "section_en": "Inviting someone",
+        "section_ar": "دعوة شخص ما",
+        "key_icon": "invite",
+        "examples": [
+            {
+                "en": "Would you like to come over for dinner this Friday?",
+                "ar": "هل ترغب في المجيء لتناول العشاء هذا الجمعة؟"
+            },
+            {
+                "en": "I am having a small party this weekend, and I would love for you to join us.",
+                "ar": "سأقيم حفلة صغيرة في نهاية هذا الأسبوع، وأود أن تنضم إلينا."
+            },
+            {
+                "en": "How about we go out for coffee tomorrow afternoon?",
+                "ar": "ما رأيك أن نخرج لتناول القهوة بعد ظهر الغد؟"
+            },
+            {
+                "en": "I am organizing a game night, and it would be great if you could come.",
+                "ar": "أقوم بتنظيم ليلة ألعاب، وسيكون رائعاً إذا تمكنت من الحضور."
+            }
+        ]
+    },
+    {
+        "section_en": "Dealing With Different Types Of People",
+        "section_ar": "التعامل مع أنواع مختلفة من الناس",
+        "key_icon": "people2",
+        "examples": [
+            {
+                "en": "It is important to understand different perspectives and be empathetic.",
+                "ar": "من المهم فهم وجهات النظر المختلفة والتعاطف مع الآخرين."
+            },
+            {
+                "en": "Effective communication is key to dealing with various personalities.",
+                "ar": "يعتبر التواصل الفعال مفتاحاً للتعامل مع شخصيات متنوعة."
+            },
+            {
+                "en": "We should always strive to be patient and open-minded.",
+                "ar": "يجب علينا دائماً السعي لأن نكون صبورين ومنفتحين."
+            },
+            {
+                "en": "Building relationships requires acknowledging and respecting differences.",
+                "ar": "يتطلب بناء العلاقات الاعتراف بالاختلافات واحترامها."
+            }
+        ]
+    },
+    {
+        "section_en": "Dealing with People 2",
+        "section_ar": "التعامل مع أنواع مختلفة من الناس 2",
+        "key_icon": "people3",
+        "examples": [
+            {
+                "en": "Listening actively is crucial when interacting with others.",
+                "ar": "الاستماع النشط ضروري عند التفاعل مع الآخرين."
+            },
+            {
+                "en": "Conflict resolution skills are important in any relationship.",
+                "ar": "مهارات حل النزاعات مهمة في أي علاقة."
+            },
+            {
+                "en": "We can learn a lot from people who have different experiences.",
+                "ar": "يمكننا تعلم الكثير من الأشخاص الذين لديهم تجارب مختلفة."
+            },
+            {
+                "en": "Respecting cultural differences enriches our interactions.",
+                "ar": "احترام الاختلافات الثقافية يغني تفاعلاتنا."
+            }
+        ]
+    },
+    {
+        "section_en": "How To Support And Encourage People",
+        "section_ar": "كيفية دعم وتشجيع الناس",
+        "key_icon": "support",
+        "examples": [
+            {
+                "en": "Offering a listening ear can be very supportive for someone in need.",
+                "ar": "تقديم أذن مصغية يمكن أن يكون داعماً جداً لشخص محتاج."
+            },
+            {
+                "en": "Encouraging words can have a powerful impact on someone's confidence.",
+                "ar": "يمكن أن يكون للكلمات المشجعة تأثير قوي على ثقة الشخص."
+            },
+            {
+                "en": "We should always be there for our friends and family during tough times.",
+                "ar": "يجب أن نكون دائماً بجانب أصدقائنا وعائلتنا في الأوقات الصعبة."
+            },
+            {
+                "en": "Showing appreciation and gratitude can greatly motivate others.",
+                "ar": "إظهار التقدير والامتنان يمكن أن يحفز الآخرين بشكل كبير."
+            }
+        ]
+    },
+
+
+    {
+        "section_en": "Describing People",
+        "section_ar": "وصف الناس",
+        "key_icon": "Describing",
+        "examples": [
+            {
+                "en": "She has long brown hair and bright blue eyes.",
+                "ar": "لديها شعر بني طويل وعينان زرقاوان لامعتان."
+            },
+            {
+                "en": "He is tall and athletic, with a friendly smile.",
+                "ar": "هو طويل ورياضي، ولديه ابتسامة ودودة."
+            },
+            {
+                "en": "She is known for her kind heart and gentle nature.",
+                "ar": "هي معروفة بقلبها الطيب وطبيعتها الرقيقة."
+            },
+            {
+                "en": "He has a sharp mind and a great sense of humor.",
+                "ar": "لديه عقل حاد وحس فكاهي رائع."
+            }
+        ]
+    },
+    {
+        "section_en": "Visiting Someone",
+        "section_ar": "زيارة شخص ما",
+        "key_icon": "visit",
+        "examples": [
+            {
+                "en": "I am planning to visit my friend this weekend.",
+                "ar": "أخطط لزيارة صديقي في نهاية هذا الأسبوع."
+            },
+            {
+                "en": "We should bring a gift when visiting someone's house for the first time.",
+                "ar": "يجب أن نحضر هدية عند زيارة منزل شخص لأول مرة."
+            },
+            {
+                "en": "It's polite to call ahead and let them know you are coming.",
+                "ar": "من الأدب الاتصال مسبقاً وإعلامهم بأنك ستأتي."
+            },
+            {
+                "en": "Visiting family and friends is a great way to strengthen relationships.",
+                "ar": "زيارة العائلة والأصدقاء طريقة رائعة لتعزيز العلاقات."
+            }
+        ]
+    },
+   
+    {
+        "section_en": "Communicating with People From Other Countries",
+        "section_ar": "التواصل مع أشخاص من دول أخرى",
+        "key_icon": "countries",
+        "examples": [
+            {
+                "en": "It's important to be aware of cultural differences when communicating with people from other countries.",
+                "ar": "من المهم أن تكون على دراية بالاختلافات الثقافية عند التواصل مع أشخاص من دول أخرى."
+            },
+            {
+                "en": "Learning a few phrases in another language can be very helpful.",
+                "ar": "تعلم بعض العبارات بلغة أخرى يمكن أن يكون مفيداً جداً."
+            },
+            {
+                "en": "Using clear and simple language helps avoid misunderstandings.",
+                "ar": "استخدام لغة واضحة وبسيطة يساعد على تجنب سوء الفهم."
+            },
+            {
+                "en": "Respect and patience are key when communicating across cultures.",
+                "ar": "الاحترام والصبر هما المفتاح عند التواصل بين الثقافات."
+            }
+        ]
+    },
+    {
+        "section_en": "Expressing your feelings",
+        "section_ar": "التعبير عن مشاعرك",
+        "key_icon": "feelings",
+        "examples": [
+            {
+                "en": "I feel very happy when I spend time with my family.",
+                "ar": "أشعر بسعادة كبيرة عندما أقضي الوقت مع عائلتي."
+            },
+            {
+                "en": "It's important to express your feelings honestly and openly.",
+                "ar": "من المهم التعبير عن مشاعرك بصدق ووضوح."
+            },
+            {
+                "en": "Sharing your emotions can help you feel better and more understood.",
+                "ar": "مشاركة مشاعرك يمكن أن يساعدك على الشعور بالتحسن والفهم."
+            },
+            {
+                "en": "I am really grateful for all the support you have given me.",
+                "ar": "أنا ممتن جداً لكل الدعم الذي قدمته لي."
+            },
+            {
+                "en": "I feel a sense of accomplishment when I finish a challenging task.",
+                "ar": "أشعر بإحساس بالإنجاز عندما أنهي مهمة صعبة."
+            },
+            {
+                "en": "I'm feeling a bit under the weather today.",
+                "ar": "أشعر بتعب بعض الشيء اليوم."
+            },
+            {
+                "en": "I'm so excited about our upcoming trip to Europe!",
+                "ar": "أنا متحمس جداً لرحلتنا القادمة إلى أوروبا!"
+            },
+            {
+                "en": "I've been feeling down lately, but I'm trying to stay positive.",
+                "ar": "لقد كنت أشعر بالحزن مؤخرًا، لكنني أحاول أن أظل إيجابيًا."
+            },
+            {
+                "en": "I'm feeling a bit under the weather today.",
+                "ar": "أشعر بتعب بعض الشيء اليوم."
+            },
+            {
+                "en": "I'm over the moon about my new job.",
+                "ar": "أنا في غاية السعادة بوظيفتي الجديدة."
+            },
+            {
+                "en": "I'm so sorry to hear that. How can I help?",
+                "ar": "أنا آسف جدًا لسماع ذلك. كيف يمكنني مساعدتك؟"
+            },
+            {
+                "en": "That's great news! I'm really happy for you.",
+                "ar": "هذا خبر رائع! أنا سعيد جدًا من أجلك."
+            }
+        ]
+    },
+
+
+{
+    "section_en": "At the supermarket",
+    "section_ar": "في السوبر ماركت",
+    "key_icon": "supermarket",
+    "examples": [
+        {
+            "en": "I'm looking for a gluten-free pizza crust.",
+            "ar": "أبحث عن عجينة بيتزا خالية من الغلوتين."
+        },
+        {
+            "en": "Could you recommend a good red wine to pair with this steak?",
+            "ar": "هل يمكنك أن توصيني بخمر أحمر جيد يتناسب مع هذه الشريحة اللحم؟"
+        },
+        {
+            "en": "I'm allergic to nuts, so please make sure there are no nuts in my salad.",
+            "ar": "أعاني من حساسية من المكسرات، لذا يرجى التأكد من عدم وجود مكسرات في سلطة."
+        },
+        {
+            "en": "Do you have any vegan options?",
+            "ar": "هل لديكم أي خيارات نباتية؟"
+        },
+        {
+            "en": "Can I get a slice of pepperoni pizza, please?",
+            "ar": "هل يمكنني الحصول على شريحة بيتزا بيبروني، من فضلك؟"
+        }
+    ]
+},
+
+
+{
+    "section_en": "At the restaurant/coffee shop (ordering/restaurant problems)",
+    "section_ar": "في المطعم/ المقهى (الطلب/ مشاكل المطعم)",
+    "key_icon": "restaurant",
+    "examples": [
+        {
+            "en": "Could I have a glass of water, please?",
+            "ar": "هل يمكنني الحصول على كوب من الماء، من فضلك؟"
+        },
+        {
+            "en": "Excuse me, but there's a hair in my soup.",
+            "ar": "عذراً، ولكن هناك شعرة في شوربتي."
+        }
+    ]
+},
+{
+    "section_en": "At the bakery",
+    "section_ar": "في المخبز",
+    "key_icon": "bread",
+    "examples": [
+        {
+            "en": "Can I get a dozen croissants, please?",
+            "ar": "هل يمكنني الحصول على دزينة كرواسان، من فضلك؟"
+        },
+        {
+            "en": "Do you have any whole wheat bread?",
+            "ar": "هل لديكم أي خبز قمح كامل؟"
+        }
+    ]
+},
+{
+    "section_en": "Meals and cooking at home",
+    "section_ar": "الوجبات والطبخ في المنزل",
+    "key_icon": "meals",
+    "examples": [
+        {
+            "en": "I'm going to make a salad for dinner.",
+            "ar":  "سأقوم بعمل سلطة للعشاء."
+        },
+        {
+            "en": "What's your favorite recipe?",
+            "ar":  "ما هي وصفتك المفضلة؟"
+        }
+    ]
+},
+{
+    "section_en": "health",
+    "section_ar": "الصحة",
+    "key_icon": "doctor",
+    "examples": [
+        {
+            "en": "I need to see a doctor.",
+            "ar": "أحتاج لرؤية الطبيب."
+        },
+        {
+            "en": "Do you have any allergies?",
+            "ar": "هل لديك أي حساسية؟"
+        },
+        {
+            "en": "I feel tired all the time.",
+            "ar": "أشعر بالتعب طوال الوقت."
+        },
+        {
+            "en": "What kind of exercise do you recommend?",
+            "ar": "ما نوع التمارين التي توصي بها؟"
+        },
+        {
+            "en": "I have a headache.",
+            "ar": "أعاني من صداع."
+        },
+        {
+            "en": "She has a high fever.",
+            "ar": "لديها حمى مرتفعة."
+        },
+        {
+            "en": "I am feeling nauseous.",
+            "ar": "أشعر بالغثيان."
+        },
+        {
+            "en": "He is coughing a lot.",
+            "ar": "هو يسعل كثيراً."
+        },
+        {
+            "en": "Call an ambulance!",
+            "ar": "اتصل بالإسعاف!"
+        },
+        {
+            "en": "There has been a car accident.",
+            "ar": "حدث حادث سيارة."
+        },
+        {
+            "en": "I need help immediately.",
+            "ar": "أحتاج إلى مساعدة فوراً."
+        },
+        {
+            "en": "Is anyone injured?",
+            "ar": "هل هناك أي شخص مصاب؟"
+        },
+        {
+            "en": "I have a sore throat.",
+            "ar": "أعاني من التهاب في الحلق."
+        },
+        {
+            "en": "How long have you had these symptoms?",
+            "ar": "منذ متى وأنت تعاني من هذه الأعراض؟"
+        },
+        {
+            "en": "Take a deep breath.",
+            "ar": "خذ نفسًا عميقًا."
+        },
+        {
+            "en": "You need to rest.",
+            "ar": "تحتاج إلى الراحة."
+        }
+    ]
+},
+
+
+{
+    "section_en": "at the pharmacy",
+    "section_ar": "في الصيدلية",
+    "key_icon": "medicine",
+    "examples": [
+        {
+            "en": "I need this prescription filled.",
+            "ar": "أحتاج إلى صرف هذه الوصفة الطبية."
+        },
+        {
+            "en": "Do you have any painkillers?",
+            "ar": "هل لديك أي مسكنات ألم؟"
+        },
+        {
+            "en": "How often should I take this medicine?",
+            "ar": "كم مرة يجب أن أتناول هذا الدواء؟"
+        },
+        {
+            "en": "Are there any side effects?",
+            "ar": "هل هناك أي آثار جانبية؟"
+        }
+    ]
+},
+{
+    "section_en": "mental health",
+    "section_ar": "الصحة النفسية",
+    "key_icon": "psychologist",
+    "examples": [
+        {
+            "en": "I am feeling very anxious.",
+            "ar": "أشعر بالقلق الشديد."
+        },
+        {
+            "en": "Do you feel depressed?",
+            "ar": "هل تشعر بالاكتئاب؟"
+        },
+        {
+            "en": "It’s important to talk to someone.",
+            "ar": "من المهم التحدث إلى شخص ما."
+        },
+        {
+            "en": "How do you cope with stress?",
+            "ar": "كيف تتعامل مع التوتر؟"
+        }
+    ]
+},
+{
+    "section_en": "at a clothes shop",
+    "section_ar": "متجر الملابس",
+    "key_icon": "clothes",
+    "examples": [
+        {
+            "en": "Can I try this on?",
+            "ar": "هل يمكنني تجربة هذا؟"
+        },
+        {
+            "en": "Do you have this in a different size?",
+            "ar": "هل لديك هذا بمقاس مختلف؟"
+        },
+        {
+            "en": "Where are the fitting rooms?",
+            "ar": "أين غرف القياس؟"
+        },
+        {
+            "en": "I like this style.",
+            "ar": "أعجبني هذا النمط."
+        },
+        {
+            "en": "I need this suit dry cleaned.",
+            "ar": "أحتاج إلى تنظيف هذه البدلة جافًا."
+        },
+        {
+            "en": "When will it be ready?",
+            "ar": "متى سيكون جاهزًا؟"
+        },
+        {
+            "en": "Can you remove this stain?",
+            "ar": "هل يمكنك إزالة هذه البقعة؟"
+        },
+        {
+            "en": "I would like to pick up my clothes.",
+            "ar": "أود استلام ملابسي."
+        }
+    ]
+},
+{
+    "section_en": "shopping",
+    "section_ar": "التسوق",
+    "key_icon": "shopping",
+    "examples": [
+        {
+            "en": "How much does this cost?",
+            "ar": "كم سعر هذا؟"
+        },
+        {
+            "en": "Can I pay by credit card?",
+            "ar": "هل يمكنني الدفع بواسطة بطاقة الائتمان؟"
+        },
+        {
+            "en": "Do you have a discount?",
+            "ar": "هل لديك خصم؟"
+        },
+        {
+            "en": "Where can I find the nearest supermarket?",
+            "ar": "أين يمكنني العثور على أقرب سوبرماركت؟"
+        }
+    ]
+},
+{
+    "section_en": "Agreeing and Disagreeing",
+    "section_ar": "الاتفاق والاختلاف",
+    "key_icon": "agree",
+    "examples": [
+        {
+            "en": "I completely agree with you.",
+            "ar": "أنا أتفق معك تمامًا."
+        },
+        {
+            "en": "I don't think that's right.",
+            "ar": "لا أعتقد أن هذا صحيح."
+        },
+        {
+            "en": "That's a good point.",
+            "ar": "هذه نقطة جيدة."
+        },
+        {
+            "en": "I see it differently.",
+            "ar": "أراه بشكل مختلف."
+        }
+    ]
+},
+{
+    "section_en": "Disputes",
+    "section_ar": "النزاعات",
+    "key_icon": "fight",
+    "examples": [
+        {
+            "en": "We need to resolve this issue.",
+            "ar": "نحتاج إلى حل هذه المشكلة."
+        },
+        {
+            "en": "There has been a misunderstanding.",
+            "ar": "كان هناك سوء فهم."
+        },
+        {
+            "en": "Can we find a compromise?",
+            "ar": "هل يمكننا إيجاد حل وسط؟"
+        },
+        {
+            "en": "This is not acceptable.",
+            "ar": "هذا غير مقبول."
+        }
+    ]
+},
+{
+    "section_en": "Travel",
+    "section_ar": "السفر",
+    "key_icon": "travel",
+    "examples": [
+        {
+            "en": "When is the next flight?",
+            "ar": "متى تكون الرحلة التالية؟"
+        },
+        {
+            "en": "I need to book a hotel.",
+            "ar": "أحتاج إلى حجز فندق."
+        },
+        {
+            "en": "Where is the nearest train station?",
+            "ar": "أين أقرب محطة قطار؟"
+        },
+        {
+            "en": "Can I have a map, please?",
+            "ar": "هل يمكنني الحصول على خريطة، من فضلك؟"
+        }
+    ]
+},
+{
+    "section_en": "Discussion",
+    "section_ar": "المناقشة",
+    "key_icon": "discussion",
+    "examples": [
+        {
+            "en": "What are your thoughts on this?",
+            "ar": "ما هي أفكارك حول هذا؟"
+        },
+        {
+            "en": "Let's discuss the details.",
+            "ar": "دعونا نناقش التفاصيل."
+        },
+        {
+            "en": "I would like to hear your opinion.",
+            "ar": "أود سماع رأيك."
+        },
+        {
+            "en": "Can we talk about this later?",
+            "ar": "هل يمكننا التحدث عن هذا لاحقاً؟"
+        }
+    ]
+},
+{
+    "section_en": "Making Phone Calls",
+    "section_ar": "إجراء المكالمات الهاتفية",
+    "key_icon": "phone-call",
+    "examples": [
+        {
+            "en": "Can I speak to John, please?",
+            "ar": "هل يمكنني التحدث إلى جون، من فضلك؟"
+        },
+        {
+            "en": "I'll call you back later.",
+            "ar": "سأتصل بك لاحقًا."
+        },
+        {
+            "en": "The line is busy.",
+            "ar": "الخط مشغول."
+        },
+        {
+            "en": "Can you hear me clearly?",
+            "ar": "هل تسمعني بوضوح؟"
+        },
+        {
+            "en": "There is no signal.",
+            "ar": "لا يوجد إشارة."
+        },
+        {
+            "en": "I can't make a call.",
+            "ar": "لا أستطيع إجراء مكالمة."
+        },
+        {
+            "en": "You have reached the voicemail of...",
+            "ar": "لقد وصلت إلى البريد الصوتي لـ..."
+        },
+        {
+            "en": "Please leave a message after the beep.",
+            "ar": "يرجى ترك رسالة بعد الصافرة."
+        }
+    ]
+},
+
+{
+    "section_en": "Transportation",
+    "section_ar": "وسائل المواصلات",
+    "key_icon": "transportation",
+    "examples": [
+        {
+            "en": "Where can I catch a bus?",
+            "ar": "أين يمكنني ركوب الحافلة؟"
+        },
+        {
+            "en": "Is this the right train to downtown?",
+            "ar": "هل هذا القطار الصحيح إلى وسط المدينة؟"
+        },
+        {
+            "en": "How much is a ticket to the airport?",
+            "ar": "كم سعر التذكرة إلى المطار؟"
+        },
+        {
+            "en": "The bus is late.",
+            "ar": "الحافلة متأخرة."
+        },
+        {
+            "en": "Can I rent a bike here?",
+            "ar": "هل يمكنني استئجار دراجة هنا؟"
+        },
+        {
+            "en": "Is there a taxi stand nearby?",
+            "ar": "هل يوجد موقف سيارات أجرة قريب؟"
+        },
+        {
+            "en": "How do I get to the ferry terminal?",
+            "ar": "كيف أصل إلى محطة العبارات؟"
+        },
+        {
+            "en": "Are there any car rental services around?",
+            "ar": "هل توجد خدمات تأجير سيارات في المنطقة؟"
+        },
+        {
+            "en": "I need a car repair.",
+            "ar": "أحتاج إلى إصلاح السيارة."
+        },
+        {
+            "en": "How much does this car cost?",
+            "ar": "كم تكلف هذه السيارة؟"
+        },
+        {
+            "en": "The engine is making a strange noise.",
+            "ar": "المحرك يصدر صوتًا غريبًا."
+        },
+        {
+            "en": "Can I take it for a test drive?",
+            "ar": "هل يمكنني تجربتها؟"
+        }
+    ]
+},
+
+{
+    "section_en": "At a Gas Station",
+    "section_ar": "محطة وقود",
+    "key_icon": "gas-station",
+    "examples": [
+        {
+            "en": "Fill it up, please.",
+            "ar": "املأها، من فضلك."
+        },
+        {
+            "en": "Where is the nearest gas station?",
+            "ar": "أين أقرب محطة وقود؟"
+        },
+        {
+            "en": "I need to check the oil.",
+            "ar": "أحتاج إلى فحص الزيت."
+        },
+        {
+            "en": "Can you clean the windshield?",
+            "ar": "هل يمكنك تنظيف الزجاج الأمامي؟"
+        }
+    ]
+},
+
+{
+    "section_en": "Hotels",
+    "section_ar": "الفنادق",
+    "key_icon": "hotel",
+    "examples": [
+        {
+            "en": "I have a reservation.",
+            "ar": "لدي حجز."
+        },
+        {
+            "en": "Can I have a room with a view?",
+            "ar": "هل يمكنني الحصول على غرفة تطل على منظر؟"
+        },
+        {
+            "en": "What time is check-out?",
+            "ar": "ما هو وقت المغادرة؟"
+        },
+        {
+            "en": "Is breakfast included?",
+            "ar": "هل يشمل الإفطار؟"
+        }
+    ]
+},
+{
+    "section_en": "Apartments",
+    "section_ar": "الوحدات السكنية",
+    "key_icon": "apartments",
+    "examples": [
+        {
+            "en": "I am looking for an apartment to rent.",
+            "ar": "أبحث عن شقة للإيجار."
+        },
+        {
+            "en": "How much is the rent?",
+            "ar": "كم هو الإيجار؟"
+        },
+        {
+            "en": "Is the apartment furnished?",
+            "ar": "هل الشقة مفروشة؟"
+        },
+        {
+            "en": "Are utilities included?",
+            "ar": "هل تشمل المرافق؟"
+        }
+    ]
+},
+{
+    "section_en": "House Problems",
+    "section_ar": "مشاكل المنزل",
+    "key_icon": "house",
+    "examples": [
+        {
+            "en": "The sink is leaking.",
+            "ar": "الحوض يتسرب."
+        },
+        {
+            "en": "The heater is not working.",
+            "ar": "السخان لا يعمل."
+        },
+        {
+            "en": "We have a power outage.",
+            "ar": "لدينا انقطاع في الكهرباء."
+        },
+        {
+            "en": "Can you fix the broken window?",
+            "ar": "هل يمكنك إصلاح النافذة المكسورة؟"
+        },
+        {
+            "en": "I need to do the laundry.",
+            "ar": "أحتاج إلى غسيل الملابس."
+        },
+        {
+            "en": "Can you take out the trash?",
+            "ar": "هل يمكنك إخراج القمامة؟"
+        },
+        {
+            "en": "The floors need to be mopped.",
+            "ar": "يجب تنظيف الأرضيات."
+        },
+        {
+            "en": "I will cook dinner tonight.",
+            "ar": "سأطبخ العشاء الليلة."
+        }
+    ]
+},
+
+
+{
+    "section_en": "Talking to the Police",
+    "section_ar": "التحدث مع الشرطة",
+    "key_icon": "police",
+    "examples": [
+        {
+            "en": "I need to report a crime.",
+            "ar": "أحتاج إلى الإبلاغ عن جريمة."
+        },
+        {
+            "en": "Can you help me?",
+            "ar": "هل يمكنك مساعدتي؟"
+        },
+        {
+            "en": "I lost my wallet.",
+            "ar": "لقد فقدت محفظتي."
+        },
+        {
+            "en": "Where is the nearest police station?",
+            "ar": "أين أقرب مركز شرطة؟"
+        }
+    ]
+},
+{
+    "section_en": "Studying and Exams (Education)",
+    "section_ar": "الدراسة والامتحانات (التعليم)",
+    "key_icon": "school",
+    "examples": [
+        {
+            "en": "I have an exam tomorrow.",
+            "ar": "لدي امتحان غدًا."
+        },
+        {
+            "en": "Can you help me study?",
+            "ar": "هل يمكنك مساعدتي في الدراسة؟"
+        },
+        {
+            "en": "What is the homework for today?",
+            "ar": "ما هو الواجب المنزلي لليوم؟"
+        },
+        {
+            "en": "I need to write a report.",
+            "ar": "أحتاج إلى كتابة تقرير."
+        }
+    ]
+},
+{
+    "section_en": "At the Library",
+    "section_ar": "المكتبة",
+    "key_icon": "library",
+    "examples": [
+        {
+            "en": "Where can I find this book?",
+            "ar": "أين يمكنني العثور على هذا الكتاب؟"
+        },
+        {
+            "en": "I need to borrow these books.",
+            "ar": "أحتاج إلى استعارة هذه الكتب."
+        },
+        {
+            "en": "What are the library hours?",
+            "ar": "ما هي ساعات عمل المكتبة؟"
+        },
+        {
+            "en": "Is there a quiet place to study?",
+            "ar": "هل هناك مكان هادئ للدراسة؟"
+        }
+    ]
+},
+{
+    "section_en": "TV and Computers",
+    "section_ar": "التلفزيون والكمبيوتر",
+    "key_icon": "computers",
+    "examples": [
+        {
+            "en": "How do I connect to the internet?",
+            "ar": "كيف أتصل بالإنترنت؟"
+        },
+        {
+            "en": "What is your favorite TV show?",
+            "ar": "ما هو برنامجك التلفزيوني المفضل؟"
+        },
+        {
+            "en": "My computer is not working.",
+            "ar": "جهازي الكمبيوتر لا يعمل."
+        },
+        {
+            "en": "Can you help me fix this issue?",
+            "ar": "هل يمكنك مساعدتي في حل هذه المشكلة؟"
+        }
+    ]
+},
+{
+    "section_en": "The Senses",
+    "section_ar": "الحواس",
+    "key_icon": "person",
+    "examples": [
+        {
+            "en": "I can smell something burning.",
+            "ar": "أستطيع شم شيء يحترق."
+        },
+        {
+            "en": "This tastes really good.",
+            "ar": "هذا طعمه لذيذ جداً."
+        },
+        {
+            "en": "I heard a strange noise.",
+            "ar": "سمعت صوتاً غريباً."
+        },
+        {
+            "en": "Can you see the difference?",
+            "ar": "هل يمكنك رؤية الفرق؟"
+        }
+    ]
+},
+{
+    "section_en": "Pets",
+    "section_ar": "الحيوانات الأليفة",
+    "key_icon": "pets",
+    "examples": [
+        {
+            "en": "Do you have any pets?",
+            "ar": "هل لديك أي حيوانات أليفة؟"
+        },
+        {
+            "en": "What kind of pet do you have?",
+            "ar": "ما نوع الحيوان الأليف الذي لديك؟"
+        },
+        {
+            "en": "I need to take my dog for a walk.",
+            "ar": "أحتاج إلى أخذ كلبي في نزهة."
+        },
+        {
+            "en": "My cat is very friendly.",
+            "ar": "قطتي ودودة جداً."
+        }
+    ]
+},
+{
+    "section_en": "Smoking",
+    "section_ar": "التدخين",
+    "key_icon": "smoking",
+    "examples": [
+        {
+            "en": "Do you smoke?",
+            "ar": "هل تدخن؟"
+        },
+        {
+            "en": "Can you buy me a pack of cigarettes?",
+            "ar": "هل يمكنك شراء علبة سجائر لي؟"
+        },
+        {
+            "en": "Where is the smoking area?",
+            "ar": "أين منطقة التدخين؟"
+        },
+        {
+            "en": "I want to quit smoking.",
+            "ar": "أريد التوقف عن التدخين."
+        }
+    ]
+},
+{
+    "section_en": "Tickets to Events",
+    "section_ar": "تذاكر الأحداث",
+    "key_icon": "tickets",
+    "examples": [
+        {
+            "en": "Where can I buy tickets?",
+            "ar": "أين يمكنني شراء التذاكر؟"
+        },
+        {
+            "en": "How much are the tickets?",
+            "ar": "كم ثمن التذاكر؟"
+        },
+        {
+            "en": "I need tickets for two people.",
+            "ar": "أحتاج إلى تذاكر لشخصين."
+        },
+        {
+            "en": "Is there a discount for students?",
+            "ar": "هل هناك خصم للطلاب؟"
+        }
+    ]
+},
+{
+    "section_en": "Asking and Giving Directions",
+    "section_ar": "السؤال وإعطاء التوجيهات",
+    "key_icon": "question",
+    "examples": [
+        {
+            "en": "Can you tell me how to get to the station?",
+            "ar": "هل يمكنك أن تخبرني كيف أصل إلى المحطة؟"
+        },
+        {
+            "en": "Where is the nearest bus stop?",
+            "ar": "أين أقرب محطة حافلات؟"
+        },
+        {
+            "en": "How far is it to the airport?",
+            "ar": "كم يبعد المطار؟"
+        },
+        {
+            "en": "Can you show me on the map?",
+            "ar": "هل يمكنك أن تريني على الخريطة؟"
+        }
+    ]
+},
+{
+    "section_en": "Asking and Giving Advice",
+    "section_ar": "إعطاء المشورة",
+    "key_icon": "advice",
+    "examples": [
+        {
+            "en": "What should I do?",
+            "ar": "ماذا علي أن أفعل؟"
+        },
+        {
+            "en": "Can you give me some advice?",
+            "ar": "هل يمكنك إعطائي بعض النصائح؟"
+        },
+        {
+            "en": "I think you should see a doctor.",
+            "ar": "أعتقد أنك يجب أن ترى طبيبًا."
+        },
+        {
+            "en": "What do you recommend?",
+            "ar": "ماذا توصي؟"
+        }
+    ]
+},
+
+{
+    "section_en": "Warnings",
+    "section_ar": "تحذيرات",
+    "key_icon": "warning",
+    "examples": [
+        {
+            "en": "Be careful!",
+            "ar": "كن حذرًا!"
+        },
+        {
+            "en": "Watch out for the dog!",
+            "ar": "احترس من الكلب!"
+        },
+        {
+            "en": "Don't touch that!",
+            "ar": "لا تلمس ذلك!"
+        },
+        {
+            "en": "You need to be aware of the risks.",
+            "ar": "يجب أن تكون على دراية بالمخاطر."
+        }
+    ]
+},
+{
+    "section_en": "Money and Banking",
+    "section_ar": "المال والمصرف",
+    "key_icon": "banking",
+    "examples": [
+        {
+            "en": "I need to open a bank account.",
+            "ar": "أحتاج إلى فتح حساب بنكي."
+        },
+        {
+            "en": "How do I transfer money?",
+            "ar": "كيف أحول المال؟"
+        },
+        {
+            "en": "What is the exchange rate?",
+            "ar": "ما هو سعر الصرف؟"
+        },
+        {
+            "en": "I need to withdraw some cash.",
+            "ar": "أحتاج إلى سحب بعض النقود."
+        }
+    ]
+}
+]

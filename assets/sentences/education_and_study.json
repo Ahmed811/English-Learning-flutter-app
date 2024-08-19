@@ -1,0 +1,170 @@
+[
+    {
+        "english": "What subjects are you studying?",
+        "arabic": "ما هي المواد التي تدرسها؟"
+    },
+    {
+        "english": "I need help with my homework.",
+        "arabic": "أحتاج إلى مساعدة في واجبي المنزلي."
+    },
+    {
+        "english": "When is the exam?",
+        "arabic": "متى الامتحان؟"
+    },
+    {
+        "english": "Can I borrow your notes?",
+        "arabic": "هل يمكنني استعارة ملاحظاتك؟"
+    },
+    {
+        "english": "What time does class start?",
+        "arabic": "متى تبدأ الحصة؟"
+    },
+    {
+        "english": "I forgot my textbook.",
+        "arabic": "نسيت كتابي المدرسي."
+    },
+    {
+        "english": "Do you have any study tips?",
+        "arabic": "هل لديك أي نصائح للدراسة؟"
+    },
+    {
+        "english": "Can you explain this to me?",
+        "arabic": "هل يمكنك شرح هذا لي؟"
+    },
+    {
+        "english": "What is the homework for today?",
+        "arabic": "ما هو الواجب لليوم؟"
+    },
+    {
+        "english": "I need to prepare for my presentation.",
+        "arabic": "أحتاج إلى التحضير لعرضي التقديمي."
+    },
+    {
+        "english": "Where is the library?",
+        "arabic": "أين المكتبة؟"
+    },
+    {
+        "english": "Can you help me with this project?",
+        "arabic": "هل يمكنك مساعدتي في هذا المشروع؟"
+    },
+    {
+        "english": "What did we learn in class today?",
+        "arabic": "ماذا تعلمنا في الحصة اليوم؟"
+    },
+    {
+        "english": "Is there a quiz tomorrow?",
+        "arabic": "هل هناك اختبار غداً؟"
+    },
+    {
+        "english": "I need to check my grades.",
+        "arabic": "أحتاج إلى التحقق من درجاتي."
+    },
+    {
+        "english": "Can I use a calculator on the test?",
+        "arabic": "هل يمكنني استخدام الآلة الحاسبة في الاختبار؟"
+    },
+    {
+        "english": "What is the deadline for this assignment?",
+        "arabic": "ما هو الموعد النهائي لهذا الواجب؟"
+    },
+    {
+        "english": "Can you proofread my essay?",
+        "arabic": "هل يمكنك مراجعة مقالتي؟"
+    },
+    {
+        "english": "I need to improve my writing skills.",
+        "arabic": "أحتاج إلى تحسين مهارات الكتابة الخاصة بي."
+    },
+    {
+        "english": "What are the prerequisites for this course?",
+        "arabic": "ما هي المتطلبات المسبقة لهذه الدورة؟"
+    },
+    {
+        "english": "I have a group study session tonight.",
+        "arabic": "لدي جلسة دراسة جماعية الليلة."
+    },
+    {
+        "english": "What is the topic of your research?",
+        "arabic": "ما هو موضوع بحثك؟"
+    },
+    {
+        "english": "Can I get extra credit?",
+        "arabic": "هل يمكنني الحصول على درجات إضافية؟"
+    },
+    {
+        "english": "What is the attendance policy?",
+        "arabic": "ما هي سياسة الحضور؟"
+    },
+    {
+        "english": "I need to buy new school supplies.",
+        "arabic": "أحتاج إلى شراء لوازم مدرسية جديدة."
+    },
+    {
+        "english": "What chapters are included in the exam?",
+        "arabic": "ما هي الفصول المشمولة في الامتحان؟"
+    },
+    {
+        "english": "I need to focus on my studies.",
+        "arabic": "أحتاج إلى التركيز على دراستي."
+    },
+    {
+        "english": "Can I retake the test?",
+        "arabic": "هل يمكنني إعادة الامتحان؟"
+    },
+    {
+        "english": "What time is the study group meeting?",
+        "arabic": "متى يجتمع فريق الدراسة؟"
+    },
+    {
+        "english": "I need to sign up for a tutoring session.",
+        "arabic": "أحتاج إلى التسجيل في جلسة تدريسية."
+    },
+    {
+        "english": "Do you have any study guides?",
+        "arabic": "هل لديك أي أدلة دراسية؟"
+    },
+    {
+        "english": "What is your major?",
+        "arabic": "ما هو تخصصك؟"
+    },
+    {
+        "english": "I need to improve my grades.",
+        "arabic": "أحتاج إلى تحسين درجاتي."
+    },
+    {
+        "english": "Can I ask a question?",
+        "arabic": "هل يمكنني طرح سؤال؟"
+    },
+    {
+        "english": "What are you studying?",
+        "arabic": "ماذا تدرس؟"
+    },
+    {
+        "english": "I have a lot of assignments due next week.",
+        "arabic": "لدي العديد من الواجبات المستحقة الأسبوع المقبل."
+    },
+    {
+        "english": "Can you help me with this math problem?",
+        "arabic": "هل يمكنك مساعدتي في هذه المسألة الرياضية؟"
+    },
+    {
+        "english": "What time is your next class?",
+        "arabic": "متى حصتك التالية؟"
+    },
+    {
+        "english": "I need to take a break from studying.",
+        "arabic": "أحتاج إلى أخذ استراحة من الدراسة."
+    },
+    {
+        "english": "What books are required for this course?",
+        "arabic": "ما هي الكتب المطلوبة لهذه الدورة؟"
+    },
+    {
+        "english": "Can I join your study group?",
+        "arabic": "هل يمكنني الانضمام إلى فريق الدراسة الخاص بك؟"
+    },
+    {
+        "english": "I need to write a research paper.",
+        "arabic": "أحتاج إلى كتابة ورقة بحثية."
+    }
+]

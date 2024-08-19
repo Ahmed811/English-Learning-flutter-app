@@ -1,0 +1,22 @@
+[
+    {"english": "I'm a cybersecurity analyst.", "arabic": "أنا محلل أمن سيبراني."},
+    {"english": "I'm conducting a vulnerability assessment.", "arabic": "أجري تقييمًا للاختراقات المحتملة."},
+    {"english": "I'm implementing a firewall.", "arabic": "أقوم بتطبيق جدار ناري."},
+    {"english": "I'm responding to a security incident.", "arabic": "أستجيب لحادث أمني."},
+    {"english": "I'm developing a security policy.", "arabic": "أطور سياسة أمنية."},
+    {"english": "I'm conducting a penetration test.", "arabic": "أجري اختبار اختراق."},
+    {"english": "I'm using an intrusion detection system.", "arabic": "أستخدم نظام كشف التسلل."},
+    {"english": "I'm implementing two-factor authentication.", "arabic": "أقوم بتطبيق المصادقة الثنائية."},
+    {"english": "I'm creating security awareness training.", "arabic": "أنشئ تدريبًا للتوعية الأمنية."},
+    {"english": "I'm encrypting sensitive data.", "arabic": "أقوم بتشفير البيانات الحساسة."},
+    {"english": "I'm investigating a data breach.", "arabic": "أحقق في خرق البيانات."},
+    {"english": "I'm implementing a security information and event management system.", "arabic": "أقوم بتنفيذ نظام إدارة معلومات وأحداث الأمن."},
+    {"english": "I'm conducting a risk assessment.", "arabic": "أجري تقييمًا للمخاطر."},
+    {"english": "I'm patching vulnerabilities.", "arabic": "أقوم بترقيع الثغرات الأمنية."},
+    {"english": "I'm implementing a security operations center.", "arabic": "أقوم بتنفيذ مركز عمليات أمني."},
+    {"english": "I'm using a security information and event management system.", "arabic": "أستخدم نظام إدارة معلومات وأحداث الأمن."},
+    {"english": "I'm conducting a social engineering assessment.", "arabic": "أجري تقييمًا للهندسة الاجتماعية."},
+    {"english": "I'm implementing a business continuity plan.", "arabic": "أقوم بتنفيذ خطة استمرارية الأعمال."},
+    {"english": "I'm using a security orchestration, automation, and response platform.", "arabic": "أستخدم منصة أوركسترا وأتمتة واستجابة أمنية."},
+    {"english": "I'm implementing a zero trust architecture.", "arabic": "أقوم بتنفيذ بنية صفرية الثقة."}
+  ]

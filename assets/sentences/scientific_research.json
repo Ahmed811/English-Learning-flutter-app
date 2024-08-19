@@ -1,0 +1,222 @@
+[
+    {
+        "english": "What is scientific research?",
+        "arabic": "ما هو البحث العلمي؟"
+    },
+    {
+        "english": "Scientific research is the systematic investigation of scientific theories and hypotheses.",
+        "arabic": "البحث العلمي هو التحقيق المنهجي في النظريات والفرضيات العلمية."
+    },
+    {
+        "english": "What are the steps of the scientific method?",
+        "arabic": "ما هي خطوات المنهج العلمي؟"
+    },
+    {
+        "english": "The steps include observation, hypothesis formation, experimentation, and conclusion.",
+        "arabic": "تشمل الخطوات الملاحظة، وتكوين الفرضية، والتجربة، والاستنتاج."
+    },
+    {
+        "english": "What is a hypothesis?",
+        "arabic": "ما هي الفرضية؟"
+    },
+    {
+        "english": "A hypothesis is a tentative explanation that can be tested through experiments.",
+        "arabic": "الفرضية هي تفسير مؤقت يمكن اختباره من خلال التجارب."
+    },
+    {
+        "english": "What is a literature review?",
+        "arabic": "ما هي مراجعة الأدبيات؟"
+    },
+    {
+        "english": "A literature review is a comprehensive survey of existing research on a particular topic.",
+        "arabic": "مراجعة الأدبيات هي مسح شامل للأبحاث الموجودة حول موضوع معين."
+    },
+    {
+        "english": "What is a research question?",
+        "arabic": "ما هو سؤال البحث؟"
+    },
+    {
+        "english": "A research question is a clear, focused question that guides a research study.",
+        "arabic": "سؤال البحث هو سؤال واضح ومحدد يوجه دراسة البحث."
+    },
+    {
+        "english": "What is qualitative research?",
+        "arabic": "ما هو البحث النوعي؟"
+    },
+    {
+        "english": "Qualitative research explores phenomena through detailed descriptions and interpretations.",
+        "arabic": "يستكشف البحث النوعي الظواهر من خلال الأوصاف والتفسيرات التفصيلية."
+    },
+    {
+        "english": "What is quantitative research?",
+        "arabic": "ما هو البحث الكمي؟"
+    },
+    {
+        "english": "Quantitative research involves the collection and analysis of numerical data.",
+        "arabic": "يتضمن البحث الكمي جمع وتحليل البيانات العددية."
+    },
+    {
+        "english": "What is an experiment?",
+        "arabic": "ما هي التجربة؟"
+    },
+    {
+        "english": "An experiment is a procedure carried out to support or refute a hypothesis.",
+        "arabic": "التجربة هي إجراء يتم إجراؤه لدعم أو دحض فرضية."
+    },
+    {
+        "english": "What is a variable in research?",
+        "arabic": "ما هي المتغيرات في البحث؟"
+    },
+    {
+        "english": "A variable is any factor that can change or be changed in an experiment.",
+        "arabic": "المتغير هو أي عامل يمكن أن يتغير أو يتم تغييره في تجربة."
+    },
+    {
+        "english": "What is a control group?",
+        "arabic": "ما هي المجموعة الضابطة؟"
+    },
+    {
+        "english": "A control group is a group in an experiment that does not receive the experimental treatment.",
+        "arabic": "المجموعة الضابطة هي مجموعة في تجربة لا تتلقى العلاج التجريبي."
+    },
+    {
+        "english": "What is a sample in research?",
+        "arabic": "ما هي العينة في البحث؟"
+    },
+    {
+        "english": "A sample is a subset of a population selected for a research study.",
+        "arabic": "العينة هي مجموعة فرعية من السكان يتم اختيارها لدراسة بحثية."
+    },
+    {
+        "english": "What is data analysis?",
+        "arabic": "ما هو تحليل البيانات؟"
+    },
+    {
+        "english": "Data analysis involves examining and interpreting data to draw conclusions.",
+        "arabic": "يتضمن تحليل البيانات فحص البيانات وتفسيرها لاستخلاص النتائج."
+    },
+    {
+        "english": "What is a research proposal?",
+        "arabic": "ما هي مقترح البحث؟"
+    },
+    {
+        "english": "A research proposal outlines the plan for a research study.",
+        "arabic": "مقترح البحث يحدد خطة لدراسة البحث."
+    },
+    {
+        "english": "What is a peer-reviewed journal?",
+        "arabic": "ما هي مجلة مراجعة الأقران؟"
+    },
+    {
+        "english": "A peer-reviewed journal publishes research that has been evaluated by experts in the field.",
+        "arabic": "تنشر مجلة مراجعة الأقران الأبحاث التي تم تقييمها من قبل خبراء في المجال."
+    },
+    {
+        "english": "What is an abstract in research?",
+        "arabic": "ما هو الملخص في البحث؟"
+    },
+    {
+        "english": "An abstract is a brief summary of a research paper.",
+        "arabic": "الملخص هو ملخص قصير لورقة بحثية."
+    },
+    {
+        "english": "What is the importance of ethics in scientific research?",
+        "arabic": "ما هي أهمية الأخلاقيات في البحث العلمي؟"
+    },
+    {
+        "english": "Ethics ensure that research is conducted responsibly and with integrity.",
+        "arabic": "الأخلاقيات تضمن أن يتم البحث بشكل مسؤول وبنزاهة."
+    },
+    {
+        "english": "What is a citation?",
+        "arabic": "ما هو الاستشهاد؟"
+    },
+    {
+        "english": "A citation is a reference to a source of information used in research.",
+        "arabic": "الاستشهاد هو إشارة إلى مصدر المعلومات المستخدم في البحث."
+    },
+    {
+        "english": "What is a bibliography?",
+        "arabic": "ما هي الببليوغرافيا؟"
+    },
+    {
+        "english": "A bibliography is a list of sources referenced in a research paper.",
+        "arabic": "الببليوغرافيا هي قائمة بالمصادر المشار إليها في ورقة بحثية."
+    },
+    {
+        "english": "What is an academic conference?",
+        "arabic": "ما هو المؤتمر الأكاديمي؟"
+    },
+    {
+        "english": "An academic conference is a formal event where researchers present their work.",
+        "arabic": "المؤتمر الأكاديمي هو حدث رسمي يقدم فيه الباحثون أعمالهم."
+    },
+    {
+        "english": "What is a research grant?",
+        "arabic": "ما هي منحة البحث؟"
+    },
+    {
+        "english": "A research grant is funding provided to support a research project.",
+        "arabic": "منحة البحث هي تمويل مقدم لدعم مشروع بحثي."
+    },
+    {
+        "english": "What is a theoretical framework?",
+        "arabic": "ما هو الإطار النظري؟"
+    },
+    {
+        "english": "A theoretical framework provides a foundation for understanding the research problem.",
+        "arabic": "يوفر الإطار النظري أساسًا لفهم مشكلة البحث."
+    },
+    {
+        "english": "What is empirical research?",
+        "arabic": "ما هو البحث التجريبي؟"
+    },
+    {
+        "english": "Empirical research is based on observed and measured phenomena.",
+        "arabic": "البحث التجريبي يستند إلى الظواهر الملاحظة والمقاسة."
+    },
+    {
+        "english": "What is a case study?",
+        "arabic": "ما هي دراسة الحالة؟"
+    },
+    {
+        "english": "A case study is an in-depth analysis of a single subject or group.",
+        "arabic": "دراسة الحالة هي تحليل متعمق لموضوع واحد أو مجموعة."
+    },
+    {
+        "english": "What is an independent variable?",
+        "arabic": "ما هو المتغير المستقل؟"
+    },
+    {
+        "english": "An independent variable is the variable that is manipulated in an experiment.",
+        "arabic": "المتغير المستقل هو المتغير الذي يتم التلاعب به في تجربة."
+    },
+    {
+        "english": "What is a dependent variable?",
+        "arabic": "ما هو المتغير التابع؟"
+    },
+    {
+        "english": "A dependent variable is the variable that is measured in an experiment.",
+        "arabic": "المتغير التابع هو المتغير الذي يتم قياسه في تجربة."
+    },
+    {
+        "english": "What is a research methodology?",
+        "arabic": "ما هي منهجية البحث؟"
+    },
+    {
+        "english": "A research methodology outlines the procedures and techniques used in research.",
+        "arabic": "منهجية البحث تحدد الإجراءات والتقنيات المستخدمة في البحث."
+    },
+    {
+        "english": "What is data collection?",
+        "arabic": "ما هو جمع البيانات؟"
+    },
+    {
+        "english": "Data collection involves gathering information to address a research question.",
+        "arabic": "جمع البيانات يتضمن جمع المعلومات للإجابة على سؤال بحث."
+    },
+    {
+        "english": "What is a research hypothesis?",
+        "arabic": "ما هي فرضية البحث؟"
+    }
+]

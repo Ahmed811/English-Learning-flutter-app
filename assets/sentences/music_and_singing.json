@@ -1,0 +1,22 @@
+[
+    {"english": "I'm a musician.", "arabic": "أنا موسيقي."},
+    {"english": "I'm a singer.", "arabic": "أنا مغني."},
+    {"english": "I'm playing the guitar.", "arabic": "أعزف على الجيتار."},
+    {"english": "I'm writing a song.", "arabic": "أكتب أغنية."},
+    {"english": "I'm practicing the piano.", "arabic": "أتدرب على البيانو."},
+    {"english": "I'm recording a song.", "arabic": "أسجل أغنية."},
+    {"english": "I'm composing music.", "arabic": "أؤلف موسيقى."},
+    {"english": "I'm going to a concert.", "arabic": "أذهب إلى حفل موسيقي."},
+    {"english": "I'm singing in a choir.", "arabic": "أغني في جوقة."},
+    {"english": "I'm learning to play the drums.", "arabic": "أتعلم العزف على الطبول."},
+    {"english": "I'm producing a music album.", "arabic": "أنتج ألبوم موسيقي."},
+    {"english": "I'm mixing a song.", "arabic": "أمزج أغنية."},
+    {"english": "I'm mastering a song.", "arabic": "أتقن أغنية."},
+    {"english": "I'm reading sheet music.", "arabic": "أقرأ النوتة الموسيقية."},
+    {"english": "I'm tuning my instrument.", "arabic": "أضبط آلتي الموسيقية."},
+    {"english": "I'm playing a solo.", "arabic": "أعزف منفردًا."},
+    {"english": "I'm singing a duet.", "arabic": "أغني دويتو."},
+    {"english": "I'm attending a music festival.", "arabic": "أحضر مهرجانًا موسيقيًا."},
+    {"english": "I'm learning music theory.", "arabic": "أدرس النظرية الموسيقية."},
+    {"english": "I'm playing a cover song.", "arabic": "أعزف أغنية غلاف."}
+  ]

@@ -1,0 +1,42 @@
+[
+    {
+        "english": "I would like to open a bank account.",
+        "arabic": "أود فتح حساب بنكي."
+    },
+    {
+        "english": "What are the interest rates?",
+        "arabic": "ما هي أسعار الفائدة؟"
+    },
+    {
+        "english": "I need to transfer money.",
+        "arabic": "أحتاج إلى تحويل أموال."
+    },
+    {
+        "english": "What is the exchange rate?",
+        "arabic": "ما هو سعر الصرف؟"
+    },
+    {
+        "english": "I want to apply for a loan.",
+        "arabic": "أريد التقديم على قرض."
+    },
+    {
+        "english": "Can I get a credit card?",
+        "arabic": "هل يمكنني الحصول على بطاقة ائتمان؟"
+    },
+    {
+        "english": "What are the bank's fees?",
+        "arabic": "ما هي رسوم البنك؟"
+    },
+    {
+        "english": "I need to update my account information.",
+        "arabic": "أحتاج إلى تحديث معلومات حسابي."
+    },
+    {
+        "english": "How can I set up online banking?",
+        "arabic": "كيف يمكنني إعداد الخدمات المصرفية عبر الإنترنت؟"
+    },
+    {
+        "english": "Can I get a bank statement?",
+        "arabic": "هل يمكنني الحصول على كشف حساب بنكي؟"
+    }
+]

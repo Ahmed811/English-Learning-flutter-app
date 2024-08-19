@@ -1,0 +1,23 @@
+[
+    {"english": "I love math.", "arabic": "أحب الرياضيات."},
+    {"english": "Science is fascinating.", "arabic": "العلم أمر رائع."},
+    {"english": "I'm trying to solve this equation.", "arabic": "أحاول حل هذه المعادلة."},
+    {"english": "Can you explain the theory of relativity?", "arabic": "هل يمكنك شرح نظرية النسبية؟"},
+    {"english": "I'm conducting a science experiment.", "arabic": "أجري تجربة علمية."},
+    {"english": "I'm a scientist.", "arabic": "أنا عالم."},
+    {"english": "I'm a mathematician.", "arabic": "أنا رياضي."},
+    {"english": "I'm studying biology.", "arabic": "أدرس علم الأحياء."},
+    {"english": "I'm interested in astronomy.", "arabic": "أنا مهتم بعلم الفلك."},
+    {"english": "I'm learning about chemistry.", "arabic": "أتعلم الكيمياء."},
+    {"english": "I'm fascinated by physics.", "arabic": "أنا مفتون بالفيزياء."},
+    {"english": "I'm working on a math problem.", "arabic": "أعمل على مسألة رياضية."},
+    {"english": "I'm reading a science journal.", "arabic": "أقرأ مجلة علمية."},
+    {"english": "I'm attending a science conference.", "arabic": "أحضر مؤتمرًا علميًا."},
+    {"english": "I'm building a hypothesis.", "arabic": "أبني فرضية."},
+    {"english": "I'm analyzing data.", "arabic": "أحلل البيانات."},
+    {"english": "I'm creating a graph.", "arabic": "أرسم بيانياً."},
+    {"english": "I'm using a calculator.", "arabic": "أستخدم آلة حاسبة."},
+    {"english": "I'm solving a puzzle.", "arabic": "أحل لغزًا."},
+    {"english": "I'm learning about the human body.", "arabic": "أتعلم عن جسم الإنسان."}
+  ]
+  

@@ -1,0 +1,25 @@
+[
+    {"english": "Good morning!", "arabic": "صباح الخير!"},
+    {"english": "Good afternoon!", "arabic": "مساء الخير!"},
+    {"english": "Good evening!", "arabic": "مساء الخير!"},
+    {"english": "How are you?", "arabic": "كيف حالك؟"},
+    {"english": "I'm fine, thank you.", "arabic": "بخير، شكراً."},
+    {"english": "What are you doing?", "arabic": "ماذا تفعل؟"},
+    {"english": "I'm watching TV.", "arabic": "أشاهد التلفزيون."},
+    {"english": "I'm cooking dinner.", "arabic": "أطبخ العشاء."},
+    {"english": "I'm going to bed.", "arabic": "سأذهب للنوم."},
+    {"english": "Can you help me?", "arabic": "هل يمكنك مساعدتي؟"},
+    {"english": "Where is the kitchen?", "arabic": "أين المطبخ؟"},
+    {"english": "I'm hungry.", "arabic": "أنا جائع."},
+    {"english": "I'm thirsty.", "arabic": "أنا عطشان."},
+    {"english": "Can I have something to drink?", "arabic": "هل يمكنني الحصول على شيء لأشربه؟"},
+    {"english": "I don't feel well.", "arabic": "لا أشعر جيدًا."},
+    {"english": "Can you turn up the volume?", "arabic": "هل يمكنك رفع الصوت؟"},
+    {"english": "Can you turn down the lights?", "arabic": "هل يمكنك خفض الأضواء؟"},
+    {"english": "I'm tired.", "arabic": "أنا متعب."},
+    {"english": "I'm bored.", "arabic": "أنا أشعر بالملل."},
+    {"english": "Let's go for a walk.", "arabic": "لنذهب في نزهة."},
+    {"english": "I love this movie.", "arabic": "أحب هذا الفيلم."},
+    {"english": "What's for dinner?", "arabic": "ما العشاء؟"}
+  ]
+  

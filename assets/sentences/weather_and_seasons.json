@@ -1,0 +1,27 @@
+[
+    {"english": "What's the weather like today?", "arabic": "ما هو الطقس اليوم؟"},
+    {"english": "It's a beautiful day.", "arabic": "إنه يوم جميل."},
+    {"english": "It's raining.", "arabic": "إنه يمطر."},
+    {"english": "It's sunny.", "arabic": "إنه مشمس."},
+    {"english": "It's cloudy.", "arabic": "إنه غائم."},
+    {"english": "It's windy.", "arabic": "إنه عاصف."},
+    {"english": "It's snowing.", "arabic": "إنه يثلج."},
+    {"english": "It's foggy.", "arabic": "إنه ضبابي."},
+    {"english": "It's hot outside.", "arabic": "الجو حار بالخارج."},
+    {"english": "It's cold outside.", "arabic": "الجو بارد بالخارج."},
+    {"english": "What's the temperature?", "arabic": "ما هي درجة الحرارة؟"},
+    {"english": "I like warm weather.", "arabic": "أحب الطقس الدافئ."},
+    {"english": "I don't like cold weather.", "arabic": "لا أحب الطقس البارد."},
+    {"english": "It's my favorite season.", "arabic": "إنه فصلي المفضل."},
+    {"english": "What's your favorite season?", "arabic": "ما هو فصلك المفضل؟"},
+    {"english": "It's spring.", "arabic": "إنه الربيع."},
+    {"english": "It's summer.", "arabic": "إنه الصيف."},
+    {"english": "It's autumn.", "arabic": "إنه الخريف."},
+    {"english": "It's winter.", "arabic": "إنه الشتاء."},
+    {"english": "The leaves are changing color.", "arabic": "الأوراق تغير لونها."},
+    {"english": "It's a good day for a picnic.", "arabic": "إنه يوم جيد للنزهة."},
+    {"english": "I'm going to wear a coat.", "arabic": "سأرتدي معطفًا."},
+    {"english": "Let's go for a walk.", "arabic": "لنذهب في نزهة."},
+    {"english": "I'm feeling a bit under the weather.", "arabic": "أشعر بتوعك قليلًا."}
+  ]
+  

@@ -1,0 +1,218 @@
+[
+    {
+        "english": "What is mechanical engineering?",
+        "arabic": "ما هي الهندسة الميكانيكية؟"
+    },
+    {
+        "english": "Mechanical engineering involves the design, analysis, and manufacturing of mechanical systems.",
+        "arabic": "تشمل الهندسة الميكانيكية تصميم وتحليل وتصنيع الأنظمة الميكانيكية."
+    },
+    {
+        "english": "What are the fundamental principles of mechanical engineering?",
+        "arabic": "ما هي المبادئ الأساسية للهندسة الميكانيكية؟"
+    },
+    {
+        "english": "Fundamental principles include mechanics, thermodynamics, and materials science.",
+        "arabic": "تشمل المبادئ الأساسية الميكانيكا، والديناميكا الحرارية، وعلوم المواد."
+    },
+    {
+        "english": "What is thermodynamics?",
+        "arabic": "ما هي الديناميكا الحرارية؟"
+    },
+    {
+        "english": "Thermodynamics is the study of energy, heat, and work.",
+        "arabic": "الديناميكا الحرارية هي دراسة الطاقة والحرارة والعمل."
+    },
+    {
+        "english": "What is fluid mechanics?",
+        "arabic": "ما هي ميكانيكا الموائع؟"
+    },
+    {
+        "english": "Fluid mechanics is the study of fluids and the forces on them.",
+        "arabic": "ميكانيكا الموائع هي دراسة الموائع والقوى المؤثرة عليها."
+    },
+    {
+        "english": "What are the applications of mechanical engineering?",
+        "arabic": "ما هي تطبيقات الهندسة الميكانيكية؟"
+    },
+    {
+        "english": "Applications include automotive engineering, aerospace engineering, and robotics.",
+        "arabic": "تشمل التطبيقات الهندسة السيارات، والهندسة الفضائية، والروبوتات."
+    },
+    {
+        "english": "What is CAD software?",
+        "arabic": "ما هو برنامج التصميم بمساعدة الكمبيوتر (CAD)؟"
+    },
+    {
+        "english": "CAD software is used for creating precise drawings and technical illustrations.",
+        "arabic": "يُستخدم برنامج التصميم بمساعدة الكمبيوتر (CAD) لإنشاء رسومات دقيقة ورسوم فنية."
+    },
+    {
+        "english": "What is finite element analysis (FEA)?",
+        "arabic": "ما هو تحليل العناصر المحدودة (FEA)؟"
+    },
+    {
+        "english": "FEA is a computational method for predicting how structures behave under various conditions.",
+        "arabic": "تحليل العناصر المحدودة (FEA) هو طريقة حسابية للتنبؤ بكيفية تصرف الهياكل تحت ظروف مختلفة."
+    },
+    {
+        "english": "What is the role of a mechanical engineer?",
+        "arabic": "ما هو دور المهندس الميكانيكي؟"
+    },
+    {
+        "english": "A mechanical engineer designs, analyzes, and maintains mechanical systems.",
+        "arabic": "يصمم المهندس الميكانيكي ويحلل ويحافظ على الأنظمة الميكانيكية."
+    },
+    {
+        "english": "What is heat transfer?",
+        "arabic": "ما هو نقل الحرارة؟"
+    },
+    {
+        "english": "Heat transfer is the movement of heat from one place to another.",
+        "arabic": "نقل الحرارة هو انتقال الحرارة من مكان إلى آخر."
+    },
+    {
+        "english": "What is kinematics?",
+        "arabic": "ما هي الكينماتيكا؟"
+    },
+    {
+        "english": "Kinematics is the study of motion without considering its causes.",
+        "arabic": "الكينماتيكا هي دراسة الحركة دون النظر في أسبابها."
+    },
+    {
+        "english": "What are mechanical properties of materials?",
+        "arabic": "ما هي الخصائص الميكانيكية للمواد؟"
+    },
+    {
+        "english": "Mechanical properties include strength, ductility, hardness, and toughness.",
+        "arabic": "تشمل الخصائص الميكانيكية القوة، والليونة، والصلابة، والمتانة."
+    },
+    {
+        "english": "What is vibration analysis?",
+        "arabic": "ما هو تحليل الاهتزاز؟"
+    },
+    {
+        "english": "Vibration analysis is the study of oscillatory systems and their behavior.",
+        "arabic": "تحليل الاهتزاز هو دراسة الأنظمة التذبذبية وسلوكها."
+    },
+    {
+        "english": "What is a mechanical system?",
+        "arabic": "ما هو النظام الميكانيكي؟"
+    },
+    {
+        "english": "A mechanical system is a combination of interconnected components designed to achieve a specific function.",
+        "arabic": "النظام الميكانيكي هو مجموعة من المكونات المتصلة المصممة لتحقيق وظيفة معينة."
+    },
+    {
+        "english": "What is a gearbox?",
+        "arabic": "ما هو صندوق التروس؟"
+    },
+    {
+        "english": "A gearbox is a mechanical device used to increase torque and reduce speed.",
+        "arabic": "صندوق التروس هو جهاز ميكانيكي يستخدم لزيادة عزم الدوران وتقليل السرعة."
+    },
+    {
+        "english": "What is the importance of lubrication in mechanical systems?",
+        "arabic": "ما هي أهمية التشحيم في الأنظمة الميكانيكية؟"
+    },
+    {
+        "english": "Lubrication reduces friction and wear between moving parts.",
+        "arabic": "التشحيم يقلل من الاحتكاك والتآكل بين الأجزاء المتحركة."
+    },
+    {
+        "english": "What is mechatronics?",
+        "arabic": "ما هي الميكاترونيات؟"
+    },
+    {
+        "english": "Mechatronics is the integration of mechanical, electrical, and computer engineering.",
+        "arabic": "الميكاترونيات هي تكامل الهندسة الميكانيكية والكهربائية وهندسة الكمبيوتر."
+    },
+    {
+        "english": "What is a thermodynamic cycle?",
+        "arabic": "ما هي الدورة الديناميكية الحرارية؟"
+    },
+    {
+        "english": "A thermodynamic cycle is a series of processes that involve heat and work transfer.",
+        "arabic": "الدورة الديناميكية الحرارية هي سلسلة من العمليات التي تتضمن نقل الحرارة والعمل."
+    },
+    {
+        "english": "What is the purpose of a heat exchanger?",
+        "arabic": "ما هو الغرض من المبادلات الحرارية؟"
+    },
+    {
+        "english": "A heat exchanger transfers heat between two or more fluids.",
+        "arabic": "المبادلات الحرارية تنقل الحرارة بين سائلين أو أكثر."
+    },
+    {
+        "english": "What is stress analysis?",
+        "arabic": "ما هو تحليل الإجهاد؟"
+    },
+    {
+        "english": "Stress analysis determines the stresses and strains in materials and structures.",
+        "arabic": "يحدد تحليل الإجهاد الإجهادات والانفعالات في المواد والهياكل."
+    },
+    {
+        "english": "What is a hydraulic system?",
+        "arabic": "ما هو النظام الهيدروليكي؟"
+    },
+    {
+        "english": "A hydraulic system uses fluid power to perform work.",
+        "arabic": "يستخدم النظام الهيدروليكي الطاقة المائية لأداء العمل."
+    },
+    {
+        "english": "What is the significance of material selection in mechanical design?",
+        "arabic": "ما هي أهمية اختيار المواد في التصميم الميكانيكي؟"
+    },
+    {
+        "english": "Material selection is crucial for ensuring the strength, durability, and performance of a mechanical component.",
+        "arabic": "اختيار المواد ضروري لضمان قوة ومتانة وأداء المكون الميكانيكي."
+    },
+    {
+        "english": "What is the role of a mechanical engineer in the automotive industry?",
+        "arabic": "ما هو دور المهندس الميكانيكي في صناعة السيارات؟"
+    },
+    {
+        "english": "Mechanical engineers design and develop various systems and components in vehicles.",
+        "arabic": "يصمم المهندسون الميكانيكيون ويطورون أنظمة ومكونات مختلفة في المركبات."
+    },
+    {
+        "english": "What is additive manufacturing?",
+        "arabic": "ما هو التصنيع الإضافي؟"
+    },
+    {
+        "english": "Additive manufacturing, or 3D printing, builds objects layer by layer from digital models.",
+        "arabic": "التصنيع الإضافي، أو الطباعة ثلاثية الأبعاد، يبني الأجسام طبقة تلو الأخرى من نماذج رقمية."
+    },
+    {
+        "english": "What is the importance of quality control in mechanical engineering?",
+        "arabic": "ما هي أهمية مراقبة الجودة في الهندسة الميكانيكية؟"
+    },
+    {
+        "english": "Quality control ensures that mechanical products meet specified standards and perform reliably.",
+        "arabic": "تضمن مراقبة الجودة أن المنتجات الميكانيكية تلبي المعايير المحددة وتعمل بشكل موثوق."
+    },
+    {
+        "english": "What is fatigue analysis?",
+        "arabic": "ما هو تحليل الإجهاد؟"
+    },
+    {
+        "english": "Fatigue analysis assesses the durability of materials under repeated loading.",
+        "arabic": "يقيِّم تحليل الإجهاد متانة المواد تحت التحميل المتكرر."
+    },
+    {
+        "english": "What are the key considerations in mechanical design?",
+        "arabic": "ما هي الاعتبارات الرئيسية في التصميم الميكانيكي؟"
+    },
+    {
+        "english": "Key considerations include functionality, safety, cost, and manufacturability.",
+        "arabic": "تشمل الاعتبارات الرئيسية الوظيفة، والسلامة، والتكلفة، وإمكانية التصنيع."
+    },
+    {
+        "english": "What is the role of computational fluid dynamics (CFD) in mechanical engineering?",
+        "arabic": "ما هو دور ديناميكيات الموائع الحسابية (CFD) في الهندسة الميكانيكية؟"
+    },
+    {
+        "english": "CFD is used to simulate fluid flow and analyze the behavior of fluids in systems.",
+        "arabic": "تُستخدم ديناميكيات الموائع الحسابية (CFD) لمحاكاة تدفق السوائل وتحليل سلوك الموائع في الأنظمة."
+    }
+]

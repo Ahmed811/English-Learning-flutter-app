@@ -1,0 +1,18 @@
+[
+    {"english": "I love playing video games.", "arabic": "أحب لعب ألعاب الفيديو.", "image": "صورة لشخص يلعب لعبة فيديو على جهاز الكمبيوتر"},
+    {"english": "I'm a gamer.", "arabic": "أنا لاعب ألعاب فيديو.", "image": "صورة لشخص يرتدي سماعات الرأس ويحمل وحدة تحكم"},
+    {"english": "I'm playing an RPG.", "arabic": "ألعب لعبة تقمص أدوار.", "image": "صورة لشخصية في لعبة تقمص أدوار أمام خلفية خيالية"},
+    {"english": "I'm playing a first-person shooter.",  "arabic": "ألعب لعبة إطلاق نار من منظور الشخص الأول.", "image": "صورة لشخصية في لعبة إطلاق نار تحمل سلاحًا"},
+    {"english": "I'm playing a strategy game.",  "arabic": "ألعب لعبة استراتيجية.", "image": "صورة لخريطة لعبة استراتيجية مع وحدات عسكرية"},
+    {"english": "I'm playing a puzzle game.",  "arabic": "ألعب لعبة ألغاز.", "image": "صورة لشاشة لعبة ألغاز مع قطع متناثرة"},
+    {"english": "I'm playing an online game.",  "arabic": "ألعب لعبة عبر الإنترنت.", "image": "صورة لشخص يلعب لعبة مع أصدقاء عبر الإنترنت"},
+    {"english": "I'm streaming my gameplay.",  "arabic": "أبث لعبتي مباشرة.", "image": "صورة لشخص يجلس أمام كاميرا بث مباشر وهو يلعب لعبة"},
+    {"english": "I'm collecting gaming consoles.",  "arabic": "أجمع أجهزة ألعاب الفيديو.", "image": "صورة لعرض لأجهزة ألعاب فيديو مختلفة"},
+    {"english": "I'm attending a gaming convention.",  "arabic": "أحضر مؤتمر ألعاب فيديو.", "image": "صورة لجمهور كبير في مؤتمر ألعاب فيديو"},
+    {"english": "I'm designing my own game.",  "arabic": "أصمم لعبتي الخاصة.", "image": "صورة لشخص يعمل على تصميم لعبة فيديو على جهاز الكمبيوتر"},
+    {"english": "I'm cosplaying as my favorite game character.",  "arabic": "أرتدي زي شخصيتي المفضلة في اللعبة.", "image": "صورة لشخص يرتدي زي شخصية لعبة فيديو في مؤتمر"},
+    {"english": "I'm part of a gaming clan.",  "arabic": "أنا عضو في عشيرة ألعاب.", "image": "صورة لمجموعة من اللاعبين يجلسون معًا ويلعبون لعبة"},
+    {"english": "I'm addicted to gaming.",  "arabic": "أنا مدمن ألعاب فيديو.", "image": "صورة رمزية لوجه حزين مع وحدة تحكم"},
+    {"english": "I'm taking a break from gaming.",  "arabic": "آخذ استراحة من لعب الألعاب.", "image": "صورة لشخص يضع وحدة التحكم جانبًا ويقرأ كتابًا"},
+    {"english": "I'm excited about the new gaming releases.",  "arabic": "أنا متحمس للإصدارات الجديدة من الألعاب.", "image": "صورة لبوستر لعبة فيديو جديدة"}
+  ]

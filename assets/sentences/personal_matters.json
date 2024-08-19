@@ -1,0 +1,23 @@
+[
+    {"english": "How are you?", "arabic": "كيف حالك؟"},
+    {"english": "I'm doing well, thank you.", "arabic": "بخير، شكراً لك."},
+    {"english": "What are your plans for the weekend?", "arabic": "ما هي خططك لعطلة نهاية الأسبوع؟"},
+    {"english": "I'm going to the movies.", "arabic": "سأذهب إلى السينما."},
+    {"english": "I'm feeling a bit stressed.", "arabic": "أشعر ببعض التوتر."},
+    {"english": "Can you keep a secret?", "arabic": "هل يمكنك حفظ سر؟"},
+    {"english": "I have a lot on my mind.", "arabic": "هناك الكثير يدور في ذهني."},
+    {"english": "I'm tired.", "arabic": "أنا متعب."},
+    {"english": "I'm hungry.", "arabic": "أنا جائع."},
+    {"english": "I'm happy.", "arabic": "أنا سعيد."},
+    {"english": "I'm sad.", "arabic": "أنا حزين."},
+    {"english": "I'm angry.", "arabic": "أنا غاضب."},
+    {"english": "I love my family.", "arabic": "أحب عائلتي."},
+    {"english": "I have a pet.", "arabic": "لدي حيوان أليف."},
+    {"english": "I'm a student.", "arabic": "أنا طالب."},
+    {"english": "I'm working as an engineer.", "arabic": "أنا أعمل مهندسًا."},
+    {"english": "I'm looking for a new job.", "arabic": "أبحث عن وظيفة جديدة."},
+    {"english": "I like to travel.", "arabic": "أحب السفر."},
+    {"english": "I'm learning a new language.", "arabic": "أنا أتعلم لغة جديدة."},
+    {"english": "I'm reading a good book.", "arabic": "أنا أقرأ كتابًا جيدًا."}
+  ]
+  

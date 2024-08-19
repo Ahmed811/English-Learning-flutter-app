@@ -1,0 +1,210 @@
+[
+    {
+        "english": "What is e-commerce?",
+        "arabic": "ما هي التجارة الإلكترونية؟"
+    },
+    {
+        "english": "E-commerce refers to the buying and selling of goods or services using the internet.",
+        "arabic": "تشير التجارة الإلكترونية إلى شراء وبيع السلع أو الخدمات باستخدام الإنترنت."
+    },
+    {
+        "english": "How do you create an online store?",
+        "arabic": "كيف تنشئ متجرًا عبر الإنترنت؟"
+    },
+    {
+        "english": "What are the benefits of e-commerce?",
+        "arabic": "ما هي فوائد التجارة الإلكترونية؟"
+    },
+    {
+        "english": "E-commerce allows businesses to reach a global audience.",
+        "arabic": "تتيح التجارة الإلكترونية للشركات الوصول إلى جمهور عالمي."
+    },
+    {
+        "english": "What is a payment gateway?",
+        "arabic": "ما هي بوابة الدفع؟"
+    },
+    {
+        "english": "A payment gateway processes online payments for e-commerce transactions.",
+        "arabic": "تعالج بوابة الدفع المدفوعات عبر الإنترنت للمعاملات التجارية الإلكترونية."
+    },
+    {
+        "english": "How do you ensure the security of an online transaction?",
+        "arabic": "كيف تضمن أمان المعاملة عبر الإنترنت؟"
+    },
+    {
+        "english": "What is a shopping cart in e-commerce?",
+        "arabic": "ما هي عربة التسوق في التجارة الإلكترونية؟"
+    },
+    {
+        "english": "A shopping cart allows customers to select and store items before purchasing.",
+        "arabic": "تتيح عربة التسوق للعملاء اختيار وتخزين العناصر قبل الشراء."
+    },
+    {
+        "english": "What are the different types of e-commerce models?",
+        "arabic": "ما هي الأنواع المختلفة لنماذج التجارة الإلكترونية؟"
+    },
+    {
+        "english": "The main types of e-commerce models are B2B, B2C, C2C, and C2B.",
+        "arabic": "الأنواع الرئيسية لنماذج التجارة الإلكترونية هي B2B، B2C، C2C، وC2B."
+    },
+    {
+        "english": "How do you market an online store?",
+        "arabic": "كيف تسوق لمتجر عبر الإنترنت؟"
+    },
+    {
+        "english": "What is search engine optimization (SEO) in e-commerce?",
+        "arabic": "ما هو تحسين محركات البحث (SEO) في التجارة الإلكترونية؟"
+    },
+    {
+        "english": "SEO helps improve the visibility of an online store in search engine results.",
+        "arabic": "يساعد تحسين محركات البحث على تحسين رؤية المتجر عبر الإنترنت في نتائج محركات البحث."
+    },
+    {
+        "english": "What is the role of social media in e-commerce?",
+        "arabic": "ما هو دور وسائل التواصل الاجتماعي في التجارة الإلكترونية؟"
+    },
+    {
+        "english": "Social media can drive traffic to an online store and increase sales.",
+        "arabic": "يمكن لوسائل التواصل الاجتماعي أن تجذب حركة المرور إلى المتجر عبر الإنترنت وتزيد المبيعات."
+    },
+    {
+        "english": "How do you handle customer service in e-commerce?",
+        "arabic": "كيف تتعامل مع خدمة العملاء في التجارة الإلكترونية؟"
+    },
+    {
+        "english": "What is the importance of product reviews in e-commerce?",
+        "arabic": "ما هي أهمية مراجعات المنتجات في التجارة الإلكترونية؟"
+    },
+    {
+        "english": "Product reviews can influence the purchasing decisions of potential customers.",
+        "arabic": "يمكن لمراجعات المنتجات أن تؤثر على قرارات الشراء للعملاء المحتملين."
+    },
+    {
+        "english": "What is dropshipping?",
+        "arabic": "ما هو الدروبشيبينغ؟"
+    },
+    {
+        "english": "Dropshipping is a retail fulfillment method where the store doesn't keep the products it sells in stock.",
+        "arabic": "الدروبشيبينغ هو طريقة لتلبية الطلبات حيث لا يحتفظ المتجر بالمنتجات التي يبيعها في المخزون."
+    },
+    {
+        "english": "How do you optimize the checkout process in an online store?",
+        "arabic": "كيف تحسن عملية الدفع في متجر عبر الإنترنت؟"
+    },
+    {
+        "english": "What is the role of mobile commerce in e-commerce?",
+        "arabic": "ما هو دور التجارة عبر الهاتف المحمول في التجارة الإلكترونية؟"
+    },
+    {
+        "english": "Mobile commerce allows customers to shop using their mobile devices.",
+        "arabic": "تتيح التجارة عبر الهاتف المحمول للعملاء التسوق باستخدام أجهزتهم المحمولة."
+    },
+    {
+        "english": "What are the challenges of e-commerce?",
+        "arabic": "ما هي تحديات التجارة الإلكترونية؟"
+    },
+    {
+        "english": "Challenges include competition, security concerns, and logistical issues.",
+        "arabic": "تشمل التحديات المنافسة، ومخاوف الأمان، والقضايا اللوجستية."
+    },
+    {
+        "english": "How do you retain customers in e-commerce?",
+        "arabic": "كيف تحتفظ بالعملاء في التجارة الإلكترونية؟"
+    },
+    {
+        "english": "What is the importance of user experience (UX) in an online store?",
+        "arabic": "ما هي أهمية تجربة المستخدم (UX) في متجر عبر الإنترنت؟"
+    },
+    {
+        "english": "A good user experience can increase customer satisfaction and sales.",
+        "arabic": "يمكن أن تزيد تجربة المستخدم الجيدة من رضا العملاء والمبيعات."
+    },
+    {
+        "english": "What is affiliate marketing in e-commerce?",
+        "arabic": "ما هو التسويق بالعمولة في التجارة الإلكترونية؟"
+    },
+    {
+        "english": "Affiliate marketing involves earning commissions by promoting other people's products.",
+        "arabic": "يتضمن التسويق بالعمولة كسب عمولات من خلال الترويج لمنتجات الآخرين."
+    },
+    {
+        "english": "How do you manage inventory in e-commerce?",
+        "arabic": "كيف تدير المخزون في التجارة الإلكترونية؟"
+    },
+    {
+        "english": "What is the role of email marketing in e-commerce?",
+        "arabic": "ما هو دور التسويق عبر البريد الإلكتروني في التجارة الإلكترونية؟"
+    },
+    {
+        "english": "Email marketing can help build relationships with customers and drive sales.",
+        "arabic": "يمكن أن يساعد التسويق عبر البريد الإلكتروني في بناء علاقات مع العملاء وزيادة المبيعات."
+    },
+    {
+        "english": "How do you analyze e-commerce performance?",
+        "arabic": "كيف تحلل أداء التجارة الإلكترونية؟"
+    },
+    {
+        "english": "What are the trends in e-commerce?",
+        "arabic": "ما هي الاتجاهات في التجارة الإلكترونية؟"
+    },
+    {
+        "english": "Trends include mobile commerce, personalized shopping experiences, and artificial intelligence.",
+        "arabic": "تشمل الاتجاهات التجارة عبر الهاتف المحمول، وتجارب التسوق المخصصة، والذكاء الاصطناعي."
+    },
+    {
+        "english": "How do you handle returns and refunds in e-commerce?",
+        "arabic": "كيف تتعامل مع المرتجعات والمبالغ المستردة في التجارة الإلكترونية؟"
+    },
+    {
+        "english": "What is the importance of logistics in e-commerce?",
+        "arabic": "ما هي أهمية اللوجستيات في التجارة الإلكترونية؟"
+    },
+    {
+        "english": "Efficient logistics are crucial for timely delivery and customer satisfaction.",
+        "arabic": "اللوجستيات الفعالة ضرورية للتسليم في الوقت المناسب ورضا العملاء."
+    },
+    {
+        "english": "What is omnichannel retailing?",
+        "arabic": "ما هو البيع بالتجزئة عبر القنوات المتعددة؟"
+    },
+    {
+        "english": "Omnichannel retailing integrates various shopping methods, such as online and in-store.",
+        "arabic": "يعمل البيع بالتجزئة عبر القنوات المتعددة على دمج طرق التسوق المختلفة، مثل الإنترنت والمتاجر."
+    },
+    {
+        "english": "How do you choose the right e-commerce platform?",
+        "arabic": "كيف تختار منصة التجارة الإلكترونية المناسبة؟"
+    },
+    {
+        "english": "What is the role of customer feedback in e-commerce?",
+        "arabic": "ما هو دور ملاحظات العملاء في التجارة الإلكترونية؟"
+    },
+    {
+        "english": "Customer feedback helps improve products and services.",
+        "arabic": "تساعد ملاحظات العملاء في تحسين المنتجات والخدمات."
+    },
+    {
+        "english": "How do you build trust with customers in e-commerce?",
+        "arabic": "كيف تبني الثقة مع العملاء في التجارة الإلكترونية؟"
+    },
+    {
+        "english": "What is a digital wallet?",
+        "arabic": "ما هي المحفظة الرقمية؟"
+    },
+    {
+        "english": "A digital wallet allows users to make electronic transactions securely.",
+        "arabic": "تتيح المحفظة الرقمية للمستخدمين إجراء المعاملات الإلكترونية بأمان."
+    },
+    {
+        "english": "How do you handle international shipping in e-commerce?",
+        "arabic": "كيف تتعامل مع الشحن الدولي في التجارة الإلكترونية؟"
+    },
+    {
+        "english": "What is the impact of e-commerce on traditional retail?",
+        "arabic": "ما هو تأثير التجارة الإلكترونية على البيع بالتجزئة التقليدي؟"
+    },
+    {
+        "english": "E-commerce has significantly changed consumer buying behavior.",
+        "arabic": "لقد غيرت التجارة الإلكترونية بشكل كبير سلوك شراء المستهلكين."
+    }
+]

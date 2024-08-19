@@ -1,0 +1,22 @@
+[
+    {"english": "I'm writing code in Python.", "arabic": "أكتب كود في بايثون."},
+    {"english": "I'm debugging my code.", "arabic": "أقوم بتصحيح أخطاء كودي."},
+    {"english": "The code is compiling.", "arabic": "الرمز قيد التجميع."},
+    {"english": "There's a bug in the code.", "arabic": "هناك خطأ في الكود."},
+    {"english": "I'm working on a web application.", "arabic": "أعمل على تطبيق ويب."},
+    {"english": "I'm using a framework.", "arabic": "أستخدم إطار عمل."},
+    {"english": "I'm creating a database.", "arabic": "أقوم بإنشاء قاعدة بيانات."},
+    {"english": "I'm designing a user interface.", "arabic": "أقوم بتصميم واجهة مستخدم."},
+    {"english": "I'm writing an algorithm.", "arabic": "أكتب خوارزمية."},
+    {"english": "The code is efficient.", "arabic": "الرمز فعال."},
+    {"english": "The code is scalable.", "arabic": "الرمز قابل للتوسع."},
+    {"english": "I'm using version control.", "arabic": "أستخدم نظام مراقبة الإصدارات."},
+    {"english": "I'm working on a machine learning project.", "arabic": "أعمل على مشروع تعلم آلي."},
+    {"english": "I'm using a cloud platform.", "arabic": "أستخدم منصة سحابية."},
+    {"english": "I'm writing unit tests.", "arabic": "أكتب اختبارات وحدة."},
+    {"english": "I'm following a coding standard.", "arabic": "أتبع معيار ترميز."},
+    {"english": "I'm using an IDE.", "arabic": "أستخدم بيئة تطوير متكاملة."},
+    {"english": "I'm writing a function.", "arabic": "أكتب دالة."},
+    {"english": "I'm creating a class.", "arabic": "أقوم بإنشاء فئة."},
+    {"english": "I'm using a library.", "arabic": "أستخدم مكتبة."}
+  ]

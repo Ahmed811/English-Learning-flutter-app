@@ -1,0 +1,194 @@
+[
+    {
+        "english": "What is artificial intelligence (AI)?",
+        "arabic": "ما هو الذكاء الاصطناعي؟"
+    },
+    {
+        "english": "Machine learning is a subset of AI.",
+        "arabic": "تعلّم الآلة هو فرع من الذكاء الاصطناعي."
+    },
+    {
+        "english": "What are neural networks?",
+        "arabic": "ما هي الشبكات العصبية؟"
+    },
+    {
+        "english": "Deep learning involves training large neural networks.",
+        "arabic": "التعلم العميق يتضمن تدريب شبكات عصبية كبيرة."
+    },
+    {
+        "english": "What is the difference between supervised and unsupervised learning?",
+        "arabic": "ما هو الفرق بين التعلم المُشرف والتعلم غير المُشرف؟"
+    },
+    {
+        "english": "AI can be used to automate tasks.",
+        "arabic": "يمكن استخدام الذكاء الاصطناعي لأتمتة المهام."
+    },
+    {
+        "english": "What is reinforcement learning?",
+        "arabic": "ما هو التعلم بالتعزيز؟"
+    },
+    {
+        "english": "How do you train a machine learning model?",
+        "arabic": "كيف تقوم بتدريب نموذج تعلم الآلة؟"
+    },
+    {
+        "english": "What are the applications of AI in healthcare?",
+        "arabic": "ما هي تطبيقات الذكاء الاصطناعي في الرعاية الصحية؟"
+    },
+    {
+        "english": "Natural language processing (NLP) is a field of AI.",
+        "arabic": "معالجة اللغة الطبيعية هو مجال من مجالات الذكاء الاصطناعي."
+    },
+    {
+        "english": "What is the role of data in machine learning?",
+        "arabic": "ما هو دور البيانات في تعلم الآلة؟"
+    },
+    {
+        "english": "AI can improve the accuracy of medical diagnoses.",
+        "arabic": "يمكن للذكاء الاصطناعي تحسين دقة التشخيصات الطبية."
+    },
+    {
+        "english": "What is a convolutional neural network (CNN)?",
+        "arabic": "ما هي الشبكة العصبية التلافيفية؟"
+    },
+    {
+        "english": "How does AI impact the finance industry?",
+        "arabic": "كيف يؤثر الذكاء الاصطناعي على صناعة التمويل؟"
+    },
+    {
+        "english": "What are the ethical considerations in AI?",
+        "arabic": "ما هي الاعتبارات الأخلاقية في الذكاء الاصطناعي؟"
+    },
+    {
+        "english": "AI can help predict customer behavior.",
+        "arabic": "يمكن للذكاء الاصطناعي المساعدة في توقع سلوك العملاء."
+    },
+    {
+        "english": "What is overfitting in machine learning?",
+        "arabic": "ما هو الإفراط في التوفيق في تعلم الآلة؟"
+    },
+    {
+        "english": "How do you evaluate the performance of an AI model?",
+        "arabic": "كيف تقوم بتقييم أداء نموذج الذكاء الاصطناعي؟"
+    },
+    {
+        "english": "AI systems can learn from large datasets.",
+        "arabic": "يمكن لأنظمة الذكاء الاصطناعي التعلم من مجموعات بيانات كبيرة."
+    },
+    {
+        "english": "What is the significance of big data in AI?",
+        "arabic": "ما هي أهمية البيانات الضخمة في الذكاء الاصطناعي؟"
+    },
+    {
+        "english": "How does AI enhance cybersecurity?",
+        "arabic": "كيف يعزز الذكاء الاصطناعي الأمن السيبراني؟"
+    },
+    {
+        "english": "What is the Turing Test?",
+        "arabic": "ما هو اختبار تورينج؟"
+    },
+    {
+        "english": "AI can be used in autonomous vehicles.",
+        "arabic": "يمكن استخدام الذكاء الاصطناعي في المركبات ذاتية القيادة."
+    },
+    {
+        "english": "What is the role of AI in smart homes?",
+        "arabic": "ما هو دور الذكاء الاصطناعي في المنازل الذكية؟"
+    },
+    {
+        "english": "What are the challenges of implementing AI?",
+        "arabic": "ما هي تحديات تنفيذ الذكاء الاصطناعي؟"
+    },
+    {
+        "english": "AI algorithms can optimize supply chains.",
+        "arabic": "يمكن لخوارزميات الذكاء الاصطناعي تحسين سلاسل التوريد."
+    },
+    {
+        "english": "What is the future of AI?",
+        "arabic": "ما هو مستقبل الذكاء الاصطناعي؟"
+    },
+    {
+        "english": "How does AI impact job markets?",
+        "arabic": "كيف يؤثر الذكاء الاصطناعي على أسواق العمل؟"
+    },
+    {
+        "english": "What is a generative adversarial network (GAN)?",
+        "arabic": "ما هي الشبكة التوليدية المتعارضة؟"
+    },
+    {
+        "english": "How can AI improve customer service?",
+        "arabic": "كيف يمكن للذكاء الاصطناعي تحسين خدمة العملاء؟"
+    },
+    {
+        "english": "What is the importance of data preprocessing in machine learning?",
+        "arabic": "ما هي أهمية معالجة البيانات المسبقة في تعلم الآلة؟"
+    },
+    {
+        "english": "AI can help detect fraud.",
+        "arabic": "يمكن للذكاء الاصطناعي المساعدة في كشف الاحتيال."
+    },
+    {
+        "english": "What is transfer learning?",
+        "arabic": "ما هو التعلم بالنقل؟"
+    },
+    {
+        "english": "How does AI impact the retail industry?",
+        "arabic": "كيف يؤثر الذكاء الاصطناعي على صناعة البيع بالتجزئة؟"
+    },
+    {
+        "english": "What is the role of an AI engineer?",
+        "arabic": "ما هو دور مهندس الذكاء الاصطناعي؟"
+    },
+    {
+        "english": "What are the limitations of AI?",
+        "arabic": "ما هي حدود الذكاء الاصطناعي؟"
+    },
+    {
+        "english": "How do you handle missing data in machine learning?",
+        "arabic": "كيف تتعامل مع البيانات المفقودة في تعلم الآلة؟"
+    },
+    {
+        "english": "What is the impact of AI on education?",
+        "arabic": "ما هو تأثير الذكاء الاصطناعي على التعليم؟"
+    },
+    {
+        "english": "What is the significance of feature engineering?",
+        "arabic": "ما هي أهمية هندسة الميزات؟"
+    },
+    {
+        "english": "How do AI algorithms recognize patterns?",
+        "arabic": "كيف تتعرف خوارزميات الذكاء الاصطناعي على الأنماط؟"
+    },
+    {
+        "english": "What is the importance of model interpretability in AI?",
+        "arabic": "ما هي أهمية تفسير النموذج في الذكاء الاصطناعي؟"
+    },
+    {
+        "english": "How does AI impact the healthcare industry?",
+        "arabic": "كيف يؤثر الذكاء الاصطناعي على صناعة الرعاية الصحية؟"
+    },
+    {
+        "english": "What is the role of ethics in AI development?",
+        "arabic": "ما هو دور الأخلاقيات في تطوير الذكاء الاصطناعي؟"
+    },
+    {
+        "english": "AI can help personalize learning experiences.",
+        "arabic": "يمكن للذكاء الاصطناعي المساعدة في تخصيص تجارب التعلم."
+    },
+    {
+        "english": "What is the significance of data augmentation in machine learning?",
+        "arabic": "ما هي أهمية تعزيز البيانات في تعلم الآلة؟"
+    },
+    {
+        "english": "How does AI impact decision making?",
+        "arabic": "كيف يؤثر الذكاء الاصطناعي على اتخاذ القرار؟"
+    },
+    {
+        "english": "What is the role of a data scientist in AI projects?",
+        "arabic": "ما هو دور عالم البيانات في مشاريع الذكاء الاصطناعي؟"
+    },
+    {
+        "english": "What are the benefits of using AI in agriculture?",
+        "arabic": "ما هي فوائد استخدام الذكاء الاصطناعي في الزراعة؟"
+    }
+]
