@@ -123,7 +123,7 @@ Widget buildScrollingView(Axis axis, ScrollController controller) {
             screen: MultipletestsPage(),
           ),
           const CustomButton(
-            buttonTitle: "اعدادات التطبيق",
+            buttonTitle: "حول التطبيق",
             iconName: "setting.json",
             screen: SettingPage(),
           ),

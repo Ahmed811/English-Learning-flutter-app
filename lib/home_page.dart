@@ -130,7 +130,7 @@ class HomePage extends StatelessWidget {
                             screen: MultipletestsPage(),
                           ),
                           CustomButton(
-                            buttonTitle: "اعدادات التطبيق",
+                            buttonTitle: "حول التطبيق",
                             iconName: "setting.json",
                             screen: SettingPage(),
                           ),
